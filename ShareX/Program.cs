@@ -297,10 +297,7 @@ namespace ShareX
                 {
                     singleInstanceManager.ArgumentsReceived += SingleInstanceManager_ArgumentsReceived;
 
-                    using (TimerResolutionManager timerResolutionManager = new TimerResolutionManager())
-                    {
-                        Run();
-                    }
+                    Run();
 
                     if (restartRequested)
                     {
