@@ -20,6 +20,7 @@ Consider making a post on the [ShareX Subreddit](https://www.reddit.com/r/sharex
   <a href="./LICENSE.txt"><img src="https://img.shields.io/github/license/Gameknight963/ShareX-NoVibecodedUi?label=License&color=brightgreen&cacheSeconds=3600" alt="License"/></a>
   <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases/latest"><img src="https://img.shields.io/github/v/release/Gameknight963/ShareX-NoVibecodedUi?label=Release&color=brightgreen&cacheSeconds=3600" alt="Release"/></a>
   <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases"><img src="https://img.shields.io/github/downloads/Gameknight963/ShareX-NoVibecodedUi/total?label=Downloads&cacheSeconds=3600" alt="Downloads"/></a>
+  <a href="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple"><img src="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple" alt="GitHub Repo Views"></a>
 </div>
 <br>
 <p align="center"><a href="https://getsharex.com"><img src="https://getsharex.com/img/ShareX_Screenshot.png" alt="ShareX Screenshot"/></a></p>
