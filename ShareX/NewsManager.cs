@@ -34,6 +34,7 @@ using System.Threading.Tasks;
 
 namespace ShareX
 {
+    [Obsolete("Won't work, news is not hosted. Should be removed anyway.")]
     public class NewsManager
     {
         public List<NewsItem> NewsItems { get; private set; } = new List<NewsItem>();
@@ -41,16 +42,18 @@ namespace ShareX
         public bool IsUnread => UnreadCount > 0;
         public int UnreadCount => NewsItems != null ? NewsItems.Count(x => x.IsUnread) : 0;
 
+        [Obsolete("Won't work, news is not hosted. Returns CompletedTask")]
         public async Task UpdateNews()
         {
-            try
-            {
-                NewsItems = await GetNews();
-            }
-            catch (Exception e)
-            {
-                DebugHelper.WriteException(e);
-            }
+            return;
+            //try
+            //{
+            //    NewsItems = await GetNews();
+            //}
+            //catch (Exception e)
+            //{
+            //    DebugHelper.WriteException(e);
+            //}
         }
 
         public void UpdateUnread()
