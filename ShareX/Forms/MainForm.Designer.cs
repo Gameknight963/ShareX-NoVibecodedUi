@@ -983,22 +983,22 @@
             // 
             // tsbDonate
             // 
-            tsbDonate.Image = Properties.Resources.heart;
             resources.ApplyResources(tsbDonate, "tsbDonate");
+            tsbDonate.Image = Properties.Resources.heart;
             tsbDonate.Name = "tsbDonate";
             tsbDonate.Click += tsbDonate_Click;
             // 
             // tsbX
             // 
-            tsbX.Image = Properties.Resources.X_black;
             resources.ApplyResources(tsbX, "tsbX");
+            tsbX.Image = Properties.Resources.X_black;
             tsbX.Name = "tsbX";
             tsbX.Click += tsbX_Click;
             // 
             // tsbDiscord
             // 
-            tsbDiscord.Image = Properties.Resources.Discord_black;
             resources.ApplyResources(tsbDiscord, "tsbDiscord");
+            tsbDiscord.Image = Properties.Resources.Discord_black;
             tsbDiscord.Name = "tsbDiscord";
             tsbDiscord.Click += tsbDiscord_Click;
             // 
@@ -2059,9 +2059,9 @@
             // 
             // cHotkeyStatus
             // 
-            resources.ApplyResources(cHotkeyStatus, "cHotkeyStatus");
             cHotkeyStatus.Name = "cHotkeyStatus";
             cHotkeyStatus.ReadOnly = true;
+            resources.ApplyResources(cHotkeyStatus, "cHotkeyStatus");
             // 
             // cHotkey
             // 

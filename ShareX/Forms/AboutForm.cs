@@ -65,64 +65,53 @@ namespace ShareX
 #endif
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Links, FontStyle.Bold, 13);
-            rtbInfo.AppendLine($@"{Resources.AboutForm_AboutForm_Website}: {Links.Website}
-{Resources.AboutForm_AboutForm_Project_page}: {Links.GitHub}
-{Resources.AboutForm_AboutForm_Changelog}: {Links.Changelog}
-{Resources.AboutForm_AboutForm_Privacy_policy}: {Links.PrivacyPolicy}
-{Resources.AboutForm_AboutForm_Donate}: {Links.Donate}
-X: {Links.X}
-Discord: {Links.Discord}
-Reddit: {Links.Reddit}
-Steam: {Links.Steam}
-Microsoft Store: {Links.MicrosoftStore}
-", FontStyle.Regular);
-
-            rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Team, FontStyle.Bold, 13);
-            rtbInfo.AppendLine($@"Jaex: {Links.Jaex}
-McoreD: {Links.McoreD}
-", FontStyle.Regular);
+            rtbInfo.AppendLine($@"
+            {Resources.AboutForm_AboutForm_Website}: {Links.Website}
+            {Resources.AboutForm_AboutForm_Project_page}: {Links.GitHub}
+            ", FontStyle.Regular);
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Translators, FontStyle.Bold, 13);
             rtbInfo.AppendLine($@"{Resources.AboutForm_AboutForm_Language_tr}: https://github.com/Jaex
-{Resources.AboutForm_AboutForm_Language_de}: https://github.com/Starbug2 & https://github.com/Kaeltis
-{Resources.AboutForm_AboutForm_Language_fr}: https://github.com/nwies & https://github.com/Shadorc
-{Resources.AboutForm_AboutForm_Language_zh_CH}: https://github.com/jiajiechan
-{Resources.AboutForm_AboutForm_Language_hu}: https://github.com/devBluestar
-{Resources.AboutForm_AboutForm_Language_ko_KR}: https://github.com/123jimin
-{Resources.AboutForm_AboutForm_Language_es}: https://github.com/ovnisoftware
-{Resources.AboutForm_AboutForm_Language_nl_NL}: https://github.com/canihavesomecoffee
-{Resources.AboutForm_AboutForm_Language_pt_BR}: https://github.com/RockyTV & https://github.com/athosbr99
-{Resources.AboutForm_AboutForm_Language_vi_VN}: https://github.com/thanhpd
-{Resources.AboutForm_AboutForm_Language_ru}: https://github.com/L1Q
-{Resources.AboutForm_AboutForm_Language_zh_TW}: https://github.com/alantsai
-{Resources.AboutForm_AboutForm_Language_it_IT}: https://github.com/pjammo
-{Resources.AboutForm_AboutForm_Language_uk}: https://github.com/6c6c6
-{Resources.AboutForm_AboutForm_Language_id_ID}: https://github.com/Nicedward
-{Resources.AboutForm_AboutForm_Language_es_MX}: https://github.com/absay
-{Resources.AboutForm_AboutForm_Language_fa_IR}: https://github.com/pourmand1376
-{Resources.AboutForm_AboutForm_Language_pt_PT}: https://github.com/FarewellAngelina
-{Resources.AboutForm_AboutForm_Language_ja_JP}: https://github.com/kanaxx
-{Resources.AboutForm_AboutForm_Language_ro}: https://github.com/Edward205
-{Resources.AboutForm_AboutForm_Language_pl}: https://github.com/RikoDEV
-{Resources.AboutForm_AboutForm_Language_he_IL}: https://github.com/erelado
-{Resources.AboutForm_AboutForm_Language_ar_YE}: https://github.com/OthmanAliModaes
-", FontStyle.Regular);
+                {Resources.AboutForm_AboutForm_Language_de}: https://github.com/Starbug2 & https://github.com/Kaeltis
+                {Resources.AboutForm_AboutForm_Language_fr}: https://github.com/nwies & https://github.com/Shadorc
+                {Resources.AboutForm_AboutForm_Language_zh_CH}: https://github.com/jiajiechan
+                {Resources.AboutForm_AboutForm_Language_hu}: https://github.com/devBluestar
+                {Resources.AboutForm_AboutForm_Language_ko_KR}: https://github.com/123jimin
+                {Resources.AboutForm_AboutForm_Language_es}: https://github.com/ovnisoftware
+                {Resources.AboutForm_AboutForm_Language_nl_NL}: https://github.com/canihavesomecoffee
+                {Resources.AboutForm_AboutForm_Language_pt_BR}: https://github.com/RockyTV & https://github.com/athosbr99
+                {Resources.AboutForm_AboutForm_Language_vi_VN}: https://github.com/thanhpd
+                {Resources.AboutForm_AboutForm_Language_ru}: https://github.com/L1Q
+                {Resources.AboutForm_AboutForm_Language_zh_TW}: https://github.com/alantsai
+                {Resources.AboutForm_AboutForm_Language_it_IT}: https://github.com/pjammo
+                {Resources.AboutForm_AboutForm_Language_uk}: https://github.com/6c6c6
+                {Resources.AboutForm_AboutForm_Language_id_ID}: https://github.com/Nicedward
+                {Resources.AboutForm_AboutForm_Language_es_MX}: https://github.com/absay
+                {Resources.AboutForm_AboutForm_Language_fa_IR}: https://github.com/pourmand1376
+                {Resources.AboutForm_AboutForm_Language_pt_PT}: https://github.com/FarewellAngelina
+                {Resources.AboutForm_AboutForm_Language_ja_JP}: https://github.com/kanaxx
+                {Resources.AboutForm_AboutForm_Language_ro}: https://github.com/Edward205
+                {Resources.AboutForm_AboutForm_Language_pl}: https://github.com/RikoDEV
+                {Resources.AboutForm_AboutForm_Language_he_IL}: https://github.com/erelado
+                {Resources.AboutForm_AboutForm_Language_ar_YE}: https://github.com/OthmanAliModaes
+                ", FontStyle.Regular);
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Credits, FontStyle.Bold, 13);
             rtbInfo.AppendLine(@"Avalonia UI: https://avaloniaui.net
-Json.NET: https://github.com/JamesNK/Newtonsoft.Json
-SSH.NET: https://github.com/sshnet/SSH.NET
-Lucide Icons: https://lucide.dev
-Fugue Icons: http://p.yusukekamiyamane.com
-ImageListView: https://github.com/oozcitak/imagelistview
-FFmpeg: https://www.ffmpeg.org
-Recorder devices: https://github.com/rdp/screen-capture-recorder-to-video-windows-free
-FluentFTP: https://github.com/robinrodricks/FluentFTP
-ZXing.Net: https://github.com/micjahn/ZXing.Net
-ExifTool: https://exiftool.org
-", FontStyle.Regular);
+                Json.NET: https://github.com/JamesNK/Newtonsoft.Json
+                SSH.NET: https://github.com/sshnet/SSH.NET
+                Lucide Icons: https://lucide.dev
+                Fugue Icons: http://p.yusukekamiyamane.com
+                ImageListView: https://github.com/oozcitak/imagelistview
+                FFmpeg: https://www.ffmpeg.org
+                Recorder devices: https://github.com/rdp/screen-capture-recorder-to-video-windows-free
+                FluentFTP: https://github.com/robinrodricks/FluentFTP
+                ZXing.Net: https://github.com/micjahn/ZXing.Net
+                ExifTool: https://exiftool.org
+                ", FontStyle.Regular);
 
-            rtbInfo.AppendText("Copyright (c) 2007-2026 ShareX Team", FontStyle.Bold, 13);
+            rtbInfo.AppendText("Copyright (c) 2007-2026 ShareX Team\n", FontStyle.Regular, 13);
+            rtbInfo.AppendText("Modifications Copyright (c) 2026 Gameknight963", FontStyle.Regular, 13);
 
             easterEgg = new EasterEggAboutAnimation(cLogo, this);
         }
