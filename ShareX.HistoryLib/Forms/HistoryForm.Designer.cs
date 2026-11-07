@@ -1,4 +1,6 @@
-﻿namespace ShareX.HistoryLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.HistoryLib
 {
     partial class HistoryForm
     {

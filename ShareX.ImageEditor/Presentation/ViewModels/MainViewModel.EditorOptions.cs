@@ -1,3 +1,5 @@
+// Modifications copyright (c) 2026 Gameknight963
+
 using Avalonia.Media;
 using CommunityToolkit.Mvvm.Input;
 

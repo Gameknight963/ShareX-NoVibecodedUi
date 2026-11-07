@@ -1,4 +1,6 @@
-﻿namespace ShareX.MediaLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.MediaLib
 {
     partial class ImageThumbnailerForm
     {

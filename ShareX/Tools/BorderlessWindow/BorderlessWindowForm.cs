@@ -3,6 +3,7 @@
 /*
     ShareX - A program that allows you to take screenshots and share any file type
     Copyright (c) 2007-2026 ShareX Team
+    Modifications copyright (c) 2026 Gameknight963
 
     This program is free software; you can redistribute it and/or
     modify it under the terms of the GNU General Public License

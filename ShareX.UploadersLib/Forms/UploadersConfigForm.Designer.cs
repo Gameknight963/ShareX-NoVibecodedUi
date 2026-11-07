@@ -1,4 +1,6 @@
-﻿#region License Information (GPL v3)
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+#region License Information (GPL v3)
 
 /*
     ShareX - A program that allows you to take screenshots and share any file type

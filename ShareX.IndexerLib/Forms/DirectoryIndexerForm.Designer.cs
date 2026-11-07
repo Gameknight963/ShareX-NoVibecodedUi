@@ -1,4 +1,6 @@
-﻿namespace ShareX.IndexerLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.IndexerLib
 {
     partial class DirectoryIndexerForm
     {

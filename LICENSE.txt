@@ -1,3 +1,10 @@
+ShareX-NoVibecodedUi - a modified version of ShareX
+Copyright (c) 2007-2026 ShareX Team
+Modifications copyright (c) 2026 Gameknight963
+
+The GNU General Public License text follows unchanged.
+-----------------------------------------------------------------------
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 

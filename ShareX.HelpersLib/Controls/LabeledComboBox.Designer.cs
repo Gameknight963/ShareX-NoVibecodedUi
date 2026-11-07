@@ -1,4 +1,6 @@
-﻿namespace ShareX.HelpersLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.HelpersLib
 {
     partial class LabeledComboBox
     {

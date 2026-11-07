@@ -1,4 +1,6 @@
-﻿namespace ShareX
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX
 {
     partial class MetadataForm
     {

@@ -1,4 +1,6 @@
-﻿namespace ShareX.ImageEffectsLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.ImageEffectsLib
 {
     partial class ImageEffectPackagerForm
     {

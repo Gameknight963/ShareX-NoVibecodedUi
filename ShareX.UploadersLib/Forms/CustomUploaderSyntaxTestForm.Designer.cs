@@ -1,4 +1,6 @@
-﻿namespace ShareX.UploadersLib
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+namespace ShareX.UploadersLib
 {
     partial class CustomUploaderSyntaxTestForm
     {

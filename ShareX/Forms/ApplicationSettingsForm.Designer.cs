@@ -1,4 +1,6 @@
-﻿using ShareX.HelpersLib;
+﻿// Modifications copyright (c) 2026 Gameknight963
+
+using ShareX.HelpersLib;
 namespace ShareX
 {
     partial class ApplicationSettingsForm
