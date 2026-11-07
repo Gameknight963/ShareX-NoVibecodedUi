@@ -100,8 +100,9 @@ namespace ShareX.Setup
         private static string FFmpegDownloadURL => $"https://github.com/ShareX/FFmpeg/releases/download/v{FFmpegVersion}/ffmpeg-{FFmpegVersion}-win-{Platform}.zip";
         private const string RecorderDevicesVersion = "0.12.10";
         private static string RecorderDevicesDownloadURL = $"https://github.com/ShareX/RecorderDevices/releases/download/v{RecorderDevicesVersion}/recorder-devices-{RecorderDevicesVersion}-setup.exe";
-        private const string ExifToolVersion = "13.29";
-        private static string ExifToolDownloadURL = $"https://github.com/ShareX/ExifTool/releases/download/v{ExifToolVersion}/exiftool-{ExifToolVersion}-win64.zip";
+        private const string ExifToolVersion = "13.61";
+        private static string ExifToolDownloadURL =>
+            $"https://sourceforge.net/projects/exiftool/files/exiftool-{ExifToolVersion}_64.zip/download";
 
         private static void Main(string[] args)
         {
@@ -479,14 +480,26 @@ namespace ShareX.Setup
         {
             if (!File.Exists(ExifToolPath))
             {
-                string fileName = Path.GetFileName(ExifToolDownloadURL);
-                string filePath = Path.Combine(OutputDir, fileName);
+                string archiveName = $"exiftool-{ExifToolVersion}_64.zip";
+                string archivePath = Path.Combine(OutputDir, archiveName);
 
                 Console.WriteLine("Downloading: " + ExifToolDownloadURL);
-                WebHelpers.DownloadFileAsync(ExifToolDownloadURL, filePath).GetAwaiter().GetResult();
+                WebHelpers.DownloadFileAsync(ExifToolDownloadURL, archivePath)
+                    .GetAwaiter().GetResult();
 
-                Console.WriteLine("Extracting: " + filePath);
-                ZipManager.Extract(filePath, OutputDir);
+                Console.WriteLine("Extracting: " + archivePath);
+                ZipManager.Extract(archivePath, OutputDir);
+
+                string extractedDirectory =
+                    Path.Combine(OutputDir, $"exiftool-{ExifToolVersion}_64");
+
+                File.Move(
+                    Path.Combine(extractedDirectory, "exiftool(-k).exe"),
+                    ExifToolPath);
+
+                Directory.Move(
+                    Path.Combine(extractedDirectory, "exiftool_files"),
+                    Path.Combine(OutputDir, "exiftool_files"));
             }
         }
 

@@ -47,6 +47,8 @@ namespace ShareX.HelpersLib
 
                 using (HttpResponseMessage responseMessage = await client.GetAsync(url))
                 {
+                    responseMessage.EnsureSuccessStatusCode();
+
                     if (responseMessage.IsSuccessStatusCode)
                     {
                         using (Stream responseStream = await responseMessage.Content.ReadAsStreamAsync())
