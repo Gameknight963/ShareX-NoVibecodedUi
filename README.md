@@ -1,8 +1,8 @@
 # I need your help!
 
-ShareX-NoVibecodedUi is my response to the slop ShareX 22. It's going to be quite difficult to maintain on my own, so please, please, submit PRs, issues, post online, anything helps! I can't possibly develop this on my own, and using AI is probably out of the question for this repository, that would be pretty dumb.
+ShareX-NoVibecodedUi is my response to the slop ShareX 22. It's going to be quite difficult to maintain on my own, so please, please, submit PRs, issues, post online, anything helps!
 
-Consider making a post on the [ShareX Subreddit](https://www.reddit.com/r/sharex) if you found this!
+AI is used, although not extensively, in the development of ShareX-NoVibecodedUi. See the [AI policy](AI_POLICY.md).
 
 <br>
 <br>
@@ -10,7 +10,6 @@ Consider making a post on the [ShareX Subreddit](https://www.reddit.com/r/sharex
 <br>
 <br>
 <br>
-
 
 <p align="center"><img src="https://getsharex.com/img/ShareX_Banner.png" alt="ShareX Banner"/></a></p>
 <h3 align="center">Screen capture, file sharing and productivity tool</h3>
@@ -24,9 +23,11 @@ Consider making a post on the [ShareX Subreddit](https://www.reddit.com/r/sharex
 </div>
 <br>
 <p align="center"><a href="https://getsharex.com"><img src="https://getsharex.com/img/ShareX_Screenshot.png" alt="ShareX Screenshot"/></a></p>
-<p align="center">For further information please check our <a href="https://getsharex.com">website</a></p>
 
 <!-- 
+<p align="center">For further information please check our <a href="https://getsharex.com">website</a></p>
+
+
 
 ## Links
 * Official website: https://getsharex.com
@@ -57,7 +58,7 @@ Consider making a post on the [ShareX Subreddit](https://www.reddit.com/r/sharex
 <a href="https://www.star-history.com/?repos=Gameknight963%2FShareX-NoVibecodedUi&type=date&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Gameknight963/ShareX-NoVibecodedUI&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Gameknight963/ShareX-NoVibecodedU&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Gameknight963/ShareX-NoVibecodedU&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Gameknight963/ShareX-NoVibecodedUi&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Gameknight963/ShareX-NoVibecodedUi&type=date&legend=bottom-right" />
  </picture>
 </a>
