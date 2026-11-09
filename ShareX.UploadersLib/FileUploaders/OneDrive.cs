@@ -88,7 +88,7 @@ namespace ShareX.UploadersLib.FileUploaders
             args.Add("client_id", AuthInfo.Client_ID);
             args.Add("scope", "offline_access files.readwrite");
             args.Add("response_type", "code");
-            args.Add("redirect_uri", Links.Callback);
+            args.Add("redirect_uri", Links.Upstream.Callback);
             if (AuthInfo.Proof != null)
             {
                 args.Add("code_challenge", AuthInfo.Proof.CodeChallenge);
@@ -102,7 +102,7 @@ namespace ShareX.UploadersLib.FileUploaders
         {
             Dictionary<string, string> args = new Dictionary<string, string>();
             args.Add("client_id", AuthInfo.Client_ID);
-            args.Add("redirect_uri", Links.Callback);
+            args.Add("redirect_uri", Links.Upstream.Callback);
             args.Add("client_secret", AuthInfo.Client_Secret);
             args.Add("code", code);
             args.Add("grant_type", "authorization_code");

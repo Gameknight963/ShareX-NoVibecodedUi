@@ -1192,7 +1192,7 @@ namespace ShareX.ScreenCaptureLib
                     }
                 }
 
-                URLHelpers.OpenURL(Links.DocsKeybinds);
+                URLHelpers.OpenURL(Links.Upstream.DocsKeybinds);
             };
             tsddbOptions.DropDownItems.Add(tsmiKeybinds);
 

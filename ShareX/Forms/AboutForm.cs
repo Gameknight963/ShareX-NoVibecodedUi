@@ -78,7 +78,8 @@ namespace ShareX
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_UpstreamProject, FontStyle.Bold, 13);
             rtbInfo.AppendLine($@"
-            {Resources.AboutForm_AboutForm_Project_page}: {Links.ShareX}
+            {Resources.AboutForm_AboutForm_Project_page}: {Links.Upstream.GitHub}
+            {Resources.AboutForm_AboutForm_Website}: {Links.Upstream.Website}
             Jaex: {Links.Jaex}
             McoreD: {Links.McoreD}
             ", FontStyle.Regular);
@@ -112,7 +113,7 @@ namespace ShareX
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Credits, FontStyle.Bold, 13);
             rtbInfo.AppendLine($@"
-                ShareX: {Links.ShareX}
+                ShareX: {Links.Upstream.GitHub}
                 Avalonia UI: https://avaloniaui.net
                 Json.NET: https://github.com/JamesNK/Newtonsoft.Json
                 SSH.NET: https://github.com/sshnet/SSH.NET

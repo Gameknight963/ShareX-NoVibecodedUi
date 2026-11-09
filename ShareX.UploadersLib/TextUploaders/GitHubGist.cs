@@ -79,7 +79,7 @@ namespace ShareX.UploadersLib.TextUploaders
         {
             Dictionary<string, string> args = new Dictionary<string, string>();
             args.Add("client_id", AuthInfo.Client_ID);
-            args.Add("redirect_uri", Links.Callback);
+            args.Add("redirect_uri", Links.Upstream.Callback);
             args.Add("scope", "gist");
 
             return URLHelpers.CreateQueryString("https://github.com/login/oauth/authorize", args);

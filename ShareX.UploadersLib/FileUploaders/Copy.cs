@@ -69,7 +69,7 @@ namespace ShareX.UploadersLib.FileUploaders
         public string GetAuthorizationURL()
         {
             Dictionary<string, string> args = new Dictionary<string, string>();
-            args.Add("oauth_callback", Links.Callback);
+            args.Add("oauth_callback", Links.Upstream.Callback);
 
             return GetAuthorizationURL(URLRequestToken, URLAuthorize, AuthInfo, args);
         }

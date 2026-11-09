@@ -69,7 +69,7 @@ namespace ShareX
 
         private async Task<List<NewsItem>> GetNews()
         {
-            string url = URLHelpers.CombineURL(Links.Website, "news.json");
+            string url = URLHelpers.CombineURL(Links.Upstream.Website, "news.json");
             string response = await WebHelpers.DownloadStringAsync(url);
 
             if (!string.IsNullOrEmpty(response))

@@ -1397,7 +1397,7 @@ namespace ShareX
 
         private void btnCaptureOCRHelp_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.DocsOCR);
+            URLHelpers.OpenURL(Links.Upstream.DocsOCR);
         }
 
         private void cbCaptureOCRSilent_CheckedChanged(object sender, EventArgs e)
@@ -1714,7 +1714,7 @@ namespace ShareX
 
         private void btnActions_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.Actions);
+            URLHelpers.OpenURL(Links.Upstream.Actions);
         }
 
         private void lvActions_SelectedIndexChanged(object sender, EventArgs e)

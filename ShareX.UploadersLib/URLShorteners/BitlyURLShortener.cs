@@ -81,7 +81,7 @@ namespace ShareX.UploadersLib.URLShorteners
         {
             Dictionary<string, string> args = new Dictionary<string, string>();
             args.Add("client_id", AuthInfo.Client_ID);
-            args.Add("redirect_uri", Links.Callback);
+            args.Add("redirect_uri", Links.Upstream.Callback);
 
             return URLHelpers.CreateQueryString("https://bitly.com/oauth/authorize", args);
         }
@@ -92,7 +92,7 @@ namespace ShareX.UploadersLib.URLShorteners
             args.Add("client_id", AuthInfo.Client_ID);
             args.Add("client_secret", AuthInfo.Client_Secret);
             args.Add("code", code);
-            args.Add("redirect_uri", Links.Callback);
+            args.Add("redirect_uri", Links.Upstream.Callback);
 
             string response = SendRequestURLEncoded(HttpMethod.POST, URLAccessToken, args);
 

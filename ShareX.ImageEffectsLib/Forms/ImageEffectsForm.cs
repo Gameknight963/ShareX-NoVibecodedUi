@@ -808,7 +808,7 @@ namespace ShareX.ImageEffectsLib
 
         private void btnImageEffects_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.ImageEffects);
+            URLHelpers.OpenURL(Links.Upstream.ImageEffects);
         }
 
         private void tsmiLoadImageFromFile_Click(object sender, EventArgs e)

@@ -255,7 +255,7 @@ namespace ShareX.ScreenCaptureLib
 
         private void btnHelp_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.DocsScrollingScreenshot);
+            URLHelpers.OpenURL(Links.Upstream.DocsScrollingScreenshot);
         }
 
         private void pbOutput_MouseDown(object sender, MouseEventArgs e)

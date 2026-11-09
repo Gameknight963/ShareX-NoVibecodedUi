@@ -24,42 +24,19 @@
 
 #endregion License Information (GPL v3)
 
-using System;
-using static System.Net.WebRequestMethods;
-
 namespace ShareX.HelpersLib
 {
     public static class Links
     {
         public const string Website = "https://gameknight963.com";
 
-        [Obsolete("Won't work")]
-        public const string Callback = Website + "/callback/";
-        [Obsolete("Won't work")]
-        public const string Changelog = Website + "/changelog";
-        [Obsolete("Won't work")]
-        public const string Donate = Website + "/donate";
-        [Obsolete("Won't work")]
-        public const string PrivacyPolicy = Website + "/privacy-policy";
-        [Obsolete("Won't work")]
-        public const string ImageEffects = Website + "/image-effects";
-        [Obsolete("Won't work")]
-        public const string Actions = Website + "/actions";
-        [Obsolete("Won't work")]
-        private const string Docs = Website + "/docs";
-        [Obsolete("Won't work")]
-        public const string DocsCustomUploader = Docs + "/custom-uploader";
-        [Obsolete("Won't work")]
-        public const string DocsKeybinds = Docs + "/keybinds";
-        [Obsolete("Won't work")]
-        public const string DocsOCR = Docs + "/ocr";
-        [Obsolete("Won't work")]
-        public const string DocsScrollingScreenshot = Docs + "/scrolling-screenshot";
+        /// <summary>
+        /// Just points to the latest release, which might have a changelog
+        /// </summary>
+        public static readonly string Changelog = $"{GitHub}/releases/latest";
 
         public const string GitHub = "https://github.com/Gameknight963/ShareX-NoVibecodedUi";
         public const string GitHubIssues = GitHub + "/issues?q=is%3Aissue";
-
-        public const string ShareX = "https://github.com/ShareX/ShareX";
 
         public const string ShareXClassic = "https://github.com/BrendanJ/ShareX-classic";
         public const string ShareY = "https://github.com/maksw2/ShareY";
@@ -68,17 +45,28 @@ namespace ShareX.HelpersLib
         public const string Jaex = "https://github.com/Jaex";
         public const string McoreD = "https://github.com/McoreD";
 
-        [Obsolete("Should be removed")]
-        public const string Discord = "https://discord.gg/ShareX";
-        [Obsolete("Should be removed")]
-        public const string X = "https://x.com/ShareX";
-        [Obsolete("Should be removed")]
-        public const string XFollow = "https://x.com/intent/follow?screen_name=ShareX";
-        [Obsolete("Should be removed")]
-        public const string Reddit = "https://www.reddit.com/r/sharex";
-        [Obsolete("Should be removed")]
-        public const string Steam = "https://store.steampowered.com/app/400040/ShareX/";
-        [Obsolete("Should be removed")]
-        public const string MicrosoftStore = "https://apps.microsoft.com/detail/9nblggh4z1sp";
+        public static class Upstream
+        {
+            public const string Website = "https://getsharex.com";
+            public const string Changelog = Website + "/changelog";
+            public const string Callback = Website + "/callback/";
+            public const string Donate = Website + "/donate";
+            public const string PrivacyPolicy = Website + "/privacy-policy";
+            public const string ImageEffects = Website + "/image-effects";
+            public const string Actions = Website + "/actions";
+            private const string Docs = Website + "/docs";
+            public const string DocsCustomUploader = Docs + "/custom-uploader";
+            public const string DocsKeybinds = Docs + "/keybinds";
+            public const string DocsOCR = Docs + "/ocr";
+            public const string DocsScrollingScreenshot = Docs + "/scrolling-screenshot";
+            public const string GitHub = "https://github.com/ShareX/ShareX";
+            public const string GitHubIssues = GitHub + "/issues?q=is%3Aissue";
+            public const string Discord = "https://discord.gg/ShareX";
+            public const string X = "https://x.com/ShareX";
+            public const string XFollow = "https://x.com/intent/follow?screen_name=ShareX";
+            public const string Reddit = "https://www.reddit.com/r/sharex";
+            public const string Steam = "https://store.steampowered.com/app/400040/ShareX/";
+            public const string MicrosoftStore = "https://apps.microsoft.com/detail/9nblggh4z1sp";
+        }
     }
 }

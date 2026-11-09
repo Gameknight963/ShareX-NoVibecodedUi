@@ -1960,12 +1960,12 @@ namespace ShareX
 
         private void tsmiTestURLShortener_Click(object sender, EventArgs e)
         {
-            UploadManager.ShortenURL(Links.Website);
+            UploadManager.ShortenURL(Links.Upstream.Website);
         }
 
         private void tsmiTestURLSharing_Click(object sender, EventArgs e)
         {
-            UploadManager.ShareURL(Links.Website);
+            UploadManager.ShareURL(Links.Upstream.Website);
         }
 
         private void tsbDonate_Click(object sender, EventArgs e)
@@ -1973,18 +1973,18 @@ namespace ShareX
 #if STEAM
             URLHelpers.OpenURL(Links.Website);
 #else
-            URLHelpers.OpenURL(Links.Donate);
+            URLHelpers.OpenURL(Links.Upstream.Donate);
 #endif
         }
 
         private void tsbX_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.XFollow);
+            URLHelpers.OpenURL(Links.Upstream.XFollow);
         }
 
         private void tsbDiscord_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.Discord);
+            URLHelpers.OpenURL(Links.Upstream.Discord);
         }
 
         private void tsbAbout_Click(object sender, EventArgs e)

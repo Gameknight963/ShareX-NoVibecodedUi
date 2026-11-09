@@ -201,7 +201,7 @@ namespace ShareX
 
         private void btnOpenOCRHelp_Click(object sender, EventArgs e)
         {
-            URLHelpers.OpenURL(Links.DocsOCR);
+            URLHelpers.OpenURL(Links.Upstream.DocsOCR);
         }
 
         private async void nudScaleFactor_ValueChanged(object sender, EventArgs e)
