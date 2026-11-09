@@ -29,6 +29,7 @@ using ShareX.Properties;
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+using ZXing.PDF417.Internal;
 
 namespace ShareX
 {
@@ -69,10 +70,22 @@ namespace ShareX
             rtbInfo.AppendLine($@"
             {Resources.AboutForm_AboutForm_Website}: {Links.Website}
             {Resources.AboutForm_AboutForm_Project_page}: {Links.GitHub}
+
+            ShareXClassic: {Links.ShareXClassic}
+            ShareY: {Links.ShareY}
+            SunShot: {Links.SunShot}
+            ", FontStyle.Regular);
+
+            rtbInfo.AppendLine(Resources.AboutForm_AboutForm_UpstreamProject, FontStyle.Bold, 13);
+            rtbInfo.AppendLine($@"
+            {Resources.AboutForm_AboutForm_Project_page}: {Links.ShareX}
+            Jaex: {Links.Jaex}
+            McoreD: {Links.McoreD}
             ", FontStyle.Regular);
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Translators, FontStyle.Bold, 13);
-            rtbInfo.AppendLine($@"{Resources.AboutForm_AboutForm_Language_tr}: https://github.com/Jaex
+            rtbInfo.AppendLine($@"
+                {Resources.AboutForm_AboutForm_Language_tr}: https://github.com/Jaex
                 {Resources.AboutForm_AboutForm_Language_de}: https://github.com/Starbug2 & https://github.com/Kaeltis
                 {Resources.AboutForm_AboutForm_Language_fr}: https://github.com/nwies & https://github.com/Shadorc
                 {Resources.AboutForm_AboutForm_Language_zh_CH}: https://github.com/jiajiechan
@@ -98,7 +111,9 @@ namespace ShareX
                 ", FontStyle.Regular);
 
             rtbInfo.AppendLine(Resources.AboutForm_AboutForm_Credits, FontStyle.Bold, 13);
-            rtbInfo.AppendLine(@"Avalonia UI: https://avaloniaui.net
+            rtbInfo.AppendLine($@"
+                ShareX: {Links.ShareX}
+                Avalonia UI: https://avaloniaui.net
                 Json.NET: https://github.com/JamesNK/Newtonsoft.Json
                 SSH.NET: https://github.com/sshnet/SSH.NET
                 Lucide Icons: https://lucide.dev

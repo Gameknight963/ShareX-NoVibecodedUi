@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>İptal</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>İlk sefer yükleme uyarısı</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>Küçük resim görünümüne geç</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>Durduruluyor</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>İlk sefer yükleme uyarısı</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>Bu menüyü düzenle...</value>
@@ -178,14 +178,16 @@
     <value>ShareX dil değişikliğinin uygulanması için yeniden başlatılmalı.
 ShareX'i yeniden başlatmak ister misiniz?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Geleneksel çince</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Hata ayıklama kütüğü hassas bilgiler içerebilir. Devam etmek istediğinize emin misiniz?</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>Endonezyaca</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>Sol fare tuşuna basılı tut sürüklemek için
+Sağ fare tuşu menüyü açmak için
+Orta fare tuşu kapatmak için</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Katkıda bulunanlar</value>
@@ -195,9 +197,6 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>Sınıf ismi</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>Adres kısaltıcı: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>Geçmiş</value>
@@ -211,11 +210,17 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Kısayolları devre dışı bırak</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>Bu dosyayı gerçekten silmek istiyor musunuz?</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>Pano içeriği: Dosya (Sayısı: {0})</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>Dizin yaratılamadı:</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>Yeni ad kullan: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>Ekran görüntüsünü yüklemek istediğinize emin misiniz?
@@ -251,12 +256,6 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>Adresten dosya indir ve yükle</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>Pano içeriği: Metin (Uzunluk: {0})</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>İşlem belirleyici</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>Ön izleme:</value>
   </data>
@@ -275,12 +274,18 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>Görev ayarları</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>Başlangıç, kuruluşunuz tarafından devre dışı bırakıldı</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>Büyük bir dosya yüklüyorsunuz.
 Devam etmek istediğinizden emin misiniz?</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg eksik</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>Fransızca</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>Dosya yükleyici: {0}</value>
@@ -294,9 +299,6 @@ Devam etmek istediğinizden emin misiniz?</value>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>İsim boş olamaz.</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>Yeni ad kullan: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>Bu mesajı tekrar gösterme.</value>
   </data>
@@ -306,11 +308,11 @@ Devam etmek istediğinizden emin misiniz?</value>
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>Çevirmenler</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>Dizin yükle</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Gizlilik ilkesi</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>ShareX kişisel dizin yolu seç</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Rumence</value>
@@ -383,6 +385,9 @@ Daha sonra "Yakalama sonrası" menüsünden devre dışı bırakabilirsiniz.</va
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>Yakalama sonrası: {0}</value>
   </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>Başlatılıyor</value>
+  </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>Adresi kopyalamak için sol tıklayın. Adresi açmak için sağ tıklayın.</value>
   </data>
@@ -451,8 +456,8 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="Error" xml:space="preserve">
     <value>Hata</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>ShareX kişisel dizin yolu seç</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>Adres kısaltıcı: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>İspanyolca</value>
@@ -484,9 +489,6 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>İndiriliyor</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Fransızca</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Optik karakter tanıma özelliği yalnızca Windows sürüm {0} veya daha yenisi ile kullanılabilir.</value>
   </data>
@@ -514,6 +516,9 @@ ShareX'i yeniden başlatmak ister misiniz?</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Durduruldu</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>Panodan yüklemeyi tekrar denemek ister misiniz?</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>Rusça</value>
   </data>
@@ -538,14 +543,11 @@ Lütfen kişisel dizin yolunu değiştirmek için ShareX'i yönetici olarak çal
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Başlangıç görev yöneticisinden devre dışı bırakılmış</value>
   </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>Panodan yüklemeyi tekrar denemek ister misiniz?</value>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>İşlem belirleyici</value>
   </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>Belirtilen pencere başlığına sahip bir pencere bulunamadı.</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>Başlangıç, kuruluşunuz tarafından devre dışı bırakıldı</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Pencere tanıtıcı</value>
@@ -553,15 +555,15 @@ Lütfen kişisel dizin yolunu değiştirmek için ShareX'i yönetici olarak çal
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>İtalyanca</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>Bu dosyayı gerçekten silmek istiyor musunuz?</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Buraya
 sürükle</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>Türkçe</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>Dizin yükle</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Ayarlar kaydedilemedi</value>
@@ -606,16 +608,14 @@ Lütfen başka bir kısayol seçin veya çakışan uygulamayı kapatın ve Share
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Resim buraya kaydedilemedi:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>Başlatılıyor</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>Geleneksel çince</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>Korece</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>Sol fare tuşuna basılı tut sürüklemek için
-Sağ fare tuşu menüyü açmak için
-Orta fare tuşu kapatmak için</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Pano içeriği: Metin (Uzunluk: {0})</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>Panoya kopyalandı: {0}</value>

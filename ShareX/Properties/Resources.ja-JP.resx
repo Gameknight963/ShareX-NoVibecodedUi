@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>キャンセル</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>初回アップロード時の警告</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>サムネイル表示に切り替え</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>停止中</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>初回アップロード時の警告</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>このメニューを編集...</value>
@@ -178,14 +178,16 @@
     <value>言語の変更はShareX の再起動後に反映されます。
 ShareX を再起動しますか？</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>中国語（繁体字）</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>デバッグのログには詳細な情報が含まれます。続行しますか？</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>インドネシア語</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>左ドラッグで移動
+右クリックでメニュー表示
+中クリックで閉じる</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>クレジット</value>
@@ -195,9 +197,6 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>クラス名</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>URL短縮サービス: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>履歴</value>
@@ -211,11 +210,17 @@ ShareX を再起動しますか？</value>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>ホットキーを無効にする</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>本当にこのファイルを削除しますか？</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>クリップボード内のデータ：ファイル（ファイル数：{0}）</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>フォルダーを作成できません:</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>新しい名前を使用: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>スクリーンショットをアップロードしますか？
@@ -251,12 +256,6 @@ ShareX を再起動しますか？</value>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>ダウンロード後にアップロードするファイルのあるURL</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>クリップボード内のデータ：文字列（{0}文字）</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>プロセス識別子</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>プレビュー:</value>
   </data>
@@ -275,12 +274,18 @@ ShareX を再起動しますか？</value>
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>タスクの設定</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>スタートアップの設定は組織によって無効にされています</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>大きな容量のファイルをアップロードしようとしています。
 本当に続行しますか？</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg がありません</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>フランス語</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>ファイル アップローダー: {0}</value>
@@ -294,9 +299,6 @@ ShareX を再起動しますか？</value>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>名前を入力してください。</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>新しい名前を使用: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>このメッセージを再び表示しない。</value>
   </data>
@@ -306,11 +308,11 @@ ShareX を再起動しますか？</value>
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>翻訳者</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>フォルダーのアップロード</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>プライバシーポリシー</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>ShareX  個人フォルダー パスの選択</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>ルーマニア語</value>
@@ -383,6 +385,9 @@ ShareX を再起動しますか？</value>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>キャプチャー後: {0}</value>
   </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>開始しています</value>
+  </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>左クリックでクリップボードにURLをコピー、右クリックでURLを開く。</value>
   </data>
@@ -406,6 +411,9 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>日本語</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>寄付</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>ホットキーを有効にしました。</value>
@@ -448,8 +456,8 @@ ShareX を再起動しますか？</value>
   <data name="Error" xml:space="preserve">
     <value>エラー</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>ShareX  個人フォルダー パスの選択</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>URL短縮サービス: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>スペイン語</value>
@@ -481,9 +489,6 @@ ShareX を再起動しますか？</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>ダウンロード中</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>フランス語</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>光学式文字認識の機能は Windows バージョン {0} 以降で利用できます。</value>
   </data>
@@ -511,6 +516,9 @@ ShareX を再起動しますか？</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>停止中</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>クリップボードのアップロードを再試行しますか？</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>ロシア語</value>
   </data>
@@ -535,14 +543,11 @@ ShareX を再起動しますか？</value>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>スタートアップの設定はタスクマネージャーで無効にされています</value>
   </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>クリップボードのアップロードを再試行しますか？</value>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>プロセス識別子</value>
   </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>指定のタイトルを持つウィンドウは見つかりません。</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>スタートアップの設定は組織によって無効にされています</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>ウィンドウ ハンドル</value>
@@ -550,15 +555,15 @@ ShareX を再起動しますか？</value>
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>イタリア語</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>本当にこのファイルを削除しますか？</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>ここに
 ドロップ</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>トルコ語</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>フォルダーのアップロード</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>設定の保存に失敗しました</value>
@@ -603,16 +608,14 @@ ShareX を再起動しますか？</value>
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>次のパスへ画像を書き込めません:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>開始しています</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>中国語（繁体字）</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>韓国語</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>左ドラッグで移動
-右クリックでメニュー表示
-中クリックで閉じる</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>クリップボード内のデータ：文字列（{0}文字）</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>クリップボードにコピー: {0}</value>
@@ -641,8 +644,5 @@ ShareX を再起動しますか？</value>
   <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
     <value>ダウンロード失敗:
 {0}</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>寄付</value>
   </data>
 </root>

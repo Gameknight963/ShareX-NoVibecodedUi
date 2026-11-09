@@ -132,6 +132,9 @@
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Calea fișierului nu poate fi goală.</value>
   </data>
+  <data name="PinToScreen" xml:space="preserve">
+    <value>Fixează pe ecran</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
     <value>Portugheză</value>
   </data>
@@ -147,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>Anulare</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>Avertisment de încărcare pentru prima dată</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>Comutați la vizualizare miniaturi</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>Se oprește</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>Avertisment de încărcare pentru prima dată</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>Editați acest meniu...</value>
@@ -165,6 +168,9 @@
   <data name="ActionsToolbar_StayTopMost" xml:space="preserve">
     <value>Întotdeauna în față</value>
   </data>
+  <data name="ShareXIsUpToDate" xml:space="preserve">
+    <value>ShareX este actualizat!</value>
+  </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Jurnal de schimbări</value>
   </data>
@@ -173,14 +179,16 @@
 
 Doriți să reporniți ShareX?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Chineză tradițională</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Jurnalul de depanării poate conține informații cu caracter personal. Sunteți sigur că doriți să continuați?</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>Indoneziană</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>Țineți apăsat stânga jos pentru a trage
+Faceți clic dreapta pentru a deschide meniul
+Clic în mijloc pentru a închide</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Mulțumiri</value>
@@ -190,9 +198,6 @@ Doriți să reporniți ShareX?</value>
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>Numele clasei</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>Scurtător URL: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>Istoric</value>
@@ -206,15 +211,24 @@ Doriți să reporniți ShareX?</value>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Dezactivați tastele rapide</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>Sigur ștergeți acest fișier?</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>Conținutul clipboard-ului: Fișier(e) (număr: {0})</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>Nu s-a putut crea folderul:</value>
   </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>Utilizați nume nou: </value>
+  </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>Sunteți sigur că doriți să încărcați această captură de ecran?
 Apăsați "Nu" pentru a anula încărcarea și pentru a dezactiva încărcarea automată a capturii de ecran.</value>
+  </data>
+  <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
+    <value>FFmpeg inclus cu ShareX acceptă doar sisteme de operare pe 64 de biți.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Se încarcă</value>
@@ -243,12 +257,6 @@ Apăsați "Nu" pentru a anula încărcarea și pentru a dezactiva încărcarea a
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>URL pentru a descărca și încărca</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>Conținutul clipboard-ului: Text (Lungime: {0})</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>Identificator proces</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>Previzualizare:</value>
   </data>
@@ -267,9 +275,18 @@ Apăsați "Nu" pentru a anula încărcarea și pentru a dezactiva încărcarea a
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>Setări sarcină</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>Pornirea a fost dezactivată de către organizația dvs.</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>Încercați să încărcați un fișier mare.
 Sunteți sigur că doriți să continuați?</value>
+  </data>
+  <data name="FFmpegIsMissing" xml:space="preserve">
+    <value>FFmpeg lipsește</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>Franceză</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>Destinație de fișiere: {0}</value>
@@ -277,11 +294,11 @@ Sunteți sigur că doriți să continuați?</value>
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>Alegeți un folder pentru a salva</value>
   </data>
+  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
+    <value>Poloneză</value>
+  </data>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Numele nu poate fi gol.</value>
-  </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>Utilizați nume nou: </value>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>Nu afișa acest mesaj din nou.</value>
@@ -292,11 +309,11 @@ Sunteți sigur că doriți să continuați?</value>
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>Traducători</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>Încărcare folder</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Politica de confidențialitate</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>Alegeți calea folderului personal ShareX</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Română</value>
@@ -309,6 +326,9 @@ Sunteți sigur că doriți să continuați?</value>
   </data>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Separator</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
+    <value>Ebraică</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>Această caracteristică nu va funcționa atunci când opțiunea "DisableUpload" este activată!</value>
@@ -348,6 +368,9 @@ Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value
   <data name="AboutForm_AboutForm_Links" xml:space="preserve">
     <value>Link-uri</value>
   </data>
+  <data name="ClipboardDoesNotContainAnImage" xml:space="preserve">
+    <value>Clipboardul nu conține o imagine.</value>
+  </data>
   <data name="TaskManager_task_UploadCompleted_Error" xml:space="preserve">
     <value>Eroare</value>
   </data>
@@ -357,8 +380,14 @@ Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Resetați toate sarcinile rapide la valorile implicite?</value>
   </data>
+  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
+    <value>Arabă</value>
+  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>După capturare: {0}</value>
+  </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>Se pornește</value>
   </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>Click stânga pentru a copia URL-ul în clipboard. Click dreapta pentru a deschide URL-ul.</value>
@@ -383,6 +412,9 @@ Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>Japoneză</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>Donează</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Taste rapide activate.</value>
@@ -425,8 +457,8 @@ Doriți să reporniți ShareX?</value>
   <data name="Error" xml:space="preserve">
     <value>Eroare</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Alegeți calea folderului personal ShareX</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>Scurtător URL: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>Spaniolă</value>
@@ -458,8 +490,8 @@ Doriți să reporniți ShareX?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Se descarcă</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Franceză</value>
+  <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
+    <value>Funcția de recunoaștere optică a caracterelor este disponibilă doar în Windows versiunea {0} sau mai nouă.</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
     <value>Serviciul de distribuire a URL-urilor: {0}</value>
@@ -485,11 +517,19 @@ Doriți să reporniți ShareX?</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Oprit</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>Vrei să reîncerci încărcarea din clipboard?</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>Rusă</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>FFmpeg video și sursa audio nu pot fi ambele "Niciuna".</value>
+  </data>
+  <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
+    <value>ShareX nu poate fi închis cât timp înregistrarea ecranului este activă.
+
+Vrei să anulezi înregistrarea activă a ecranului?</value>
   </data>
   <data name="IntegrationHelpers_UploadWithShareX" xml:space="preserve">
     <value>Încărcați cu ShareX</value>
@@ -504,11 +544,11 @@ Vă rugăm să rulați ShareX ca administrator pentru a schimba calea folderului
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Pornirea a fost dezactivată din Managerul de activități</value>
   </data>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>Identificator proces</value>
+  </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>Nu se poate găsi o fereastră cu titlul specificat.</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>Pornirea a fost dezactivată de către organizația dvs.</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Handle fereastră</value>
@@ -516,15 +556,15 @@ Vă rugăm să rulați ShareX ca administrator pentru a schimba calea folderului
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>Italiană</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>Sigur ștergeți acest fișier?</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Trageți
 aici</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>Turcă</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>Încărcare folder</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Nu s-a reușit salvarea setărilor</value>
@@ -545,8 +585,14 @@ Vă rugăm să selectați o altă tastatură rapidă sau să ieșiți din aplica
   <data name="AboutForm_AboutForm_Team" xml:space="preserve">
     <value>Echipă</value>
   </data>
+  <data name="ClipboardUpload" xml:space="preserve">
+    <value>Încărcare din clipboard</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
     <value>Vietnameză</value>
+  </data>
+  <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
+    <value>FFmpeg nu există la următoarea cale:</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Enable_hotkeys" xml:space="preserve">
     <value>Activați tastele rapide</value>
@@ -563,16 +609,14 @@ Vă rugăm să selectați o altă tastatură rapidă sau să ieșiți din aplica
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Nu s-a putut scrie imaginea în calea:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>Se pornește</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>Chineză tradițională</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>Coreeană</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>Țineți apăsat stânga jos pentru a trage
-Faceți clic dreapta pentru a deschide meniul
-Clic în mijloc pentru a închide</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Conținutul clipboard-ului: Text (Lungime: {0})</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>Copiat în clipboard: {0}</value>
@@ -602,48 +646,7 @@ Clic în mijloc pentru a închide</value>
     <value>Descărcarea a eșuat:
 {0}</value>
   </data>
-  <data name="PinToScreen" xml:space="preserve">
-    <value>Fixează pe ecran</value>
-  </data>
-  <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX este actualizat!</value>
-  </data>
-  <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>FFmpeg inclus cu ShareX acceptă doar sisteme de operare pe 64 de biți.</value>
-  </data>
-  <data name="FFmpegIsMissing" xml:space="preserve">
-    <value>FFmpeg lipsește</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Poloneză</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Ebraică</value>
-  </data>
-  <data name="ClipboardDoesNotContainAnImage" xml:space="preserve">
-    <value>Clipboardul nu conține o imagine.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabă</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>Donează</value>
-  </data>
-  <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
-    <value>Funcția de recunoaștere optică a caracterelor este disponibilă doar în Windows versiunea {0} sau mai nouă.</value>
-  </data>
-  <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX nu poate fi închis cât timp înregistrarea ecranului este activă.
-
-Vrei să anulezi înregistrarea activă a ecranului?</value>
-  </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>Vrei să reîncerci încărcarea din clipboard?</value>
-  </data>
-  <data name="ClipboardUpload" xml:space="preserve">
-    <value>Încărcare din clipboard</value>
-  </data>
-  <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
-    <value>FFmpeg nu există la următoarea cale:</value>
+  <data name="AboutForm_AboutForm_UpstreamProject" xml:space="preserve">
+    <value>Proiect upstream</value>
   </data>
 </root>

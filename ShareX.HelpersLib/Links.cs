@@ -25,6 +25,7 @@
 #endregion License Information (GPL v3)
 
 using System;
+using static System.Net.WebRequestMethods;
 
 namespace ShareX.HelpersLib
 {
@@ -58,10 +59,15 @@ namespace ShareX.HelpersLib
         public const string GitHub = "https://github.com/Gameknight963/ShareX-NoVibecodedUi";
         public const string GitHubIssues = GitHub + "/issues?q=is%3Aissue";
 
-        [Obsolete("Should be removed")]
+        public const string ShareX = "https://github.com/ShareX/ShareX";
+
+        public const string ShareXClassic = "https://github.com/BrendanJ/ShareX-classic";
+        public const string ShareY = "https://github.com/maksw2/ShareY";
+        public const string SunShot = "https://github.com/SunSinD/SunShot";
+
         public const string Jaex = "https://github.com/Jaex";
-        [Obsolete("Should be removed")]
         public const string McoreD = "https://github.com/McoreD";
+
         [Obsolete("Should be removed")]
         public const string Discord = "https://discord.gg/ShareX";
         [Obsolete("Should be removed")]

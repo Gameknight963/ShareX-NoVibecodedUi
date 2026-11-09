@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>Ostrzeżenie przy pierwszym przesyłaniu</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>Przełącz na widok miniatur</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>Zatrzymywanie</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>Ostrzeżenie przy pierwszym przesyłaniu</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>Edytuj to menu...</value>
@@ -179,14 +179,16 @@
 
 Czy chcesz ponownie uruchomić ShareX?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Chiński tradycyjny</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Dziennik debugowania może zawierać poufne informacje. Czy na pewno chcesz kontynuować?</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>Indonezyjski</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>Przytrzymaj lewy przycisk myszy, aby przeciągnąć
+Kliknij prawym przyciskiem myszy, aby otworzyć menu
+Środkowe kliknięcie, aby zamknąć</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Podziękowania</value>
@@ -196,9 +198,6 @@ Czy chcesz ponownie uruchomić ShareX?</value>
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>Nazwa klasy</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>Skracacz linków: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>Historia</value>
@@ -212,11 +211,17 @@ Czy chcesz ponownie uruchomić ShareX?</value>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Wyłącz skróty klawiszowe</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>Czy naprawdę chcesz usunąć ten plik?</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>Zawartość schowka: plik (liczba: {0})</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>Nie można utworzyć folderu:</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>Użyj nowej nazwy: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>Czy na pewno chcesz przesłać ten zrzut ekranu?
@@ -252,12 +257,6 @@ Naciśnij 'Nie', aby anulować bieżące przesyłanie i wyłączyć automatyczne
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>Link do pobierania i wysyłania</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>Zawartość schowka: tekst (długość: {0})</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>Identyfikator procesu</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>Podgląd:</value>
   </data>
@@ -276,12 +275,18 @@ Naciśnij 'Nie', aby anulować bieżące przesyłanie i wyłączyć automatyczne
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>Ustawienia zadań</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>Uruchomienie zostało wyłączone przez Twoją organizację</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>Próbujesz przesłać duży plik.
 Jesteś pewien, że chcesz kontynuować?</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>Brakuje FFmpeg</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>Francuski</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>Serwis plików: {0}</value>
@@ -295,9 +300,6 @@ Jesteś pewien, że chcesz kontynuować?</value>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Nazwa nie może być pusta.</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>Użyj nowej nazwy: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>Nie pokazuj więcej tej wiadomości.</value>
   </data>
@@ -307,11 +309,11 @@ Jesteś pewien, że chcesz kontynuować?</value>
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>Tłumacze</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>Przesyłanie folderu</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Polityka prywatności</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>Wybierz ścieżkę folderu osobistego ShareX</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Rumuński</value>
@@ -378,8 +380,14 @@ Możesz je później wyłączyć w menu "Zadania po przechwyceniu".</value>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Przywrócić wszystkie szybkie zadania do wartości domyślnych?</value>
   </data>
+  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
+    <value>Arabski</value>
+  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>Po przechwyceniu: {0}</value>
+  </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>Rozpoczynanie</value>
   </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>Kliknij lewym przyciskiem myszy, aby skopiować link do schowka. Kliknij prawym przyciskiem myszy, aby otworzyć link.</value>
@@ -404,6 +412,9 @@ Możesz je później wyłączyć w menu "Zadania po przechwyceniu".</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>Japoński</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>Przekaż darowiznę</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Skróty klawiszowe włączone.</value>
@@ -446,8 +457,8 @@ Czy chcesz ponownie uruchomić ShareX?</value>
   <data name="Error" xml:space="preserve">
     <value>Błąd</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Wybierz ścieżkę folderu osobistego ShareX</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>Skracacz linków: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>Hiszpański</value>
@@ -479,9 +490,6 @@ Czy chcesz ponownie uruchomić ShareX?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Pobieranie</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Francuski</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Funkcja optycznego rozpoznawania znaków jest dostępna tylko w systemie Windows w wersji {0} lub nowszej.</value>
   </data>
@@ -509,6 +517,9 @@ Czy chcesz ponownie uruchomić ShareX?</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Zatrzymano</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>Czy chcesz ponowić próbę przesłania schowka?</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>Rosyjski</value>
   </data>
@@ -533,14 +544,11 @@ Proszę uruchomić ShareX jako administrator, aby zmienić ścieżkę folderu os
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Uruchamianie zostało wyłączone w menedżerze zadań</value>
   </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>Czy chcesz ponowić próbę przesłania schowka?</value>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>Identyfikator procesu</value>
   </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>Nie można znaleźć okna o określonej nazwie.</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>Uruchomienie zostało wyłączone przez Twoją organizację</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Klamka okna</value>
@@ -548,15 +556,15 @@ Proszę uruchomić ShareX jako administrator, aby zmienić ścieżkę folderu os
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>Włoski</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>Czy naprawdę chcesz usunąć ten plik?</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Upuść
 tutaj</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>Turecki</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>Przesyłanie folderu</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Nie udało się zapisać ustawień</value>
@@ -601,16 +609,14 @@ Proszę wybrać inny skrót klawiszowy lub zamknąć konfliktową aplikację i p
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Nie można zapisać obrazu do ścieżki:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>Rozpoczynanie</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>Chiński tradycyjny</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>Koreański</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>Przytrzymaj lewy przycisk myszy, aby przeciągnąć
-Kliknij prawym przyciskiem myszy, aby otworzyć menu
-Środkowe kliknięcie, aby zamknąć</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Zawartość schowka: tekst (długość: {0})</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>Skopiowano do schowka: {0}</value>
@@ -639,11 +645,5 @@ Kliknij prawym przyciskiem myszy, aby otworzyć menu
   <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
     <value>Pobieranie nie powiodło się:
 {0}</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabski</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>Przekaż darowiznę</value>
   </data>
 </root>

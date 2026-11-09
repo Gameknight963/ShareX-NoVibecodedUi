@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>إلغاء</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>تحذير الرفع لأول مرّة</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>تبديل إلى طريقة عرض الشبكة</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>جار الإيقاف</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>تحذير الرفع لأول مرّة</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>تعديل هذه القائمة...</value>
@@ -179,14 +179,16 @@
 
 هل تريد إعادة تشغيل التطبيق الأن؟</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>الصينية الشعبية</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>سجل التنقيحات قد يحتوي على معلومات حساسة، هل تريد المتابعة؟</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>الإندونيسية</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>انقر مع السحب للتحريك
+انقر بالزر الأيمن للخيارات
+انقر بالزر الأوسط للإغلاق</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>شكرًا جزيلاً لـ</value>
@@ -196,9 +198,6 @@
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>اسم الصنف</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>خدمة اختصار عناوين URL: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>السجل</value>
@@ -212,11 +211,17 @@
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>تعطيل الاختصارات</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>هل تريد حذف هذا الملف؟</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>محتويات الحافظة: ملفات عددها {0} ملفًا</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>خطأ في إنشاء المجلد:</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>استخدام اسم جديد: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>هل تريد من البرنامج القيام برفع لقطات الشاشة هذه؟
@@ -252,17 +257,14 @@
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>عنوان URL إلى التنزيل والرفع</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>محتويات الحافظة: نص طوله {0} حرفًا</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>معرّف العملية</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>المعاينة:</value>
   </data>
   <data name="InspectWindow_ProcessFileName" xml:space="preserve">
     <value>اسم ملف العملية</value>
+  </data>
+  <data name="AutoCaptureForm_UpdateRegion_X___0___Y___1___Width___2___Height___3_" xml:space="preserve">
+    <value>X: {0}, Y: {1}, العرض: {2}, الارتفاع: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
     <value>هل تريد استعادة الإعدادات الافتراضية؟</value>
@@ -273,12 +275,18 @@
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>إعدادات المهمة</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>تم تعطيل البدء التلقائي للتطبيق بواسطة مؤسستك</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>الملف الذي تريد رفعه كبير الحجم.
 هل تريد المواصلة؟</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>برنامج الترميز FFmpeg غير موجود</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>الفرنسية</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>رافعو الملفات: {0}</value>
@@ -292,9 +300,6 @@
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>لايمكن أن يكون الاسم فارغًا.</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>استخدام اسم جديد: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>لا تعرض هذه الرسالة مرة أخرى.</value>
   </data>
@@ -304,11 +309,11 @@
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>المترجمون</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>مجلد الرفع</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>سياسة الخصوصية</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>اختر المجلد الخاص بـShareX</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>الرومانية</value>
@@ -381,6 +386,9 @@
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>ما بعد الالتقاط: {0}</value>
   </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>البدء</value>
+  </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>انقر بزر الفأرة الأيسر لنسخ عنوان URL إلى الحافظة. انقر بزر الفأرة الأيمن لفتح عنوان URL.</value>
   </data>
@@ -404,6 +412,9 @@
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>اليابانية</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>تبرع</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>تم تعطيل اختصارات لوحة المفاتيح.</value>
@@ -446,8 +457,8 @@
   <data name="Error" xml:space="preserve">
     <value>خطأ</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>اختر المجلد الخاص بـShareX</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>خدمة اختصار عناوين URL: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>الإسبانية</value>
@@ -479,9 +490,6 @@
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>جارٍ التنزيل</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>الفرنسية</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>التعرف على النصوص متاح في Windows version {0} أو أحدث.</value>
   </data>
@@ -509,6 +517,9 @@
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>تم الإيقاف</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>هل تريد إعادة محاولة رفع الحافظة؟</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>الروسية</value>
   </data>
@@ -533,14 +544,11 @@
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>تم تعطيل البدء التلقائي للتطبيق بواسطة مدير المهام</value>
   </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>هل تريد إعادة محاولة رفع الحافظة؟</value>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>معرّف العملية</value>
   </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>لم يتم العثور على نافذة لديها العنوان المحدد.</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>تم تعطيل البدء التلقائي للتطبيق بواسطة مؤسستك</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>مقبض النافذة</value>
@@ -548,15 +556,15 @@
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>الإيطالية</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>هل تريد حذف هذا الملف؟</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>أفلت
 هـنــا</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>التركية</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>مجلد الرفع</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>فشل حفظ الأعدادات</value>
@@ -601,16 +609,14 @@
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>فشل إنشاء الصورة إلى:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>البدء</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>الصينية الشعبية</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>الكورية</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>انقر مع السحب للتحريك
-انقر بالزر الأيمن للخيارات
-انقر بالزر الأوسط للإغلاق</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>محتويات الحافظة: نص طوله {0} حرفًا</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>تم نسخ {0} إلى الحافظة</value>
@@ -639,11 +645,5 @@
   <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
     <value>فشل التنزيل:
 {0}</value>
-  </data>
-  <data name="AutoCaptureForm_UpdateRegion_X___0___Y___1___Width___2___Height___3_" xml:space="preserve">
-    <value>X: {0}, Y: {1}, العرض: {2}, الارتفاع: {3}</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>تبرع</value>
   </data>
 </root>

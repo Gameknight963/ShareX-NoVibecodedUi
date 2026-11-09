@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>取消</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>首次上傳警告</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>切換到縮圖模式</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>停止中</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>首次上傳警告</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>編輯此選單...</value>
@@ -179,14 +179,16 @@
 
 是否要重新啟動 ShareX？</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>繁體中文</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>偵錯日誌可能包含敏感資訊。確定要繼續嗎？</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>印尼文</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>按住滑鼠左鍵以拖曳
+點擊滑鼠右鍵以開啟選單
+點擊滑鼠中鍵以關閉</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>致謝</value>
@@ -196,9 +198,6 @@
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>類別名稱</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>縮網址服務：{0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>歷史</value>
@@ -212,11 +211,17 @@
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>停用快捷鍵</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>確定要刪除此檔案嗎？</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>剪貼簿內容：檔案 ({0} 個)</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>無法建立資料夾：</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>使用新名稱: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>確定要上傳此截圖嗎？
@@ -252,12 +257,6 @@
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>下載和上傳的網址</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>剪貼簿內容：文字 (長度：{0})</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>處理程序識別碼</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>預覽：</value>
   </data>
@@ -276,12 +275,18 @@
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>任務設定</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>開機啟動已被你的組織停用</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>你正在嘗試上傳大型檔案。
 確定要繼續嗎？</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>未找到 FFmpeg</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>法文</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>檔案上傳工具：{0}</value>
@@ -295,9 +300,6 @@
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>名稱不能為空。</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>使用新名稱: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>不要再顯示此訊息。</value>
   </data>
@@ -307,11 +309,11 @@
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>翻譯</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>資料夾上傳</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>隱私權政策</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>選擇 ShareX 個人資料夾路徑</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>羅馬尼亞文</value>
@@ -378,8 +380,14 @@
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>是否要重設所有快速任務為預設值？</value>
   </data>
+  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
+    <value>阿拉伯語</value>
+  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>擷取後：{0}</value>
+  </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>開始中</value>
   </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>點擊滑鼠左鍵以將網址複製到剪貼簿。點擊滑鼠右鍵以開啟網址。</value>
@@ -404,6 +412,9 @@
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>日文</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>捐贈</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>快捷鍵已啟用。</value>
@@ -446,8 +457,8 @@
   <data name="Error" xml:space="preserve">
     <value>錯誤</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>選擇 ShareX 個人資料夾路徑</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>縮網址服務：{0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>西班牙文</value>
@@ -479,9 +490,6 @@
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>下載中</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>法文</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>光學文字識別僅支援 Windows {0} 或更新版本。</value>
   </data>
@@ -509,6 +517,9 @@
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>已停止</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>是否要重試剪貼簿上傳？</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>俄文</value>
   </data>
@@ -533,14 +544,11 @@
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>開機啟動已被任務管理器停用</value>
   </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>是否要重試剪貼簿上傳？</value>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>處理程序識別碼</value>
   </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>無法找到符合指定的視窗標題的視窗。</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>開機啟動已被你的組織停用</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>視窗控制碼</value>
@@ -548,15 +556,15 @@
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>義大利文</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>確定要刪除此檔案嗎？</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>拖到
 此處</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>土耳其文</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>資料夾上傳</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>儲存設定失敗</value>
@@ -601,16 +609,14 @@
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>無法寫入圖片至路徑：</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>開始中</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>繁體中文</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>韓文</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>按住滑鼠左鍵以拖曳
-點擊滑鼠右鍵以開啟選單
-點擊滑鼠中鍵以關閉</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>剪貼簿內容：文字 (長度：{0})</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>已複製到剪貼簿：{0}</value>
@@ -639,11 +645,5 @@
   <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
     <value>下載失敗：
 {0}</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>阿拉伯語</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>捐贈</value>
   </data>
 </root>

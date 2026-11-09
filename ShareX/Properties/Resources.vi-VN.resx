@@ -150,14 +150,14 @@
   <data name="QuickTaskMenu_ShowMenu_Cancel" xml:space="preserve">
     <value>Hủy bỏ</value>
   </data>
-  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
-    <value>Cảnh báo với lần tải lên đầu tiên</value>
-  </data>
   <data name="SwitchToThumbnailView" xml:space="preserve">
     <value>Chuyển qua xem trước ảnh</value>
   </data>
   <data name="UploadTask_Stop_Stopping" xml:space="preserve">
     <value>Đang dừng lại</value>
+  </data>
+  <data name="UploadTask_DoUploadJob_First_time_upload_warning" xml:space="preserve">
+    <value>Cảnh báo với lần tải lên đầu tiên</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Edit_this_menu___" xml:space="preserve">
     <value>Sửa menu này...</value>
@@ -168,6 +168,9 @@
   <data name="ActionsToolbar_StayTopMost" xml:space="preserve">
     <value>Giữ ở trên cùng</value>
   </data>
+  <data name="ShareXIsUpToDate" xml:space="preserve">
+    <value>ShareX đã được cập nhật!</value>
+  </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Lịch sử thay đổi</value>
   </data>
@@ -175,14 +178,16 @@
     <value>ShareX cần được khởi động lại để thay đổi ngôn ngữ có tác dụng.
 Bạn có muốn khởi động lại ShareX không?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Tiếng Trung phồn thể</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Dữ liệu debug có thể chứa thông tin nhạy cảm. Bạn có chắc muốn tiếp tục không?</value>
   </data>
   <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
     <value>Tiếng Indonesia</value>
+  </data>
+  <data name="ActionsToolbar_Tip" xml:space="preserve">
+    <value>Nhấn chuột trái để kéo
+Nhấn chuột phải để mở menu
+Nhấn chuột giữa để đóng</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Tín dụng</value>
@@ -192,9 +197,6 @@ Bạn có muốn khởi động lại ShareX không?</value>
   </data>
   <data name="InspectWindow_ClassName" xml:space="preserve">
     <value>Tên lớp</value>
-  </data>
-  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>Dịch vụ rút gọn URL: {0}</value>
   </data>
   <data name="TaskManager_CreateListViewItem_History" xml:space="preserve">
     <value>Lịch sử</value>
@@ -208,11 +210,17 @@ Bạn có muốn khởi động lại ShareX không?</value>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Vô hiệu hóa phím tắt</value>
   </data>
+  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
+    <value>Bạn có thật sự muốn xóa tệp này không?</value>
+  </data>
   <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__File__Count___0__" xml:space="preserve">
     <value>Nội dung khay nhớ tạm: Tệp (Số lượng: {0})</value>
   </data>
   <data name="Program_Run_Unable_to_create_folder_" xml:space="preserve">
     <value>Không thể tạo thư mục mới:</value>
+  </data>
+  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
+    <value>Dùng tên mới: </value>
   </data>
   <data name="UploadTask_DoUploadJob_First_time_upload_warning_text" xml:space="preserve">
     <value>Bạn có chắc chắn muốn tải ảnh chụp màn hình này lên không?
@@ -248,12 +256,6 @@ Nhấn "Không" để hủy tiến trình tải lên hiện tại và tắt ch�
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>URL để tải xuống và tải lên</value>
   </data>
-  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
-    <value>Nội dung khay nhớ tạm: Văn bản (Độ dài: {0})</value>
-  </data>
-  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
-    <value>Quy trình nhận dạng</value>
-  </data>
   <data name="TaskSettingsForm_txtNameFormatPatternActiveWindow_TextChanged_Preview_" xml:space="preserve">
     <value>Xem trước:</value>
   </data>
@@ -272,12 +274,18 @@ Nhấn "Không" để hủy tiến trình tải lên hiện tại và tắt ch�
   <data name="TaskSettingsForm_UpdateWindowTitle_Task_settings" xml:space="preserve">
     <value>Thiết lập tác vụ</value>
   </data>
+  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
+    <value>Tự khởi động đã bị vô hiệu bởi tổ chức của bạn</value>
+  </data>
   <data name="UploadTask_DoUploadJob_You_are_attempting_to_upload_a_large_file" xml:space="preserve">
     <value>Bạn đang chuẩn bị tải lên một tệp tin lớn.
 Bạn có muốn tiếp tục?</value>
   </data>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg bị thiếu</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
+    <value>Tiếng Pháp</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>Dịch vụ tải lên tệp: {0}</value>
@@ -291,9 +299,6 @@ Bạn có muốn tiếp tục?</value>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Tên không thể để trống</value>
   </data>
-  <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
-    <value>Dùng tên mới: </value>
-  </data>
   <data name="UploadManager_IsUploadConfirmed_Don_t_show_this_message_again_" xml:space="preserve">
     <value>Không hiện thông báo này nữa.</value>
   </data>
@@ -303,11 +308,11 @@ Bạn có muốn tiếp tục?</value>
   <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
     <value>Biên dịch</value>
   </data>
-  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
-    <value>Tải lên thư mục</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Chính sách bảo mật</value>
+  </data>
+  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
+    <value>Chọn đường dẫn thư mục riêng cho ShareX</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Tiếng Rumani</value>
@@ -320,6 +325,9 @@ Bạn có muốn tiếp tục?</value>
   </data>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Phân cách</value>
+  </data>
+  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
+    <value>Tiếng Do Thái</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>Tính năng này sẽ không hoạt động khi tùy chọn "DisableUpload" được kích hoạt!</value>
@@ -371,8 +379,14 @@ Sau đó, bạn có thể tắt nó từ menu "Sau khi chụp tác vụ".</value
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Đặt lại tất cả tác vụ nhanh về mặc định?</value>
   </data>
+  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
+    <value>Tiếng Ả Rập</value>
+  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>Sau khi chụp: {0}</value>
+  </data>
+  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
+    <value>Đang bắt đầu</value>
   </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>Chuột trái để sao chép URL vào vùng nhớ tạm. Chuột phải để mở URL.</value>
@@ -397,6 +411,9 @@ Sau đó, bạn có thể tắt nó từ menu "Sau khi chụp tác vụ".</value
   </data>
   <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
     <value>Tiếng Nhật</value>
+  </data>
+  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
+    <value>Quyên góp</value>
   </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Phím tắt đã bị vô hiệu hóa.</value>
@@ -439,8 +456,8 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="Error" xml:space="preserve">
     <value>Lỗi</value>
   </data>
-  <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Chọn đường dẫn thư mục riêng cho ShareX</value>
+  <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
+    <value>Dịch vụ rút gọn URL: {0}</value>
   </data>
   <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
     <value>Tiếng Tây Ban Nha</value>
@@ -472,9 +489,6 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Đang tải về</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Tiếng Pháp</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Tính năng nhận dạng ký tự quang học chỉ khả dụng với phiên bản Windows {0} hoặc mới hơn.</value>
   </data>
@@ -502,11 +516,19 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Đã dừng lại</value>
   </data>
+  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
+    <value>Would you like to retry clipboard tải lên?</value>
+  </data>
   <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
     <value>Tiếng Nga</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>Nguồn âm thanh và video FFmpeg không được là "Không".</value>
+  </data>
+  <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
+    <value>Không thể đóng ShareX khi đang quay màn hình.
+
+Bạn có muốn hủy phiên quay màn hình đang hoạt động không?</value>
   </data>
   <data name="IntegrationHelpers_UploadWithShareX" xml:space="preserve">
     <value>Tải lên với ShareX</value>
@@ -521,11 +543,11 @@ Vui lòng chạy ShareX dưới quyền administrator để thay đổi thư m�
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Tự khởi động đã bị vô hiệu trong Task Manager</value>
   </data>
+  <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
+    <value>Quy trình nhận dạng</value>
+  </data>
   <data name="UnableToFindAWindowWithSpecifiedWindowTitle" xml:space="preserve">
     <value>Không thể tìm thấy một cửa sổ có tiêu đề cửa sổ được chỉ định.</value>
-  </data>
-  <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByPolicy_Text" xml:space="preserve">
-    <value>Tự khởi động đã bị vô hiệu bởi tổ chức của bạn</value>
   </data>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Tay nắm cửa sổ</value>
@@ -533,15 +555,15 @@ Vui lòng chạy ShareX dưới quyền administrator để thay đổi thư m�
   <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
     <value>Tiếng Ý</value>
   </data>
-  <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
-    <value>Bạn có thật sự muốn xóa tệp này không?</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Thả
 ở đây</value>
   </data>
   <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
     <value>Tiếng Thổ Nhĩ Kỳ</value>
+  </data>
+  <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
+    <value>Tải lên thư mục</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Không lưu được cài đặt</value>
@@ -561,6 +583,9 @@ Vui lòng chọn phím tắt khác hoặc thoát ứng dụng đang gây lỗi v
   </data>
   <data name="AboutForm_AboutForm_Team" xml:space="preserve">
     <value>Đồng đội</value>
+  </data>
+  <data name="ClipboardUpload" xml:space="preserve">
+    <value>Clipboard tải lên</value>
   </data>
   <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
     <value>Tiếng Việt</value>
@@ -583,16 +608,14 @@ Vui lòng chọn phím tắt khác hoặc thoát ứng dụng đang gây lỗi v
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Không thể ghi hình ảnh vào đường dẫn:</value>
   </data>
-  <data name="UploadTask_Prepare_Starting" xml:space="preserve">
-    <value>Đang bắt đầu</value>
+  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
+    <value>Tiếng Trung phồn thể</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
     <value>Tiếng Hàn</value>
   </data>
-  <data name="ActionsToolbar_Tip" xml:space="preserve">
-    <value>Nhấn chuột trái để kéo
-Nhấn chuột phải để mở menu
-Nhấn chuột giữa để đóng</value>
+  <data name="ClipboardContentViewer_ClipboardContentViewer_Load_Clipboard_content__Text__Length___0__" xml:space="preserve">
+    <value>Nội dung khay nhớ tạm: Văn bản (Độ dài: {0})</value>
   </data>
   <data name="TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_" xml:space="preserve">
     <value>Đã sao chép vào vùng nhớ tạm: {0}</value>
@@ -621,28 +644,5 @@ Nhấn chuột giữa để đóng</value>
   <data name="UploadManager_DownloadAndUploadFile_Download_failed" xml:space="preserve">
     <value>Tải về thất bại:
 {0}</value>
-  </data>
-  <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX đã được cập nhật!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Tiếng Do Thái</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Tiếng Ả Rập</value>
-  </data>
-  <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
-    <value>Quyên góp</value>
-  </data>
-  <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>Không thể đóng ShareX khi đang quay màn hình.
-
-Bạn có muốn hủy phiên quay màn hình đang hoạt động không?</value>
-  </data>
-  <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
-    <value>Would you like to retry clipboard tải lên?</value>
-  </data>
-  <data name="ClipboardUpload" xml:space="preserve">
-    <value>Clipboard tải lên</value>
   </data>
 </root>
