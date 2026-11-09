@@ -13,6 +13,7 @@
 3. Create UI. All UI in ShareX-NVU MUST be hand-made, ideally via the Designer so others can later edit it easily. _This excludes cases which would involve a lot of tedious low-skilled work, in which case AI can be a good tool._
 
    a. Rationale 1: AI generated UIs look bad and contributed to what ShareX 22 has become.
+   
    b. Rationale 2: Agents typically have a hard time making sure what they create is compatiable with the designer in my experience. They often do stupid stuff like putting lambdas in .Designer.cs files which breaks them.
 5. Speak for us. No AI-generated communication. Don't paste AI-generated output directly into issues, PRs, or any other form of discussions. AI is acceptable for translation but include the original untranslated text (perhaps in a [collapsed section](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)).
 
