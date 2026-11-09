@@ -130,7 +130,7 @@
     <value>Gözat...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Hash kontrol</value>
+    <value>ShareX-NVU - Hash kontrol</value>
   </data>
   <data name="lblHashType.Text" xml:space="preserve">
     <value>Hash türü:</value>

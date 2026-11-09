@@ -127,7 +127,7 @@
     <value>Service de mise en ligne de fichiers :</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Paramètres de service de mise en ligne personnalisé</value>
+    <value>ShareX-NVU - Paramètres de service de mise en ligne personnalisé</value>
   </data>
   <data name="btnDataBeautify.Text" xml:space="preserve">
     <value>Beautifier</value>

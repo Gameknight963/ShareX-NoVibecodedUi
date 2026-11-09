@@ -130,10 +130,10 @@
     <value>你可以在“应用程序设置-&gt;综合”找到这些设置。</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>当 ShareX 开启时，在 Steam 状态显示 ShareX</value>
+    <value>当 ShareX-NVU 开启时，在 Steam 状态显示 ShareX-NVU</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>ShareX 首次配置</value>
+    <value>ShareX-NVU 首次配置</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>确定</value>

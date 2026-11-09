@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>ShareX تنظیمات اولیه نرم افزار</value>
+    <value>ShareX-NVU تنظیمات اولیه نرم افزار</value>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>نشان دادن شیرایکس در منوی «ارسال به»</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>هنگام شروع ویندوز، ShareX را اجرا کن</value>
+    <value>هنگام شروع ویندوز، ShareX-NVU را اجرا کن</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>تایید</value>
@@ -136,6 +136,6 @@
     <value>شما میتوانید این تنظیمات را در تنظیمات برنامه -&gt; تعامل پیدا کنید.</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>هنگامی که ShareX باز است، در Steam «درون‌برنامه» نمایش داده شود</value>
+    <value>هنگامی که ShareX-NVU باز است، در Steam «درون‌برنامه» نمایش داده شود</value>
   </data>
 </root>

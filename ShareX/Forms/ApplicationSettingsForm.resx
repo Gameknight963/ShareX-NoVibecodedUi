@@ -214,7 +214,7 @@
     <value>8</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Use white ShareX icon</value>
+    <value>Use white ShareX-NVU icon</value>
   </data>
   <data name="&gt;&gt;cbUseWhiteShareXIcon.Name" xml:space="preserve">
     <value>cbUseWhiteShareXIcon</value>
@@ -988,7 +988,7 @@
     <value>0</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>While ShareX is open, show "In-App" in Steam</value>
+    <value>While ShareX-NVU is open, show "In-App" in Steam</value>
   </data>
   <data name="&gt;&gt;cbSteamShowInApp.Name" xml:space="preserve">
     <value>cbSteamShowInApp</value>
@@ -1453,7 +1453,7 @@
     <value>0</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX personal folder:</value>
+    <value>ShareX-NVU personal folder:</value>
   </data>
   <data name="&gt;&gt;lblPersonalFolderPath.Name" xml:space="preserve">
     <value>lblPersonalFolderPath</value>
@@ -4077,7 +4077,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Application settings</value>
+    <value>ShareX-NVU - Application settings</value>
   </data>
   <data name="&gt;&gt;chDescription.Name" xml:space="preserve">
     <value>chDescription</value>

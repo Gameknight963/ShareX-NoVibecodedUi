@@ -127,7 +127,7 @@
     <value>Przeglądaj...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Sprawdź hash</value>
+    <value>ShareX-NVU - Sprawdź hash</value>
   </data>
   <data name="cbCompareTwoFiles.Text" xml:space="preserve">
     <value>Porównaj dwa pliki</value>

@@ -702,7 +702,7 @@
     <value>釘選至螢幕...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>以系統管理員身分重啟 ShareX</value>
+    <value>以系統管理員身分重啟 ShareX-NVU</value>
   </data>
   <data name="tsmiTrayBorderlessWindow.Text" xml:space="preserve">
     <value>無邊框視窗...</value>

@@ -121,7 +121,7 @@
     <value>Erweitert</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Anwendungseinstellungen</value>
+    <value>ShareX-NVU - Anwendungseinstellungen</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -142,7 +142,7 @@
     <value>Puffergröße:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX-Einstellungsordner:</value>
+    <value>ShareX-NVU-Einstellungsordner:</value>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
     <value>Integration</value>
@@ -253,7 +253,7 @@
     <value>Sprache:</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>"In-App" in Steam anzeigen, während ShareX geöffnet ist</value>
+    <value>"In-App" in Steam anzeigen, während ShareX-NVU geöffnet ist</value>
   </data>
   <data name="cbShellContextMenu.Text" xml:space="preserve">
     <value>"Mit ShareX hochladen"-Eintrag im Kontextmenü anzeigen</value>
@@ -328,7 +328,7 @@
     <value>"Mit ShareX bearbeiten"-Eintrag im Kontextmenü anzeigen</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Weißes ShareX-Icon verwenden</value>
+    <value>Weißes ShareX-NVU-Icon verwenden</value>
   </data>
   <data name="btnPersonalFolderPathApply.Text" xml:space="preserve">
     <value>Übernehmen</value>

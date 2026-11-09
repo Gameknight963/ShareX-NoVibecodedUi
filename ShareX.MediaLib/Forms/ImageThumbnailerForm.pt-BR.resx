@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Miniatura de imagem</value>
+    <value>ShareX-NVU - Miniatura de imagem</value>
   </data>
   <data name="lblOutputFilename.Text" xml:space="preserve">
     <value>Nome do arquivo de saída:</value>

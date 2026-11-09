@@ -121,7 +121,7 @@
     <value>OK</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Windowsの起動時にShareXを実行</value>
+    <value>Windowsの起動時にShareX-NVUを実行</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>エクスプローラーのコンテキストメニューに「ShareXでアップロード」を表示</value>
@@ -130,12 +130,12 @@
     <value>「送る」メニューにShareXを表示</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>ShareX起動中は、Steamの「ゲーム中」に表示</value>
+    <value>ShareX-NVU起動中は、Steamの「ゲーム中」に表示</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
     <value>これらの設定は「アプリの設定 -&gt; シェル統合」タブで変更できます。</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>ShareX 初回起動時設定</value>
+    <value>ShareX-NVU 初回起動時設定</value>
   </data>
 </root>

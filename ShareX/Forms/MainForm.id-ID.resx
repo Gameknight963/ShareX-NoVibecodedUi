@@ -772,7 +772,7 @@
     <value>Pengaturan pengunggah kustom...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Mulai ulang ShareX sebagai admin</value>
+    <value>Mulai ulang ShareX-NVU sebagai admin</value>
   </data>
   <data name="cHotkey.HeaderText" xml:space="preserve">
     <value>Tombol pintas</value>

@@ -221,7 +221,7 @@ namespace ShareX.UploadersLib
             // 
             // eiCustomUploaders
             // 
-            eiCustomUploaders.CustomFilter = "ShareX custom uploader (*.sxcu)|*.sxcu";
+            eiCustomUploaders.CustomFilter = "ShareX-NVU custom uploader (*.sxcu)|*.sxcu";
             eiCustomUploaders.DefaultFileName = null;
             eiCustomUploaders.ExportIgnoreDefaultValue = true;
             eiCustomUploaders.ExportIgnoreNull = true;

@@ -92,7 +92,7 @@ namespace ShareX.ScreenCaptureLib
             }
             else
             {
-                MessageBox.Show(Resources.EditorStartupForm_ClipboardDoesNotContainAnImage, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.EditorStartupForm_ClipboardDoesNotContainAnImage, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 

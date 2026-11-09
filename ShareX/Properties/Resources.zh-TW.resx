@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX 已最小化到系統匣。</value>
+    <value>ShareX-NVU 已最小化到系統匣。</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>剩餘時間: {0}秒 ({1}%) 總計: {2}</value>
@@ -169,15 +169,15 @@
     <value>保持在最上層</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX 已為最新版！</value>
+    <value>ShareX-NVU 已為最新版！</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>更新日誌</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>更改語言需要重新啟動 ShareX 才會生效。
+    <value>更改語言需要重新啟動 ShareX-NVU 才會生效。
 
-是否要重新啟動 ShareX？</value>
+是否要重新啟動 ShareX-NVU？</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>偵錯日誌可能包含敏感資訊。確定要繼續嗎？</value>
@@ -206,7 +206,7 @@
     <value>選擇快捷鍵...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>Windows 開機時執行 ShareX</value>
+    <value>Windows 開機時執行 ShareX-NVU</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>停用快捷鍵</value>
@@ -228,7 +228,7 @@
 按「否」以取消目前的上傳動作並停用自動上傳截圖。</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>ShareX 包含的 FFmpeg 僅支援 64 位元的作業系統。</value>
+    <value>ShareX-NVU 包含的 FFmpeg 僅支援 64 位元的作業系統。</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>上傳中</value>
@@ -252,7 +252,7 @@
     <value>分享網址 ({0})</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>需從 Steam 重新開啟 ShareX，設定才會生效。</value>
+    <value>需從 Steam 重新開啟 ShareX-NVU，設定才會生效。</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>下載和上傳的網址</value>
@@ -267,7 +267,7 @@
     <value>X: {0}，Y: {1}，寬: {2}，高: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>是否要重設 ShareX 設定？</value>
+    <value>是否要重設 ShareX-NVU 設定？</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} 將上傳到 {1}。你可以選擇其他目的地。</value>
@@ -313,7 +313,7 @@
     <value>隱私權政策</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>選擇 ShareX 個人資料夾路徑</value>
+    <value>選擇 ShareX-NVU 個人資料夾路徑</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>羅馬尼亞文</value>
@@ -375,7 +375,7 @@
     <value>錯誤</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>你的防毒軟體或 Windows 的受控資料夾存取權功能可能阻擋了 ShareX。</value>
+    <value>你的防毒軟體或 Windows 的受控資料夾存取權功能可能阻擋了 ShareX-NVU。</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>是否要重設所有快速任務為預設值？</value>
@@ -438,9 +438,9 @@
     <value>關閉</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>更改個人資料夾需要重新啟動 ShareX 才會生效。
+    <value>更改個人資料夾需要重新啟動 ShareX-NVU 才會生效。
 
-是否要重新啟動 ShareX？</value>
+是否要重新啟動 ShareX-NVU？</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>網站</value>
@@ -485,7 +485,7 @@
     <value>你可以在快捷鍵設定中新增快捷動作...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - 確認</value>
+    <value>ShareX-NVU - 確認</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>下載中</value>
@@ -527,7 +527,7 @@
     <value>FFmpeg 視訊和音訊源不能同時為「無」。</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>錄製螢幕時無法關閉 ShareX。
+    <value>錄製螢幕時無法關閉 ShareX-NVU。
 
 是否要取消目前的螢幕錄製？</value>
   </data>
@@ -539,7 +539,7 @@
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>無法存取「{0}」檔案。
-請以管理員身分執行 ShareX 以更改個人資料夾路徑。</value>
+請以管理員身分執行 ShareX-NVU 以更改個人資料夾路徑。</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>開機啟動已被任務管理器停用</value>
@@ -577,7 +577,7 @@
 
 {1}
 
-請選擇其他快捷鍵，或退出衝突的應用程式並重啟 ShareX。</value>
+請選擇其他快捷鍵，或退出衝突的應用程式並重啟 ShareX-NVU。</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>客戶端矩形區域</value>
@@ -631,7 +631,7 @@
     <value>截圖倒數計時：{0} 秒</value>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
-    <value>啟動 ShareX 時開啟</value>
+    <value>啟動 ShareX-NVU 時開啟</value>
   </data>
   <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
     <value>你的系統管理員已停用上傳功能。</value>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Ustawienia okna bez ramek</value>
+    <value>ShareX-NVU - Ustawienia okna bez ramek</value>
   </data>
   <data name="cbAutoCloseWindow.Text" xml:space="preserve">
     <value>Automatycznie zamknij okno</value>

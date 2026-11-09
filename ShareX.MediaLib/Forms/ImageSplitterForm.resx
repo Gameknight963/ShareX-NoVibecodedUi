@@ -453,7 +453,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Image splitter</value>
+    <value>ShareX-NVU - Image splitter</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ImageSplitterForm</value>

@@ -107,7 +107,7 @@ namespace ShareX.UploadersLib.FileUploaders
             pushArgs.Add("device_iden", Config.CurrentDevice.Key);
             pushArgs.Add("type", "file");
             pushArgs.Add("file_url", fileInfo.file_url);
-            pushArgs.Add("body", "Sent via ShareX");
+            pushArgs.Add("body", "Sent via ShareX-NVU");
             pushArgs.Add("file_type", fileInfo.file_type);
 
             string pushResult = SendRequestMultiPart(apiSendPushURL, pushArgs, headers);
@@ -137,7 +137,7 @@ namespace ShareX.UploadersLib.FileUploaders
                 if (pushType == "link")
                     args.Add("body", value);
                 else
-                    args.Add("body", "Sent via ShareX");
+                    args.Add("body", "Sent via ShareX-NVU");
             }
 
             string response = SendRequestMultiPart(apiSendPushURL, args, headers);

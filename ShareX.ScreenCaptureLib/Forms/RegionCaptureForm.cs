@@ -275,7 +275,7 @@ namespace ShareX.ScreenCaptureLib
 
             if (IsEditorMode)
             {
-                title.AppendFormat("ShareX - {0}", Resources.RegionCaptureForm_InitializeComponent_ImageEditor);
+                title.AppendFormat("ShareX-NVU - {0}", Resources.RegionCaptureForm_InitializeComponent_ImageEditor);
 
                 if (Canvas != null)
                 {
@@ -302,7 +302,7 @@ namespace ShareX.ScreenCaptureLib
             }
             else
             {
-                title.AppendFormat("ShareX - {0}", Resources.BaseRegionForm_InitializeComponent_Region_capture);
+                title.AppendFormat("ShareX-NVU - {0}", Resources.BaseRegionForm_InitializeComponent_Region_capture);
             }
 
             Text = title.ToString();

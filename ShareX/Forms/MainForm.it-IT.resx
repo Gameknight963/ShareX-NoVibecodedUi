@@ -772,7 +772,7 @@
     <value>Impostazioni uploader personalizzato...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Riavvia ShareX come amministratore</value>
+    <value>Riavvia ShareX-NVU come amministratore</value>
   </data>
   <data name="cHotkey.HeaderText" xml:space="preserve">
     <value>Tasto di scelta rapida</value>

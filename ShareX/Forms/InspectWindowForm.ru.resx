@@ -121,7 +121,7 @@
     <value>Исследовать окно...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Исследовать окно</value>
+    <value>ShareX-NVU - Исследовать окно</value>
   </data>
   <data name="btnInspectControl.Text" xml:space="preserve">
     <value>Исследовать элемент...</value>

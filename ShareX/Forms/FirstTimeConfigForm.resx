@@ -135,7 +135,7 @@
     <value>2</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Run ShareX when Windows starts</value>
+    <value>Run ShareX-NVU when Windows starts</value>
   </data>
   <data name="&gt;&gt;cbRunStartup.Name" xml:space="preserve">
     <value>cbRunStartup</value>
@@ -225,7 +225,7 @@
     <value>5</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>While ShareX is open, show "In-app" in Steam</value>
+    <value>While ShareX-NVU is open, show "In-app" in Steam</value>
   </data>
   <data name="&gt;&gt;cbSteamInApp.Name" xml:space="preserve">
     <value>cbSteamInApp</value>
@@ -315,7 +315,7 @@
     <value>1</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>ShareX first time config</value>
+    <value>ShareX-NVU first time config</value>
   </data>
   <data name="&gt;&gt;lblTitle.Name" xml:space="preserve">
     <value>lblTitle</value>
@@ -343,7 +343,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX</value>
+    <value>ShareX-NVU</value>
     <comment>@Invariant</comment>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">

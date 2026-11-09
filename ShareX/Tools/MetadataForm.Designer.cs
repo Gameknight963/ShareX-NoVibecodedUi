@@ -99,7 +99,7 @@ namespace ShareX
             this.MinimumSize = new System.Drawing.Size(500, 500);
             this.Name = "MetadataForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ShareX - Metadata";
+            this.Text = "ShareX-NVU - Metadata";
             this.Shown += new System.EventHandler(this.MetadataForm_Shown);
             this.DragDrop += new System.Windows.Forms.DragEventHandler(this.MetadataForm_DragDrop);
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.MetadataForm_DragEnter);

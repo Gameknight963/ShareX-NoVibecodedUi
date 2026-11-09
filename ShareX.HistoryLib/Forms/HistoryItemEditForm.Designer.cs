@@ -293,7 +293,7 @@ namespace ShareX.HistoryLib.Forms
             MaximizeBox = false;
             Name = "HistoryItemEdit";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            Text = "ShareX - Edit item";
+            Text = "ShareX-NVU - Edit item";
             ((System.ComponentModel.ISupportInitialize)dgvTags).EndInit();
             ResumeLayout(false);
             PerformLayout();

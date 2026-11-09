@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - מציג לוח הגזירה</value>
+    <value>ShareX-NVU - מציג לוח הגזירה</value>
   </data>
   <data name="chFormat.Text" xml:space="preserve">
     <value>פורמט</value>

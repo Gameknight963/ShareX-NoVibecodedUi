@@ -124,7 +124,7 @@
     <value>Rộng:</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Tạo ảnh nhỏ/Thumbnail</value>
+    <value>ShareX-NVU - Tạo ảnh nhỏ/Thumbnail</value>
   </data>
   <data name="lblOutputFilename.Text" xml:space="preserve">
     <value>Tên tệp đầu ra:</value>

@@ -61,8 +61,8 @@ namespace ShareX.NativeMessagingHost
             }
             else
             {
-                MessageBox.Show("This executable is used to receive data from browser addon and send it to ShareX.",
-                    "ShareX NativeMessagingHost", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("This executable is used to receive data from browser addon and send it to ShareX-NVU.",
+                    "ShareX-NVU NativeMessagingHost", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

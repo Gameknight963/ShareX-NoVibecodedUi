@@ -121,7 +121,7 @@
     <value>OK</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Iniciar ShareX quando o Windows iniciar</value>
+    <value>Iniciar ShareX-NVU quando o Windows iniciar</value>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>Mostrar ShareX no menu "Enviar para"</value>
@@ -136,6 +136,6 @@
     <value>Você pode achar estas configurações em "Configs. do programa -&gt; Integração".</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Configuração inicial do ShareX</value>
+    <value>Configuração inicial do ShareX-NVU</value>
   </data>
 </root>

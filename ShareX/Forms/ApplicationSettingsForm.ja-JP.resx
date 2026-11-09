@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - アプリの設定</value>
+    <value>ShareX-NVU - アプリの設定</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>参照...</value>
@@ -232,7 +232,7 @@
     <value>起動時にシステムトレイに最小化</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>ShareX起動中は、Steamの「ゲーム中」に表示</value>
+    <value>ShareX-NVU起動中は、Steamの「ゲーム中」に表示</value>
   </data>
   <data name="cbTaskbarProgressEnabled.Text" xml:space="preserve">
     <value>進行状況をタスクバーに表示</value>
@@ -280,7 +280,7 @@
     <value>エクスポートしたファイルには、アカウントの情報やアップロード履歴が含まれることがあるため他者に共有しないようにしましょう。</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX 用の個人フォルダー:</value>
+    <value>ShareX-NVU 用の個人フォルダー:</value>
   </data>
   <data name="lblProxyHost.Text" xml:space="preserve">
     <value>ホスト:</value>

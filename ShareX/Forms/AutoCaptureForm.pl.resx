@@ -121,7 +121,7 @@
     <value>Wybierz region...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Automatyczne przechwytywanie</value>
+    <value>ShareX-NVU - Automatyczne przechwytywanie</value>
   </data>
   <data name="btnExecute.Text" xml:space="preserve">
     <value>Rozpocznij</value>
@@ -142,7 +142,7 @@
     <value>Poczekaj, aż zadania zostaną zakończone</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Automatyczne przechwytywanie</value>
+    <value>ShareX-NVU - Automatyczne przechwytywanie</value>
   </data>
   <data name="ssBar.Text" xml:space="preserve">
     <value>Status</value>

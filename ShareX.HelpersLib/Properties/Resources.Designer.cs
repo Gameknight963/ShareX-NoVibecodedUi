@@ -1436,7 +1436,7 @@ namespace ShareX.HelpersLib.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Exit ShareX.
+        ///   Looks up a localized string similar to Exit ShareX-NVU.
         /// </summary>
         internal static string HotkeyType_ExitShareX {
             get {
@@ -3414,7 +3414,7 @@ namespace ShareX.HelpersLib.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX - Image viewer.
+        ///   Looks up a localized string similar to ShareX-NVU - Image viewer.
         /// </summary>
         internal static string ShareXImageViewer {
             get {

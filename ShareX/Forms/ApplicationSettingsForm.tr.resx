@@ -148,7 +148,7 @@
     <value>Gözat...</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX kişisel dizini:</value>
+    <value>ShareX-NVU kişisel dizini:</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>Gözat...</value>
@@ -232,7 +232,7 @@
     <value>Gelişmiş</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Uygulama ayarları</value>
+    <value>ShareX-NVU - Uygulama ayarları</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Vekil Sunucu</value>
@@ -247,7 +247,7 @@
     <value>Tepsi simgesinde durum göster</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>ShareX açık iken Steam de "Uygulamada" olarak göster</value>
+    <value>ShareX-NVU açık iken Steam de "Uygulamada" olarak göster</value>
   </data>
   <data name="tpGeneral.Text" xml:space="preserve">
     <value>Genel</value>
@@ -352,7 +352,7 @@
     <value>Ayarlar</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Beyaz ShareX ikonu kullan</value>
+    <value>Beyaz ShareX-NVU ikonu kullan</value>
   </data>
   <data name="lblCleanupKeepFileCount.Text" xml:space="preserve">
     <value>Saklancak dosya sayısı:</value>

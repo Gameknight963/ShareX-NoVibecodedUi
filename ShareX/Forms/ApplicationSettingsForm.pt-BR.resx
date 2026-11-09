@@ -121,7 +121,7 @@
     <value>Avançado</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Configurações do programa</value>
+    <value>ShareX-NVU - Configurações do programa</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -142,7 +142,7 @@
     <value>Tamanho do buffer:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Pasta pessoal do ShareX:</value>
+    <value>Pasta pessoal do ShareX-NVU:</value>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
     <value>Integração</value>
@@ -301,7 +301,7 @@
     <value>Histórico</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Usar ícone branco do ShareX</value>
+    <value>Usar ícone branco do ShareX-NVU</value>
   </data>
   <data name="cbThumbnailViewShowTitle.Text" xml:space="preserve">
     <value>Mostrar título</value>

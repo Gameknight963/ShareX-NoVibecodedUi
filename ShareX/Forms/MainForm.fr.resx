@@ -469,7 +469,7 @@
     <value>Historique des images...</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>Afficher la fenêtre de ShareX</value>
+    <value>Afficher la fenêtre de ShareX-NVU</value>
   </data>
   <data name="tsmiTrayExit.Text" xml:space="preserve">
     <value>Quitter</value>
@@ -682,7 +682,7 @@
     <value>Visionneuse de presse-papier...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Redémarrer ShareX en tant qu'administrateur</value>
+    <value>Redémarrer ShareX-NVU en tant qu'administrateur</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Embellisseur d'image...</value>

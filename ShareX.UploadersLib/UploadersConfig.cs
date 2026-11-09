@@ -242,7 +242,7 @@ namespace ShareX.UploadersLib
         public string EmailPassword { get; set; } = "";
         public bool EmailRememberLastTo { get; set; } = true;
         public string EmailLastTo { get; set; } = "";
-        public string EmailDefaultSubject { get; set; } = "Sending email from ShareX";
+        public string EmailDefaultSubject { get; set; } = "Sending email from ShareX-NVU";
         public string EmailDefaultBody { get; set; } = "Screenshot is attached.";
         public bool EmailAutomaticSend { get; set; } = false;
         public string EmailAutomaticSendTo { get; set; } = "";

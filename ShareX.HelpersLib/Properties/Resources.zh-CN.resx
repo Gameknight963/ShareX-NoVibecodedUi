@@ -325,7 +325,7 @@
     <value>文字识别（OCR）</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
-    <value>退出 ShareX</value>
+    <value>退出 ShareX-NVU</value>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
     <value>新版本 {0} 可用。
@@ -1233,7 +1233,7 @@
     <value>将当前窗口置顶</value>
   </data>
   <data name="ShareXImageViewer" xml:space="preserve">
-    <value>ShareX - 图片浏览器</value>
+    <value>ShareX-NVU - 图片浏览器</value>
   </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>停止自动捕获</value>

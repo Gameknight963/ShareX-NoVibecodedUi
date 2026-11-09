@@ -87,7 +87,7 @@ namespace ShareX.HelpersLib
 
         public void DownloadUpdate()
         {
-            DebugHelper.WriteLine("Updating ShareX from version {0} to {1}", CurrentVersion, LatestVersion);
+            DebugHelper.WriteLine("Updating ShareX-NVU from version {0} to {1}", CurrentVersion, LatestVersion);
 
             if (IsPortable)
             {

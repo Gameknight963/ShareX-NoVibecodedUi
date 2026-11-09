@@ -676,7 +676,7 @@ namespace ShareX.HistoryLib
                 string itemText = SelectedItemCount > 1 ? "these items" : "this item";
                 string message = $"Do you really want to delete {itemText}?";
 
-                if (MessageBox.Show(message, "ShareX - Confirmation", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                if (MessageBox.Show(message, "ShareX-NVU - Confirmation", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
                     HistoryItem[] historyItems = OnGetHistoryItems();
                     if (historyItems != null && historyItems.Length > 0)
@@ -695,7 +695,7 @@ namespace ShareX.HistoryLib
                 string fileText = SelectedItemCount > 1 ? "these files" : "this file";
                 string message = $"Do you really want to delete {fileText}?";
 
-                if (MessageBox.Show(message, "ShareX - Confirmation", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                if (MessageBox.Show(message, "ShareX-NVU - Confirmation", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
                     HistoryItem[] historyItems = OnGetHistoryItems();
                     if (historyItems != null && historyItems.Length > 0)

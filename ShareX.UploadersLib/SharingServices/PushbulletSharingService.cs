@@ -63,7 +63,7 @@ namespace ShareX.UploadersLib.SharingServices
         {
             UploadResult result = new UploadResult { URL = url, IsURLExpected = false };
 
-            new Pushbullet(Settings).PushLink(url, "ShareX: URL share");
+            new Pushbullet(Settings).PushLink(url, "ShareX-NVU: URL share");
 
             return result;
         }

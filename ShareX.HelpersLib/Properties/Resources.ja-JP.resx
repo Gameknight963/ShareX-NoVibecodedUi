@@ -325,7 +325,7 @@
     <value>文字認識 (OCR)</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
-    <value>ShareXを終了</value>
+    <value>ShareX-NVUを終了</value>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
     <value>{0}の最新版があります。
@@ -861,7 +861,7 @@
     <value>フォルダーの選択</value>
   </data>
   <data name="HotkeyType_OpenMainWindow" xml:space="preserve">
-    <value>ShareX ウィンドウを表示</value>
+    <value>ShareX-NVU ウィンドウを表示</value>
   </data>
   <data name="HotkeyType_ScreenColorPicker" xml:space="preserve">
     <value>スクリーン カラー ピッカー</value>
@@ -1155,7 +1155,7 @@
     <value>最前面に固定</value>
   </data>
   <data name="ShareXImageViewer" xml:space="preserve">
-    <value>ShareX - 画像ビューア</value>
+    <value>ShareX-NVU - 画像ビューア</value>
   </data>
   <data name="HotkeyType_PinToScreen" xml:space="preserve">
     <value>最前面に固定</value>

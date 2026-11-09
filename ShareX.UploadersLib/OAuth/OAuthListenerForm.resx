@@ -184,7 +184,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Authorization</value>
+    <value>ShareX-NVU - Authorization</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>OAuthListenerForm</value>

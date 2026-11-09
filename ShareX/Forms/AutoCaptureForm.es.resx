@@ -148,10 +148,10 @@
     <value>Auto-minimizar a la bandeja</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Capturar automáticamente</value>
+    <value>ShareX-NVU - Capturar automáticamente</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Capturar automáticamente</value>
+    <value>ShareX-NVU - Capturar automáticamente</value>
   </data>
   <data name="rbFullscreen.Text" xml:space="preserve">
     <value>Pantalla completa</value>

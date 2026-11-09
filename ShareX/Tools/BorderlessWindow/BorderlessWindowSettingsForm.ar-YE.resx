@@ -124,7 +124,7 @@
     <value>إغلاق تلقائي للنافذة</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - إعدادات النافذة عديمة الحدود</value>
+    <value>ShareX-NVU - إعدادات النافذة عديمة الحدود</value>
   </data>
   <data name="cbExcludeTaskbarArea.Text" xml:space="preserve">
     <value>استبعاد منطقة شريط المهام</value>

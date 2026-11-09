@@ -55,7 +55,7 @@ namespace ShareX
             Cursor = Cursors.Hand;
             FormBorderStyle = FormBorderStyle.None;
             SetStyle(ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint | ControlStyles.AllPaintingInWmPaint, true);
-            Text = "ShareX - Screen tearing test";
+            Text = "ShareX-NVU - Screen tearing test";
             ShowInTaskbar = false;
             TopMost = true;
 

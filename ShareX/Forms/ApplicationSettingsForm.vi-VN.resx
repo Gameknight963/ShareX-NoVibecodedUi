@@ -121,7 +121,7 @@
     <value>Nâng cao</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Thiết lập ứng dụng</value>
+    <value>ShareX-NVU - Thiết lập ứng dụng</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -133,7 +133,7 @@
     <value>Mở...</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>Khi ShareX đang chạy, hiện "In-App" trong Steam</value>
+    <value>Khi ShareX-NVU đang chạy, hiện "In-App" trong Steam</value>
   </data>
   <data name="btnClipboardFormatEdit.Text" xml:space="preserve">
     <value>Chỉnh sửa...</value>
@@ -145,7 +145,7 @@
     <value>Kích thước buffer:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Thư mục riêng của ShareX:</value>
+    <value>Thư mục riêng của ShareX-NVU:</value>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
     <value>Tích hợp</value>
@@ -328,7 +328,7 @@
     <value>Hiện tác vụ gần đây ở menu khay hệ thống</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Dùng biểu tượng ShareX màu trắng</value>
+    <value>Dùng biểu tượng ShareX-NVU màu trắng</value>
   </data>
   <data name="btnThemeReset.Text" xml:space="preserve">
     <value>Thiết lập lại...</value>

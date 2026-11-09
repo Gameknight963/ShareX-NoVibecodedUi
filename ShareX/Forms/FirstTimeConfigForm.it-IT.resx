@@ -121,19 +121,19 @@
     <value>Puoi trovare queste impostazioni in: "Impostazioni Applicazione" -&gt; Scheda "Integrazione"</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Prima Configurazione di ShareX</value>
+    <value>Prima Configurazione di ShareX-NVU</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>Mentre ShareX è aperto, mostra "In-App" su Steam</value>
+    <value>Mentre ShareX-NVU è aperto, mostra "In-App" su Steam</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>Mostra il Pulsante "Carica con ShareX" nel Menu Contestiale di Windows Explorer</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Esegui ShareX all'Avvio di Windows</value>
+    <value>Esegui ShareX-NVU all'Avvio di Windows</value>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>Mostra ShareX nel Menu "Invia a"</value>

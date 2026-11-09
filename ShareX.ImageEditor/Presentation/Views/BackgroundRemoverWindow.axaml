@@ -8,7 +8,7 @@
         mc:Ignorable="d" d:DesignWidth="1080" d:DesignHeight="720"
         x:Class="ShareX.ImageEditor.Presentation.Views.BackgroundRemoverWindow"
         x:DataType="vm:BackgroundRemoverViewModel"
-        Title="ShareX - Background Remover"
+        Title="ShareX-NVU - Background Remover"
         Width="1080"
         Height="720"
         MinWidth="760"

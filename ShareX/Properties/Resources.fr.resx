@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX est réduit dans la zone de notification.</value>
+    <value>ShareX-NVU est réduit dans la zone de notification.</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>Temps restant : {0}s ({1}%) Total : {2}</value>
@@ -169,14 +169,14 @@
     <value>Rester sur le dessus</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX est à jour !</value>
+    <value>ShareX-NVU est à jour !</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Historique des modifications</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>ShareX doit être redémarré pour que les changements de langue s'appliquent.
-Voulez-vous redémarrer ShareX ?</value>
+    <value>ShareX-NVU doit être redémarré pour que les changements de langue s'appliquent.
+Voulez-vous redémarrer ShareX-NVU ?</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Le journal de déboggage peut contenir des informations sensibles. Êtes-vous sûr de vouloir continuer ?</value>
@@ -205,7 +205,7 @@ Clique de la molette pour fermer</value>
     <value>Sélectionner un raccourci clavier...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>Lancer ShareX au démarrage de Windows</value>
+    <value>Lancer ShareX-NVU au démarrage de Windows</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Désactiver les raccourcis clavier</value>
@@ -227,7 +227,7 @@ Clique de la molette pour fermer</value>
 Cliquez sur « Non » pour annuler la mise en ligne et désactiver la mise en ligne automatique.</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>FFmpeg inclus dans ShareX ne support que les systèmes d'exploitation 64-bits.</value>
+    <value>FFmpeg inclus dans ShareX-NVU ne support que les systèmes d'exploitation 64-bits.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Mise en ligne en cours</value>
@@ -251,7 +251,7 @@ Cliquez sur « Non » pour annuler la mise en ligne et désactiver la mise en li
     <value>Partage d'URL ({0})</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>Pour que les réglages prennent effets, ShareX doit être rouvert à partir de Steam.</value>
+    <value>Pour que les réglages prennent effets, ShareX-NVU doit être rouvert à partir de Steam.</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>URL à télécharger et à mettre en ligne</value>
@@ -266,7 +266,7 @@ Cliquez sur « Non » pour annuler la mise en ligne et désactiver la mise en li
     <value>X: {0}, Y : {1}, Largeur : {2}, Hauteur : {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>Voulez-vous réinitialiser les paramètres de ShareX ?</value>
+    <value>Voulez-vous réinitialiser les paramètres de ShareX-NVU ?</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} va être mis en ligne sur {1}. Vous pouvez choisir une destination différente.</value>
@@ -312,7 +312,7 @@ Cliquez sur « Non » pour annuler la mise en ligne et désactiver la mise en li
     <value>Politique de confidentialité</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Choisir le chemin du dossier personnel pour ShareX</value>
+    <value>Choisir le chemin du dossier personnel pour ShareX-NVU</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Roumain</value>
@@ -374,7 +374,7 @@ Vous pourrez les désactiver plus tard depuis le manu "Tâches après la capture
     <value>Erreur</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>Votre logiciel anti-virus ou le control des répertoires Windows pourrait bloquer ShareX.</value>
+    <value>Votre logiciel anti-virus ou le control des répertoires Windows pourrait bloquer ShareX-NVU.</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Réinitialiser les tâches rapides ?</value>
@@ -437,9 +437,9 @@ Vous pourrez les désactiver plus tard depuis le manu "Tâches après la capture
     <value>Fermer</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>ShareX doit être redémarré pour que les changements du dossier personnel soient appliqués.
+    <value>ShareX-NVU doit être redémarré pour que les changements du dossier personnel soient appliqués.
 
-Voulez-vous redémarrer ShareX ?</value>
+Voulez-vous redémarrer ShareX-NVU ?</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Site web</value>
@@ -484,7 +484,7 @@ Voulez-vous redémarrer ShareX ?</value>
     <value>Vous pouvez ajouter des workflows à partir des paramètres des raccourcis clavier...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - Confirmation</value>
+    <value>ShareX-NVU - Confirmation</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Téléchargement</value>
@@ -526,7 +526,7 @@ Voulez-vous redémarrer ShareX ?</value>
     <value>La source vidéo et la source audio FFmpeg ne peuvent pas toutes deux être « None ».</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX ne peut être fermé lorsqu'un enregistrement d'écran est en cours.
+    <value>ShareX-NVU ne peut être fermé lorsqu'un enregistrement d'écran est en cours.
 
 Voulez-vous annuler l'enregistrement d'écran en cours ?</value>
   </data>
@@ -538,7 +538,7 @@ Voulez-vous annuler l'enregistrement d'écran en cours ?</value>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>Impossible d'accéder au fichier « {0} ».
-Veuillez exécuter ShareX en tant qu'administrateur pour changer le chemin du dossier personnel.</value>
+Veuillez exécuter ShareX-NVU en tant qu'administrateur pour changer le chemin du dossier personnel.</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Le démarrage automatique a été désactivé dans le Gestionnaire des tâches</value>
@@ -576,7 +576,7 @@ ici</value>
 
 {1}
 
-Veuillez sélectionner un raccourci différent ou quitter l'application en conflit et rouvrez ShareX.</value>
+Veuillez sélectionner un raccourci différent ou quitter l'application en conflit et rouvrez ShareX-NVU.</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>Rectangle client</value>
@@ -630,7 +630,7 @@ Veuillez sélectionner un raccourci différent ou quitter l'application en confl
     <value>Délai de capture d'écran : {0} s</value>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
-    <value>Ouvrir au démarrage de ShareX</value>
+    <value>Ouvrir au démarrage de ShareX-NVU</value>
   </data>
   <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
     <value>Votre administrateur système a désactivé la fonctionnalité de mise en ligne.</value>

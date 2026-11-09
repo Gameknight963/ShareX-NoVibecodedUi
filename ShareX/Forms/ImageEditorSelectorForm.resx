@@ -231,7 +231,7 @@ Task settings → Tools → Use legacy image editor</value>
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Image editor selector</value>
+    <value>ShareX-NVU - Image editor selector</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ImageEditorSelectorForm</value>

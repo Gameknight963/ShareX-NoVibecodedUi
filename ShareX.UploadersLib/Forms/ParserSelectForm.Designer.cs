@@ -57,7 +57,7 @@ namespace ShareX.UploadersLib
             this.MinimumSize = new System.Drawing.Size(200, 50);
             this.Name = "ParserSelectForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ShareX - Select";
+            this.Text = "ShareX-NVU - Select";
             this.TopMost = true;
             this.Shown += new System.EventHandler(this.ParserSelectForm_Shown);
             this.ResumeLayout(false);

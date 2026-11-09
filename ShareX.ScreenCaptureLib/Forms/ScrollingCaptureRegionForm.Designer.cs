@@ -41,7 +41,7 @@ namespace ShareX.ScreenCaptureLib
             this.Name = "ScrollingCaptureRegionForm";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            this.Text = "ShareX - Scrolling capture";
+            this.Text = "ShareX-NVU - Scrolling capture";
             this.ResumeLayout(false);
 
         }

@@ -41,7 +41,7 @@ namespace ShareX.HelpersLib
 
             InputText = inputText;
 
-            Text = "ShareX - " + title;
+            Text = "ShareX-NVU - " + title;
             if (!string.IsNullOrEmpty(InputText)) txtInputText.Text = InputText;
             if (!string.IsNullOrEmpty(okText)) btnOK.Text = okText;
             if (!string.IsNullOrEmpty(cancelText)) btnCancel.Text = cancelText;

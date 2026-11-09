@@ -136,7 +136,7 @@
     <value>Szerokość:</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Generator miniatur obrazów</value>
+    <value>ShareX-NVU - Generator miniatur obrazów</value>
   </data>
   <data name="lblOutputFolder.Text" xml:space="preserve">
     <value>Folder wyjściowy:</value>

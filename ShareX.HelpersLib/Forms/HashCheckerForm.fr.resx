@@ -121,7 +121,7 @@
     <value>Parcourir...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Vérifier un hash</value>
+    <value>ShareX-NVU - Vérifier un hash</value>
   </data>
   <data name="lblHashType.Text" xml:space="preserve">
     <value>Type de hash :</value>

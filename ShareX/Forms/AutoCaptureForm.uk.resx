@@ -139,7 +139,7 @@
     <value>Час повторів:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX — Автоматичне захоплення</value>
+    <value>ShareX-NVU — Автоматичне захоплення</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>секунд</value>
@@ -154,6 +154,6 @@
     <value>Область</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Автоматичне захоплення</value>
+    <value>ShareX-NVU — Автоматичне захоплення</value>
   </data>
 </root>

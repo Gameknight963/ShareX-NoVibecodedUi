@@ -128,6 +128,6 @@ Configuración de tareas → Herramientas → Usar editor de imágenes heredado<
     <value>Editor de imágenes moderno</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Selector de editor de imágenes</value>
+    <value>ShareX-NVU - Selector de editor de imágenes</value>
   </data>
 </root>

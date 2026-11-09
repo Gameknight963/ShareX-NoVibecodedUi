@@ -121,7 +121,7 @@
     <value>刷新</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - 探查窗口</value>
+    <value>ShareX-NVU - 探查窗口</value>
   </data>
   <data name="btnInspectControl.Text" xml:space="preserve">
     <value>探查控件...</value>

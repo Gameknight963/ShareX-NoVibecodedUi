@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>開機時自動執行 ShareX</value>
+    <value>開機時自動執行 ShareX-NVU</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>在檔案總管的右鍵選單中顯示「使用 ShareX 上傳」按鈕</value>
@@ -130,10 +130,10 @@
     <value>你可以在「應用程式設定 -&gt; 整合分頁」中找到這些設定。</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>當 ShareX 開啟時，在 Steam 狀態顯示 ShareX</value>
+    <value>當 ShareX-NVU 開啟時，在 Steam 狀態顯示 ShareX-NVU</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>ShareX 首次設定</value>
+    <value>ShareX-NVU 首次設定</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>確定</value>

@@ -166,7 +166,7 @@
     <value>Estensione per Firefox</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>Mentre ShareX è aperto, mostra "In-App" su Steam</value>
+    <value>Mentre ShareX-NVU è aperto, mostra "In-App" su Steam</value>
   </data>
   <data name="cbChromeExtensionSupport.Text" xml:space="preserve">
     <value>Abilita Supporto all'Estensione per Chrome</value>
@@ -193,7 +193,7 @@
     <value>Sfoglia...</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Cartella Personale di ShareX:</value>
+    <value>Cartella Personale di ShareX-NVU:</value>
   </data>
   <data name="btnOpenPersonalFolderPath.Text" xml:space="preserve">
     <value>Apri...</value>
@@ -286,7 +286,7 @@
     <value>Avanzate</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Impostazioni Applicazione</value>
+    <value>ShareX-NVU - Impostazioni Applicazione</value>
   </data>
   <data name="lblProxyMethod.Text" xml:space="preserve">
     <value>Configurazione Proxy:</value>
@@ -328,7 +328,7 @@
     <value>Controlla automaticamente gli aggiornamenti</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Usa icona ShareX bianca</value>
+    <value>Usa icona ShareX-NVU bianca</value>
   </data>
   <data name="btnCheckDevBuild.Text" xml:space="preserve">
     <value>Installa build di sviluppo...</value>

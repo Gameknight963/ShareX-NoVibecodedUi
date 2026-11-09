@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX در سینی سیستم کمینه شده است.</value>
+    <value>ShareX-NVU در سینی سیستم کمینه شده است.</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>زمان باقیمانده: {0} ثانیه ({1}%) مجموع: {2}</value>
@@ -169,15 +169,15 @@
     <value>Stay بالا most</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX به‌روز است!</value>
+    <value>ShareX-NVU به‌روز است!</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>تغییرات</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>ShareX برای تغییر زبان نیاز به راه اندازی مجدد دارد.
+    <value>ShareX-NVU برای تغییر زبان نیاز به راه اندازی مجدد دارد.
 
-آیا می خواهید ShareX را مجددا راه اندازی کنید؟</value>
+آیا می خواهید ShareX-NVU را مجددا راه اندازی کنید؟</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>گزارش اشکال‌زدایی می‌تواند شامل اطلاعات حساس باشد. آیا مطمئنید می‌خواهید ادامه دهید؟</value>
@@ -206,7 +206,7 @@ Middle click to close</value>
     <value>کلید میانبر را انتخاب کن...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>هنگام شروع ویندوز، ShareX را اجرا کن</value>
+    <value>هنگام شروع ویندوز، ShareX-NVU را اجرا کن</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>غیرفعال کردن کلیدهای سریع</value>
@@ -228,7 +228,7 @@ Middle click to close</value>
 Press 'No' to cancel the current بارگذاری and disable اسکرین‌شات auto بارگذاریing.</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>FFmpeg همراه ShareX فقط از سیستم‌عامل‌های ۶۴ بیتی پشتیبانی می‌کند.</value>
+    <value>FFmpeg همراه ShareX-NVU فقط از سیستم‌عامل‌های ۶۴ بیتی پشتیبانی می‌کند.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>در حال آپلود کردن</value>
@@ -267,7 +267,7 @@ Press 'No' to cancel the current بارگذاری and disable اسکرین‌ش�
     <value>X: {0}, Y: {1}, عرض: {2}, ارتفاع: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>آیا می خواهید تنظیمات ShareX را به حالت اولیه برگردانید؟</value>
+    <value>آیا می خواهید تنظیمات ShareX-NVU را به حالت اولیه برگردانید؟</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} is about to be بارگذاریed to {1}. You may choose a different destination.</value>
@@ -375,7 +375,7 @@ You can later disable it from "After ضبط tasks" منو.</value>
     <value>خطا</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>Your anti-virus software or the controlled پوشه access feature in پنجرهs could be blocking ShareX.</value>
+    <value>Your anti-virus software or the controlled پوشه access feature in پنجرهs could be blocking ShareX-NVU.</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>آیا می خواهید تمام تنظیمات وظایف سریع را به حالت پیش فرض برگردانید؟</value>
@@ -438,9 +438,9 @@ You can later disable it from "After ضبط tasks" منو.</value>
     <value>بستن</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>برای تغییر پوشه شخصی ShareX نیاز به راه اندازی مجدد دارد.
+    <value>برای تغییر پوشه شخصی ShareX-NVU نیاز به راه اندازی مجدد دارد.
 
-آیا می خواهید ShareX مجدد راه اندازی شود؟</value>
+آیا می خواهید ShareX-NVU مجدد راه اندازی شود؟</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>سایت</value>
@@ -485,7 +485,7 @@ You can later disable it from "After ضبط tasks" منو.</value>
     <value>You can افزودن workflows from hotkey تنظیمات...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - تاییدیه</value>
+    <value>ShareX-NVU - تاییدیه</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>در حال دانلود</value>
@@ -527,7 +527,7 @@ You can later disable it from "After ضبط tasks" منو.</value>
     <value>منبع ویدئو و صدای FFmpeg نمی‌توانند هر دو «هیچ‌کدام» باشند.</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX cannot be closed while ضبط صفحه is active.
+    <value>ShareX-NVU cannot be closed while ضبط صفحه is active.
 
 Do you want to abort the active ضبط صفحه?</value>
   </data>
@@ -577,7 +577,7 @@ Do you want to abort the active ضبط صفحه?</value>
 
 {1}
 
-Please select a different hotkey or quit the conflicting application and reباز کردن ShareX.</value>
+Please select a different hotkey or quit the conflicting application and reباز کردن ShareX-NVU.</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>مستطیل کلاینت</value>

@@ -121,7 +121,7 @@
     <value>Copier la syntaxe des emoji du chat</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Découpeur d'image</value>
+    <value>ShareX-NVU - Découpeur d'image</value>
   </data>
   <data name="btnSplitImage.Text" xml:space="preserve">
     <value>Découper image</value>

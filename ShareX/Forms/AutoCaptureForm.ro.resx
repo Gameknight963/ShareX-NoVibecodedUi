@@ -139,7 +139,7 @@
     <value>Timp de repetare:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Captură automată</value>
+    <value>ShareX-NVU - Captură automată</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>secunde</value>
@@ -154,6 +154,6 @@
     <value>Regiune</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Captură automată</value>
+    <value>ShareX-NVU - Captură automată</value>
   </data>
 </root>

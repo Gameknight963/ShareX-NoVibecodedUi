@@ -26,7 +26,7 @@ AppMutex={#MyAppId}
 AppName={#MyAppName}
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
-AppVerName={#MyAppName} {#MyAppVersion}
+AppVerName=ShareX-NVU {#MyAppVersion}
 AppVersion={#MyAppVersion}
 ArchitecturesAllowed={#MyArchitecturesAllowed}
 ArchitecturesInstallIn64BitMode={#MyArchitecturesAllowed}
@@ -49,7 +49,7 @@ VersionInfoVersion={#MyAppVersion}
 Name: "CreateDesktopIcon"; Description: "Create a desktop shortcut"; GroupDescription: "Additional shortcuts:"; Check: not IsUpdating and not DesktopIconExists
 Name: "CreateContextMenuButton"; Description: "Show ""Upload with ShareX"" button in Windows Explorer context menu"; GroupDescription: "Additional shortcuts:"; Check: not IsUpdating
 Name: "CreateSendToIcon"; Description: "Create a send to shortcut"; GroupDescription: "Additional shortcuts:"; Check: not IsUpdating
-Name: "CreateStartupIcon"; Description: "Run ShareX when Windows starts"; GroupDescription: "Other tasks:"; Check: not IsUpdating
+Name: "CreateStartupIcon"; Description: "Run ShareX-NVU when Windows starts"; GroupDescription: "Other tasks:"; Check: not IsUpdating
 Name: "EnableBrowserExtensionSupport"; Description: "Enable browser extension support"; GroupDescription: "Other tasks:"; Check: not IsUpdating
 Name: "DisablePrintScreenKeyForSnippingTool"; Description: "Disable Print Screen key for Snipping Tool"; GroupDescription: "Other tasks:"; Check: not IsUpdating
 
@@ -94,7 +94,7 @@ Name: "{usersendto}\{#MyAppName}"; Filename: "{app}\{#MyAppFileName}"; WorkingDi
 Name: "{userstartup}\{#MyAppName}"; Filename: "{app}\{#MyAppFileName}"; WorkingDir: "{app}"; Parameters: "-silent"; Tasks: CreateStartupIcon
 
 [Run]
-Filename: "{app}\{#MyAppFileName}"; Description: "{cm:LaunchProgram,{#MyAppName}}"; Flags: nowait postinstall; Check: not IsNoRun
+Filename: "{app}\{#MyAppFileName}"; Description: "{cm:LaunchProgram,ShareX-NVU}"; Flags: nowait postinstall; Check: not IsNoRun
 
 [Registry]
 Root: "HKCU"; Subkey: "Software\Classes\*\shell\{#MyAppName}"; ValueType: string; ValueData: "Upload with {#MyAppName}"; Tasks: CreateContextMenuButton
@@ -129,7 +129,7 @@ var
 begin
   if CheckForMutexes('{#MyAppId}') then
   begin
-    if MsgBox('Uninstall has detected that {#MyAppName} is currently running.' + #13#10#13#10 + 'Would you like to close it?', mbError, MB_YESNO) = IDYES then
+    if MsgBox('Uninstall has detected that ShareX-NVU is currently running.' + #13#10#13#10 + 'Would you like to close it?', mbError, MB_YESNO) = IDYES then
     begin
       Exec('taskkill.exe', '/f /im {#MyAppFileName}', '', SW_HIDE, ewWaitUntilTerminated, ErrorCode);
     end

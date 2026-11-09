@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>عندما يكون ShareX قيد التشغيل، قم بعرض "In-App" في Steam</value>
+    <value>عندما يكون ShareX-NVU قيد التشغيل، قم بعرض "In-App" في Steam</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
     <value>للوصول إلى هذه الإعدادات اذهب إلى "إعدادات التطبيق -&gt; الاندماج مع نظام التشغيل".</value>
@@ -127,10 +127,10 @@
     <value>حسنًا</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>تشغيل ShareX عند بدء نظام Windows</value>
+    <value>تشغيل ShareX-NVU عند بدء نظام Windows</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>الإعداد الأولي لـ ShareX</value>
+    <value>الإعداد الأولي لـ ShareX-NVU</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>عرض الخيار "رفع باستخدام ShareX" على قائمة خيارات الملفات</value>

@@ -121,7 +121,7 @@
     <value>ОК</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Запускать ShareX при старте системы</value>
+    <value>Запускать ShareX-NVU при старте системы</value>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>Показывать ShareX в меню "Отправить"</value>
@@ -130,12 +130,12 @@
     <value>Показывать пункт "Загрузить с помощью ShareX" в контекстном меню проводника Windows</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>Пока ShareX открыт, показывать в Steam статус "В приложении"</value>
+    <value>Пока ShareX-NVU открыт, показывать в Steam статус "В приложении"</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
     <value>Эти настройки можно найти в "Настройки приложения -&gt; раздел Интеграция".</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Настройка ShareX при первом запуске</value>
+    <value>Настройка ShareX-NVU при первом запуске</value>
   </data>
 </root>

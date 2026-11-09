@@ -307,7 +307,7 @@ namespace ShareX.Steam
             {
                 while (IsShareXRunning())
                 {
-                    if (MessageBox.Show("ShareX is currently running.\r\n\r\nPlease close ShareX and press \"Retry\" button after it is closed.", "ShareX - Uninstaller",
+                    if (MessageBox.Show("ShareX-NVU is currently running.\r\n\r\nPlease close ShareX-NVU and press \"Retry\" button after it is closed.", "ShareX-NVU - Uninstaller",
                         MessageBoxButtons.RetryCancel, MessageBoxIcon.Warning) == DialogResult.Cancel)
                     {
                         return;

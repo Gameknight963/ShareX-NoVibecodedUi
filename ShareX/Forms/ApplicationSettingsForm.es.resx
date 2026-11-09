@@ -121,7 +121,7 @@
     <value>Avanzado</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Configuración de la aplicación</value>
+    <value>ShareX-NVU - Configuración de la aplicación</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -142,7 +142,7 @@
     <value>Tamaño de búfer:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Carpeta personal ShareX:</value>
+    <value>Carpeta personal ShareX-NVU:</value>
   </data>
   <data name="gbSecondaryFileUploaders.Text" xml:space="preserve">
     <value>Cargadores de archivos secundarios</value>
@@ -253,7 +253,7 @@
     <value>Buscar actualizaciones automáticamente</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Usar icono blanco de ShareX</value>
+    <value>Usar icono blanco de ShareX-NVU</value>
   </data>
   <data name="btnCheckDevBuild.Text" xml:space="preserve">
     <value>Instalar compilación de desarrollo...</value>
@@ -292,7 +292,7 @@
     <value>Complemento de Firefox</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>Mientras ShareX esté abierto, mostrar "En la aplicación" en Steam</value>
+    <value>Mientras ShareX-NVU esté abierto, mostrar "En la aplicación" en Steam</value>
   </data>
   <data name="cbChromeExtensionSupport.Text" xml:space="preserve">
     <value>Habilitar compatibilidad con extensión de Chrome</value>

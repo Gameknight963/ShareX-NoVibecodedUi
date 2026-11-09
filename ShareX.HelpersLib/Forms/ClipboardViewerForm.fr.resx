@@ -121,7 +121,7 @@
     <value>Rafraîchir</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Visionneuse de presse-papier</value>
+    <value>ShareX-NVU - Visionneuse de presse-papier</value>
   </data>
   <data name="btnClearClipboard.Text" xml:space="preserve">
     <value>Effacer le presse-papier</value>

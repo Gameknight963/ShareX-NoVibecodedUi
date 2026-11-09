@@ -81,7 +81,7 @@ namespace ShareX.ImageEditor.Presentation.ViewModels
         private bool _zoomToFitOnNextImageLoad;
 
         [ObservableProperty]
-        private string _windowTitle = "ShareX - Image Editor";
+        private string _windowTitle = "ShareX-NVU - Image Editor";
 
         [ObservableProperty]
         private bool _showFileMenu;
@@ -929,7 +929,7 @@ namespace ShareX.ImageEditor.Presentation.ViewModels
 
         private static string BuildWindowTitle(double width, double height, string? fileName)
         {
-            var sb = new System.Text.StringBuilder("ShareX - Image Editor");
+            var sb = new System.Text.StringBuilder("ShareX-NVU - Image Editor");
 
             if (width > 0 && height > 0)
             {

@@ -271,7 +271,7 @@ namespace ShareX
                 try
                 {
                     // TODO: Translate
-                    if (MessageBox.Show(this, "Are you sure you want to strip all non essential metadata from this file?", "ShareX - " + Resources.Confirmation,
+                    if (MessageBox.Show(this, "Are you sure you want to strip all non essential metadata from this file?", "ShareX-NVU - " + Resources.Confirmation,
                         MessageBoxButtons.YesNo, MessageBoxIcon.Warning) != DialogResult.Yes)
                     {
                         return;

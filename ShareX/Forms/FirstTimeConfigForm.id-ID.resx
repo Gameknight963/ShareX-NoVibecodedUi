@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Jalankan ShareX saat memulai Windows</value>
+    <value>Jalankan ShareX-NVU saat memulai Windows</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>Tampilkan "Unggah dengan ShareX" di menu konteks Windows Explorer</value>
@@ -127,7 +127,7 @@
     <value>Tampilkan ShareX di menu "Kirim ke"</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>Saat ShareX terbuka, tampilkan "In-App" di Steam</value>
+    <value>Saat ShareX-NVU terbuka, tampilkan "In-App" di Steam</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>Oke</value>
@@ -136,6 +136,6 @@
     <value>Anda bisa menemukan pengaturan ini di "Pengaturan aplikasi -&gt; tab Integrasi".</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Konfigurasi pertama kali ShareX</value>
+    <value>Konfigurasi pertama kali ShareX-NVU</value>
   </data>
 </root>

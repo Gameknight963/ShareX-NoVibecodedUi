@@ -136,7 +136,7 @@
     <value>تعداد تکرار:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - ضبط خودکار</value>
+    <value>ShareX-NVU - ضبط خودکار</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>ثانیه</value>
@@ -148,7 +148,7 @@
     <value>ناحیه</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - ضبط خودکار</value>
+    <value>ShareX-NVU - ضبط خودکار</value>
   </data>
   <data name="cbAutoMinimize.Text" xml:space="preserve">
     <value>به صورت خودکار شیرایکس را به نواروظیفه کوچک کن</value>

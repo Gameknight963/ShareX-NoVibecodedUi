@@ -340,7 +340,7 @@
     <value>97, 17</value>
   </metadata>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Auto capture</value>
+    <value>ShareX-NVU - Auto capture</value>
   </data>
   <data name="lblDurationSeconds.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -460,7 +460,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Auto capture</value>
+    <value>ShareX-NVU - Auto capture</value>
   </data>
   <data name="&gt;&gt;tspbBar.Name" xml:space="preserve">
     <value>tspbBar</value>

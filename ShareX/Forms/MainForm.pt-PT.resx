@@ -772,7 +772,7 @@
     <value>Inspecionar janela...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Reiniciar ShareX como administrador</value>
+    <value>Reiniciar ShareX-NVU como administrador</value>
   </data>
   <data name="cHotkey.HeaderText" xml:space="preserve">
     <value>Tecla de atalho</value>

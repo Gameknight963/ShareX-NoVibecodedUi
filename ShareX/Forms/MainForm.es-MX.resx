@@ -778,7 +778,7 @@
     <value>Metadatos...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Reiniciar ShareX como administrador</value>
+    <value>Reiniciar ShareX-NVU como administrador</value>
   </data>
   <data name="tsmiBackgroundRemover.Text" xml:space="preserve">
     <value>Eliminador de fondo...</value>

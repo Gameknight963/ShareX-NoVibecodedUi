@@ -121,7 +121,7 @@
     <value>Haladó</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Alkalmazás beállítások</value>
+    <value>ShareX-NVU - Alkalmazás beállítások</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -142,7 +142,7 @@
     <value>Puffer méret:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX személyes mappa:</value>
+    <value>ShareX-NVU személyes mappa:</value>
   </data>
   <data name="cbPrintDontShowWindowsDialog.Text" xml:space="preserve">
     <value>Ne mutassa a Windowsos nyomtatás dialógust</value>
@@ -253,7 +253,7 @@
     <value>Frissítések automatikus keresése</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Fehér ShareX ikon használata</value>
+    <value>Fehér ShareX-NVU ikon használata</value>
   </data>
   <data name="btnCheckDevBuild.Text" xml:space="preserve">
     <value>Fejlesztői build telepítése...</value>
@@ -292,7 +292,7 @@
     <value>Firefox kiegészítő</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>While ShareX is megnyitás, show "In-App" in Steam</value>
+    <value>While ShareX-NVU is megnyitás, show "In-App" in Steam</value>
   </data>
   <data name="cbChromeExtensionSupport.Text" xml:space="preserve">
     <value>Enable Chrome kiterjesztés támogatás</value>

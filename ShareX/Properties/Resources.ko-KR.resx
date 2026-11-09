@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX가 시스템 트레이로 최소화되었습니다.</value>
+    <value>ShareX-NVU가 시스템 트레이로 최소화되었습니다.</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>남은 시간: {0}초 ({1}%) 총: {2}</value>
@@ -169,14 +169,14 @@
     <value>항상 위에 표시</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX가 최신 상태입니다!</value>
+    <value>ShareX-NVU가 최신 상태입니다!</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>변경사항</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>언어 설정을 변경하려면 ShareX를 재시작해야 합니다.
-ShareX를 재시작할까요?</value>
+    <value>언어 설정을 변경하려면 ShareX-NVU를 재시작해야 합니다.
+ShareX-NVU를 재시작할까요?</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>디버그 로그에 민감한 정보가 포함될 수 있습니다. 계속하시겠습니까?</value>
@@ -205,7 +205,7 @@ ShareX를 재시작할까요?</value>
     <value>단축키 누르기...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>컴퓨터를 켤 때 ShareX도 실행하기</value>
+    <value>컴퓨터를 켤 때 ShareX-NVU도 실행하기</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>단축키 비활성화</value>
@@ -227,7 +227,7 @@ ShareX를 재시작할까요?</value>
 "아니요"를 누르면 현재 업로드가 취소되고 스크린샷 자동 업로드 기능이 해제됩니다.</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>ShareX에 포함된 FFmpeg는 64비트 운영 체제만 지원합니다.</value>
+    <value>ShareX-NVU에 포함된 FFmpeg는 64비트 운영 체제만 지원합니다.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>업로드 중</value>
@@ -251,7 +251,7 @@ ShareX를 재시작할까요?</value>
     <value>URL 공유하기 ({0})</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>설정을 적용하려면 스팀에서 ShareX를 다시 실행해야 합니다.</value>
+    <value>설정을 적용하려면 스팀에서 ShareX-NVU를 다시 실행해야 합니다.</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>업로드 하기 위해 다운로드 받을 URL</value>
@@ -266,7 +266,7 @@ ShareX를 재시작할까요?</value>
     <value>X: {0}, Y: {1}, 너비: {2}, 높이: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>ShareX 설정을 재설정하시겠습니까?</value>
+    <value>ShareX-NVU 설정을 재설정하시겠습니까?</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} 파일이 {1}에 업로드 될 것입니다. 다른 목적지를 선택할 수 있습니다.</value>
@@ -312,7 +312,7 @@ ShareX를 재시작할까요?</value>
     <value>개인정보 처리방침</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>ShareX 개인 폴더 선택</value>
+    <value>ShareX-NVU 개인 폴더 선택</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>루마니아어</value>
@@ -374,7 +374,7 @@ You can later disable it from "After 캡처 tasks" 메뉴.</value>
     <value>오류</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>Your anti-virus software or the controlled 폴더 access feature in 창s could be blocking ShareX.</value>
+    <value>Your anti-virus software or the controlled 폴더 access feature in 창s could be blocking ShareX-NVU.</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>모든 간편 작업들을 기본 설정으로 초기화할까요?</value>
@@ -437,9 +437,9 @@ You can later disable it from "After 캡처 tasks" 메뉴.</value>
     <value>닫기</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>ShareX needs to be re시작ed for the personal 폴더 changes to apply.
+    <value>ShareX-NVU needs to be re시작ed for the personal 폴더 changes to apply.
 
-Would you like to re시작 ShareX?</value>
+Would you like to re시작 ShareX-NVU?</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>웹사이트</value>
@@ -484,7 +484,7 @@ Would you like to re시작 ShareX?</value>
     <value>단축키 설정에서 워크플로우 추가하기...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - 확인</value>
+    <value>ShareX-NVU - 확인</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>다운로드 중</value>
@@ -526,7 +526,7 @@ Would you like to re시작 ShareX?</value>
     <value>FFmpeg 비디오 및 오디오 소스가 둘 다 "없음"일 수 없습니다.</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX cannot be closed while 화면 녹화 is active.
+    <value>ShareX-NVU cannot be closed while 화면 녹화 is active.
 
 Do you want to abort the active 화면 녹화?</value>
   </data>
@@ -538,10 +538,10 @@ Do you want to abort the active 화면 녹화?</value>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>"{0}" 파일에 접근할 수 없습니다.
-개인 폴더를 변경하려면 ShareX를 관리자 권한으로 실행해 주세요.</value>
+개인 폴더를 변경하려면 ShareX-NVU를 관리자 권한으로 실행해 주세요.</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
-    <value>작업 관리자에 의해 ShareX를 시작 프로그램으로 지정할 수 없습니다</value>
+    <value>작업 관리자에 의해 ShareX-NVU를 시작 프로그램으로 지정할 수 없습니다</value>
   </data>
   <data name="InspectWindow_ProcessIdentifier" xml:space="preserve">
     <value>프로세스 식별자</value>
@@ -577,7 +577,7 @@ Do you want to abort the active 화면 녹화?</value>
 
 {1}
 
-다른 단축키를 사용하거나 충돌하는 어플리케이션을 종료한 뒤 ShareX를 다시 실행해 주세요.</value>
+다른 단축키를 사용하거나 충돌하는 어플리케이션을 종료한 뒤 ShareX-NVU를 다시 실행해 주세요.</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>클라이언트 사각형</value>
@@ -631,7 +631,7 @@ Do you want to abort the active 화면 녹화?</value>
     <value>스크린샷 delay: {0}s</value>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
-    <value>ShareX 실행 시 열기</value>
+    <value>ShareX-NVU 실행 시 열기</value>
   </data>
   <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
     <value>Your system admin disabled the 업로드 feature.</value>

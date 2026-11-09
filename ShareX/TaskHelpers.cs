@@ -875,7 +875,7 @@ namespace ShareX
             {
                 form.UploadRequested += text =>
                 {
-                    if (MessageBox.Show(form, Resources.MainForm_UploadDebugLogWarning, "ShareX", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+                    if (MessageBox.Show(form, Resources.MainForm_UploadDebugLogWarning, "ShareX-NVU", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
                     {
                         UploadManager.UploadText(text);
                     }
@@ -923,7 +923,7 @@ namespace ShareX
                     if (taskSettings.GeneralSettings.ShowToastNotificationAfterTaskCompleted)
                     {
                         ShowNotificationTip(string.Format(Resources.TaskHelpers_OpenQuickScreenColorPicker_Copied_to_clipboard___0_, text),
-                            "ShareX - " + Resources.ScreenColorPicker);
+                            "ShareX-NVU - " + Resources.ScreenColorPicker);
                     }
                 }
             }
@@ -1223,7 +1223,7 @@ namespace ShareX
             }
             else
             {
-                MessageBox.Show("File does not exist:" + Environment.NewLine + filePath, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("File does not exist:" + Environment.NewLine + filePath, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -1872,7 +1872,7 @@ namespace ShareX
             }
             else
             {
-                MessageBox.Show(Resources.ClipboardDoesNotContainAnImage, "ShareX - " + Resources.PinToScreen, MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.ClipboardDoesNotContainAnImage, "ShareX-NVU - " + Resources.PinToScreen, MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -1938,7 +1938,7 @@ namespace ShareX
             if (!Environment.Is64BitOperatingSystem && !taskSettings.CaptureSettings.FFmpegOptions.OverrideCLIPath)
             {
                 MessageBox.Show(Resources.FFmpegOnlySupports64BitOperatingSystems,
-                    "ShareX - " + Resources.FFmpegIsMissing, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    "ShareX-NVU - " + Resources.FFmpegIsMissing, MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 return false;
             }
@@ -1948,7 +1948,7 @@ namespace ShareX
             if (!File.Exists(ffmpegPath))
             {
                 MessageBox.Show(Resources.FFmpegDoesNotExistAtTheFollowingPath + "\r\n" + ffmpegPath,
-                    "ShareX - " + Resources.FFmpegIsMissing, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    "ShareX-NVU - " + Resources.FFmpegIsMissing, MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 return false;
             }
@@ -1964,7 +1964,7 @@ namespace ShareX
             {
                 // TODO: Translate
                 MessageBox.Show("ExifTool does not exist at the following path:" + "\r\n" + exifToolPath,
-                    "ShareX - " + "ExifTool is missing", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    "ShareX-NVU - " + "ExifTool is missing", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 return false;
             }
@@ -2256,7 +2256,7 @@ namespace ShareX
                         if (cui.DestinationType == CustomUploaderDestinationType.None)
                         {
                             DialogResult result = MessageBox.Show($"Would you like to add \"{cui}\" custom uploader?",
-                                "ShareX - Custom uploader confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+                                "ShareX-NVU - Custom uploader confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
 
                             if (result == DialogResult.No)
                             {
@@ -2275,7 +2275,7 @@ namespace ShareX
                             string destinationsText = string.Join("/", destinations);
 
                             DialogResult result = MessageBox.Show($"Would you like to set \"{cui}\" as the active custom uploader for {destinationsText}?",
-                                "ShareX - Custom uploader confirmation", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+                                "ShareX-NVU - Custom uploader confirmation", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
 
                             if (result == DialogResult.Yes)
                             {
@@ -2366,7 +2366,7 @@ namespace ShareX
 
                 if (!Program.DefaultTaskSettings.AfterCaptureJob.HasFlag(AfterCaptureTasks.AddImageEffects) &&
                     MessageBox.Show(Resources.WouldYouLikeToEnableImageEffects,
-                    "ShareX", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    "ShareX-NVU", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     Program.DefaultTaskSettings.AfterCaptureJob = Program.DefaultTaskSettings.AfterCaptureJob.Add(AfterCaptureTasks.AddImageEffects);
                     Program.MainForm.UpdateCheckStates();
@@ -2495,7 +2495,7 @@ namespace ShareX
             }
             else if (updateChecker.Status == UpdateStatus.UpToDate)
             {
-                MessageBox.Show(Resources.ShareXIsUpToDate, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.ShareXIsUpToDate, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -2584,7 +2584,7 @@ namespace ShareX
             return !string.IsNullOrEmpty(content) && Encoding.UTF8.GetByteCount(content) <= 2952;
         }
 
-        public static void ShowNotificationTip(string text, string title = "ShareX", int duration = -1)
+        public static void ShowNotificationTip(string text, string title = "ShareX-NVU", int duration = -1)
         {
             if (duration < 0)
             {
@@ -2629,14 +2629,14 @@ namespace ShareX
         {
             if (SystemOptions.DisableUpload)
             {
-                MessageBox.Show(Resources.YourSystemAdminDisabledTheUploadFeature, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.YourSystemAdminDisabledTheUploadFeature, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 return false;
             }
 
             if (Program.Settings.DisableUpload)
             {
-                MessageBox.Show(Resources.ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 return false;
             }

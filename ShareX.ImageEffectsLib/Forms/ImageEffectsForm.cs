@@ -339,13 +339,13 @@ namespace ShareX.ImageEffectsLib
                                 if (preview != null)
                                 {
                                     pbResult.LoadImage(preview);
-                                    Text = string.Format("ShareX - " + Resources.ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms,
+                                    Text = string.Format("ShareX-NVU - " + Resources.ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms,
                                         preview.Width, preview.Height, timer.ElapsedMilliseconds);
                                 }
                                 else
                                 {
                                     pbResult.Reset();
-                                    Text = string.Format("ShareX - " + Resources.ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms,
+                                    Text = string.Format("ShareX-NVU - " + Resources.ImageEffectsForm_UpdatePreview_Image_effects___Width___0___Height___1___Render_time___2__ms,
                                         0, 0, timer.ElapsedMilliseconds);
                                 }
                             }
@@ -677,7 +677,7 @@ namespace ShareX.ImageEffectsLib
 
         private void btnEffectClear_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show(Resources.WouldYouLikeToClearEffects, "ShareX - " + Resources.Confirmation, MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+            if (MessageBox.Show(Resources.WouldYouLikeToClearEffects, "ShareX-NVU - " + Resources.Confirmation, MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
             {
                 ImageEffectPreset preset = GetSelectedPreset();
 
@@ -778,7 +778,7 @@ namespace ShareX.ImageEffectsLib
             {
                 if (string.IsNullOrEmpty(preset.Name))
                 {
-                    MessageBox.Show(Resources.PresetNameCannotBeEmpty, "ShareX - " + Resources.MissingPresetName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show(Resources.PresetNameCannotBeEmpty, "ShareX-NVU - " + Resources.MissingPresetName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
                 {

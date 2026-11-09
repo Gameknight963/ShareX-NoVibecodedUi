@@ -325,7 +325,7 @@
     <value>Rozpoznaj tekst (OCR)</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
-    <value>Zamknij ShareX</value>
+    <value>Zamknij ShareX-NVU</value>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
     <value>Dostępna jest nowsza wersja {0}.
@@ -1161,7 +1161,7 @@ Czy chcesz ją pobrać i zainstalować?</value>
     <value>Przypnij do ekranu</value>
   </data>
   <data name="ShareXImageViewer" xml:space="preserve">
-    <value>ShareX - Przeglądarka obrazów</value>
+    <value>ShareX-NVU - Przeglądarka obrazów</value>
   </data>
   <data name="HotkeyType_PinToScreen" xml:space="preserve">
     <value>Przypnij do ekranu</value>

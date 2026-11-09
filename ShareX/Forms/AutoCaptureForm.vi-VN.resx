@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Tự động chụp</value>
+    <value>ShareX-NVU - Tự động chụp</value>
   </data>
   <data name="btnExecute.Text" xml:space="preserve">
     <value>Bắt đầu</value>
@@ -142,7 +142,7 @@
     <value>Vùng</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Tự động chụp</value>
+    <value>ShareX-NVU - Tự động chụp</value>
   </data>
   <data name="rbCustomRegion.Text" xml:space="preserve">
     <value>Vùng tự tạo</value>

@@ -1,6 +1,6 @@
 ﻿{
   "name": "ShareX",
-  "description": "ShareX",
+  "description": "ShareX-NVU",
   "path": "ShareX_NativeMessagingHost.exe",
   "type": "stdio",
   "allowed_extensions": [

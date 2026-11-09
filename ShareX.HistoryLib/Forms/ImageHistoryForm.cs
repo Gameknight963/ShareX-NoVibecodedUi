@@ -319,7 +319,7 @@ namespace ShareX.HistoryLib
             } // TODO: Translate
             else if (FileHelpers.IsTextFile(hi.FilePath) || FileHelpers.IsVideoFile(hi.FilePath) ||
                 MessageBox.Show("Would you like to open this file?" + "\r\n\r\n" + hi.FilePath,
-                "ShareX - Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                "ShareX-NVU - Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 FileHelpers.OpenFile(hi.FilePath);
             }

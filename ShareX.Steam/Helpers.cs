@@ -86,7 +86,7 @@ namespace ShareX.Steam
 
         public static void ShowError(Exception e)
         {
-            MessageBox.Show(e.ToString(), "ShareX - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show(e.ToString(), "ShareX-NVU - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         public static void CopyAll(string sourceDirectory, string targetDirectory)

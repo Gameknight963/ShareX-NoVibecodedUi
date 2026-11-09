@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - الإعدادات</value>
+    <value>ShareX-NVU - الإعدادات</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>استعراض...</value>
@@ -340,7 +340,7 @@
     <value>بيانات التطبيق</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>المجلد الشخصي الخاص بـShareX:</value>
+    <value>المجلد الشخصي الخاص بـShareX-NVU:</value>
   </data>
   <data name="cbEditWithShareX.Text" xml:space="preserve">
     <value>عرض الخيار "تعديل باستخدام ShareX" على قائمة خيارات الملفات</value>
@@ -421,7 +421,7 @@
     <value>اسم المستخدم:</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>عندما يكون ShareX قيد التشغيل، قم بعرضه من خلال "In-App" في Steam</value>
+    <value>عندما يكون ShareX-NVU قيد التشغيل، قم بعرضه من خلال "In-App" في Steam</value>
   </data>
   <data name="lblUpdateChannel.Text" xml:space="preserve">
     <value>قناة التحديثات:</value>

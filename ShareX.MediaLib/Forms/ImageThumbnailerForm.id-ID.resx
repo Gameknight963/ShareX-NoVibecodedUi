@@ -124,7 +124,7 @@
     <value>Hasilkan thumbnail</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Pemotret Gambar</value>
+    <value>ShareX-NVU - Pemotret Gambar</value>
   </data>
   <data name="lblOutputFolder.Text" xml:space="preserve">
     <value>Folder output</value>

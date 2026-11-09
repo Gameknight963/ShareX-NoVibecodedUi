@@ -106,7 +106,7 @@ namespace ShareX.Setup
 
         private static void Main(string[] args)
         {
-            Console.WriteLine("ShareX setup started.");
+            Console.WriteLine("ShareX-NVU setup started.");
 
             CheckArgs(args);
 
@@ -179,7 +179,7 @@ namespace ShareX.Setup
                 FileHelpers.OpenFolder(OutputDir, false);
             }
 
-            Console.WriteLine("ShareX setup successfully completed.");
+            Console.WriteLine("ShareX-NVU setup successfully completed.");
         }
 
         private static void CheckArgs(string[] args)

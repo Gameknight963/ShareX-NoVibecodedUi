@@ -121,7 +121,7 @@
     <value>再読み込み</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - ウィンドウの調査</value>
+    <value>ShareX-NVU - ウィンドウの調査</value>
   </data>
   <data name="btnInspectWindow.Text" xml:space="preserve">
     <value>ウィンドウを調べる...</value>

@@ -151,9 +151,9 @@
     <value>מסך מלא</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - צילום מסך אוטומטי</value>
+    <value>ShareX-NVU - צילום מסך אוטומטי</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - צילום מסך אוטומטית</value>
+    <value>ShareX-NVU - צילום מסך אוטומטית</value>
   </data>
 </root>

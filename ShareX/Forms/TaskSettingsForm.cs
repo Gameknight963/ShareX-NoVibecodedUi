@@ -524,11 +524,11 @@ namespace ShareX
         {
             if (IsDefault)
             {
-                Text = "ShareX - " + Resources.TaskSettingsForm_UpdateWindowTitle_Task_settings;
+                Text = "ShareX-NVU - " + Resources.TaskSettingsForm_UpdateWindowTitle_Task_settings;
             }
             else
             {
-                Text = "ShareX - " + string.Format(Resources.TaskSettingsForm_UpdateWindowTitle_Task_settings_for__0_, TaskSettings);
+                Text = "ShareX-NVU - " + string.Format(Resources.TaskSettingsForm_UpdateWindowTitle_Task_settings_for__0_, TaskSettings);
             }
         }
 

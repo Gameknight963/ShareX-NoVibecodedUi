@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Trình xem bảng tạm</value>
+    <value>ShareX-NVU - Trình xem bảng tạm</value>
   </data>
   <data name="btnClearClipboard.Text" xml:space="preserve">
     <value>Xóa khay nhớ tạm</value>

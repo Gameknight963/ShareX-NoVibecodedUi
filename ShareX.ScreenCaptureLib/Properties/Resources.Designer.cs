@@ -1409,7 +1409,7 @@ namespace ShareX.ScreenCaptureLib.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX - Image editor.
+        ///   Looks up a localized string similar to ShareX-NVU - Image editor.
         /// </summary>
         internal static string RegionCaptureForm_ShowExitConfirmation_ShareXImageEditor {
             get {

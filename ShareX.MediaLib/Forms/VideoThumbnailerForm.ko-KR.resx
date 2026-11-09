@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - 비디오 섬네일 생성기</value>
+    <value>ShareX-NVU - 비디오 섬네일 생성기</value>
   </data>
   <data name="btnStart.Text" xml:space="preserve">
     <value>스크린 샷 찍기</value>

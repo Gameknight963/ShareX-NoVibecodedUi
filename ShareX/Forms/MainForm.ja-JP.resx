@@ -310,7 +310,7 @@
     <value>寄付する...</value>
   </data>
   <data name="tsbAbout.Text" xml:space="preserve">
-    <value>ShareX について...</value>
+    <value>ShareX-NVU について...</value>
   </data>
   <data name="tsmiShowErrors.Text" xml:space="preserve">
     <value>エラーを表示</value>
@@ -604,7 +604,7 @@
     <value>操作用ツールバーの表示切替</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>ShareX ウィンドウを表示</value>
+    <value>ShareX-NVU ウィンドウを表示</value>
   </data>
   <data name="tsmiTrayExit.Text" xml:space="preserve">
     <value>終了</value>

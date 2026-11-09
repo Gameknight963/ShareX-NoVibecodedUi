@@ -127,7 +127,7 @@
     <value>Générer des miniatures</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Générateur de miniatures d'image</value>
+    <value>ShareX-NVU - Générateur de miniatures d'image</value>
   </data>
   <data name="lblHeight.Text" xml:space="preserve">
     <value>Hauteur :</value>

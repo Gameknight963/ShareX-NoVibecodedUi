@@ -697,7 +697,7 @@
     <value>Ghim vào màn hình...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Khởi động lại ShareX với tư cách quản trị viên</value>
+    <value>Khởi động lại ShareX-NVU với tư cách quản trị viên</value>
   </data>
   <data name="tsmiTrayBorderlessWindow.Text" xml:space="preserve">
     <value>Cửa sổ không viền ...</value>

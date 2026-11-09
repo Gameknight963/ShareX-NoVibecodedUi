@@ -39,7 +39,7 @@ namespace ShareX.HelpersLib
             rtbText.AddContextMenu();
             ShareXResources.ApplyTheme(this, true);
 
-            Text = "ShareX - " + title;
+            Text = "ShareX-NVU - " + title;
             rtbText.Text = text;
             ScrollToEnd = scrollToEnd;
         }

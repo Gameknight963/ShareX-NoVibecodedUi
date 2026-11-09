@@ -422,7 +422,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open at ShareX startup.
+        ///   Looks up a localized string similar to Open at ShareX-NVU startup.
         /// </summary>
         internal static string ActionsToolbar_OpenAtShareXStartup {
             get {
@@ -630,7 +630,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose ShareX personal folder path.
+        ///   Looks up a localized string similar to Choose ShareX-NVU personal folder path.
         /// </summary>
         internal static string ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path {
             get {
@@ -640,7 +640,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Would you like to reset ShareX settings?.
+        ///   Looks up a localized string similar to Would you like to reset ShareX-NVU settings?.
         /// </summary>
         internal static string ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings {
             get {
@@ -649,7 +649,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX needs to be restarted for the language changes to apply.
+        ///   Looks up a localized string similar to ShareX-NVU needs to be restarted for the language changes to apply.
         ///
         ///Would you like to restart ShareX?.
         /// </summary>
@@ -687,7 +687,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Run ShareX when Windows starts.
+        ///   Looks up a localized string similar to Run ShareX-NVU when Windows starts.
         /// </summary>
         internal static string ApplicationSettingsForm_cbStartWithWindows_Text {
             get {
@@ -696,7 +696,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to For settings to take effect ShareX needs to be reopened from Steam..
+        ///   Looks up a localized string similar to For settings to take effect ShareX-NVU needs to be reopened from Steam..
         /// </summary>
         internal static string ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_ {
             get {
@@ -1527,7 +1527,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to FFmpeg that comes with ShareX only supports 64-bit operating systems..
+        ///   Looks up a localized string similar to FFmpeg that comes with ShareX-NVU only supports 64-bit operating systems..
         /// </summary>
         internal static string FFmpegOnlySupports64BitOperatingSystems {
             get {
@@ -2002,7 +2002,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit with ShareX.
+        ///   Looks up a localized string similar to Edit with ShareX-NVU.
         /// </summary>
         internal static string IntegrationHelpers_EditWithShareX {
             get {
@@ -2011,7 +2011,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Upload with ShareX.
+        ///   Looks up a localized string similar to Upload with ShareX-NVU.
         /// </summary>
         internal static string IntegrationHelpers_UploadWithShareX {
             get {
@@ -2563,7 +2563,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX cannot be closed while screen recording is active.
+        ///   Looks up a localized string similar to ShareX-NVU cannot be closed while screen recording is active.
         ///
         ///Do you want to abort the active screen recording?.
         /// </summary>
@@ -2574,7 +2574,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX - Confirmation.
+        ///   Looks up a localized string similar to ShareX-NVU - Confirmation.
         /// </summary>
         internal static string ShareXConfirmation {
             get {
@@ -2583,7 +2583,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX is minimized to the system tray..
+        ///   Looks up a localized string similar to ShareX-NVU is minimized to the system tray..
         /// </summary>
         internal static string ShareXIsMinimizedToTheSystemTray {
             get {
@@ -2592,7 +2592,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX is up to date!.
+        ///   Looks up a localized string similar to ShareX-NVU is up to date!.
         /// </summary>
         internal static string ShareXIsUpToDate {
             get {
@@ -2601,7 +2601,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ShareX needs to be restarted for the personal folder changes to apply.
+        ///   Looks up a localized string similar to ShareX-NVU needs to be restarted for the personal folder changes to apply.
         ///
         ///Would you like to restart ShareX?.
         /// </summary>
@@ -3308,7 +3308,7 @@ namespace ShareX.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your anti-virus software or the controlled folder access feature in Windows could be blocking ShareX..
+        ///   Looks up a localized string similar to Your anti-virus software or the controlled folder access feature in Windows could be blocking ShareX-NVU..
         /// </summary>
         internal static string YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX {
             get {

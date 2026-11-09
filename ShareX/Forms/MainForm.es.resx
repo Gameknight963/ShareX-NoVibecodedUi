@@ -505,7 +505,7 @@
     <value>Historial de la imagen...</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>Mostrar la ventana ShareX</value>
+    <value>Mostrar la ventana ShareX-NVU</value>
   </data>
   <data name="tsmiTrayExit.Text" xml:space="preserve">
     <value>Salir</value>
@@ -769,7 +769,7 @@
     <value>Configuración del cargador personalizado...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Reiniciar ShareX como administrador</value>
+    <value>Reiniciar ShareX-NVU como administrador</value>
   </data>
   <data name="tsmiOpenActionsToolbar.Text" xml:space="preserve">
     <value>Alternar barra de herramientas de acciones</value>

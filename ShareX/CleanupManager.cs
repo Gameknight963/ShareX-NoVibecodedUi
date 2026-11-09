@@ -103,7 +103,7 @@ namespace ShareX
                 {
                     Directory.Delete(folderPath, true);
 
-                    DebugHelper.WriteLine($"ShareX temp folder cleaned: {folderPath}");
+                    DebugHelper.WriteLine($"ShareX-NVU temp folder cleaned: {folderPath}");
                 }
             }
         }

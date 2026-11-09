@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX diminimalkan ke baki sistem.</value>
+    <value>ShareX-NVU diminimalkan ke baki sistem.</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>Waktu tersisa: {0}s ({1}%) Total: {2}</value>
@@ -169,14 +169,14 @@
     <value>Tetap di atas</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX sudah terbaru!</value>
+    <value>ShareX-NVU sudah terbaru!</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Log perubahan</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>ShareX perlu dimulai ulang untuk menerapkan bahasa.
-Apakah Anda ingin memulai ulang ShareX?</value>
+    <value>ShareX-NVU perlu dimulai ulang untuk menerapkan bahasa.
+Apakah Anda ingin memulai ulang ShareX-NVU?</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Log debug dapat berisi informasi sensitif. Yakin ingin melanjutkan?</value>
@@ -205,7 +205,7 @@ Klik tengah untuk menutup</value>
     <value>Pilih tombol cepat...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>Jalankan ShareX saat memulai Windows</value>
+    <value>Jalankan ShareX-NVU saat memulai Windows</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Nonaktifkan tombol cepat</value>
@@ -227,7 +227,7 @@ Klik tengah untuk menutup</value>
 Tekan 'Tidak' untuk membatalkan unggahan saat ini dan nonaktifkan otomatis mengunggah screenshot.</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>FFmpeg yang disertakan dengan ShareX hanya mendukung sistem operasi 64-bit.</value>
+    <value>FFmpeg yang disertakan dengan ShareX-NVU hanya mendukung sistem operasi 64-bit.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Mengunggah</value>
@@ -251,7 +251,7 @@ Tekan 'Tidak' untuk membatalkan unggahan saat ini dan nonaktifkan otomatis mengu
     <value>Bagikan URL ({0})</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>Agar pengaturan diterapkan, ShareX perlu dibuka kembali dari Steam.</value>
+    <value>Agar pengaturan diterapkan, ShareX-NVU perlu dibuka kembali dari Steam.</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>URL untuk mengunduh dan mengunggah</value>
@@ -266,7 +266,7 @@ Tekan 'Tidak' untuk membatalkan unggahan saat ini dan nonaktifkan otomatis mengu
     <value>X: {0}, Y: {1}, Lebar: {2}, Tinggi: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>Apakah Anda ingin mengatur ulang pengaturan ShareX?</value>
+    <value>Apakah Anda ingin mengatur ulang pengaturan ShareX-NVU?</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} akan diunggah ke {1}. Anda dapat memilih tujuan yang berbeda.</value>
@@ -312,7 +312,7 @@ Apakah anda yakin ingin melanjutkan?</value>
     <value>Kebijakan privasi</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Pilih jalur folder pribadi ShareX</value>
+    <value>Pilih jalur folder pribadi ShareX-NVU</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Rumania</value>
@@ -374,7 +374,7 @@ Anda dapat menonaktifkannya nanti dari menu "Tugas setelah tangkapan".</value>
     <value>Eror</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>Perangkat lunak antivirus Anda atau fitur akses folder terkontrol di Windows mungkin memblokir ShareX.</value>
+    <value>Perangkat lunak antivirus Anda atau fitur akses folder terkontrol di Windows mungkin memblokir ShareX-NVU.</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Atur ulang semua tugas cepat ke bawaan?</value>
@@ -437,9 +437,9 @@ Anda dapat menonaktifkannya nanti dari menu "Tugas setelah tangkapan".</value>
     <value>Tutup</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>ShareX perlu dimulai ulang agar perubahan folder pribadi diterapkan.
+    <value>ShareX-NVU perlu dimulai ulang agar perubahan folder pribadi diterapkan.
 
-Apakah Anda ingin memulai ulang ShareX?</value>
+Apakah Anda ingin memulai ulang ShareX-NVU?</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Situs web</value>
@@ -484,7 +484,7 @@ Apakah Anda ingin memulai ulang ShareX?</value>
     <value>Anda bisa menambahkan alur kerja dari pengaturan tombol cepat...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - Konfirmasi</value>
+    <value>ShareX-NVU - Konfirmasi</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Mengunduh</value>
@@ -526,7 +526,7 @@ Apakah Anda ingin memulai ulang ShareX?</value>
     <value>Sumber video dan audio FFmpeg tidak boleh sama-sama "Tidak ada".</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX tidak dapat ditutup saat perekaman layar aktif.
+    <value>ShareX-NVU tidak dapat ditutup saat perekaman layar aktif.
 
 Apakah Anda ingin membatalkan perekaman layar aktif?</value>
   </data>
@@ -538,7 +538,7 @@ Apakah Anda ingin membatalkan perekaman layar aktif?</value>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>Tidak bisa mengakses file "{0}".
-Jalankan ShareX sebagai administrator untuk mengubah jalur folder pribadi.</value>
+Jalankan ShareX-NVU sebagai administrator untuk mengubah jalur folder pribadi.</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Pengaktifan telah dinonaktifkan di Pengelola Tugas</value>
@@ -576,7 +576,7 @@ di sini</value>
 
 {1}
 
-Silakan pilih tombol cepat yang berbeda atau keluar dari aplikasi yang bertentangan dan buka kembali ShareX.</value>
+Silakan pilih tombol cepat yang berbeda atau keluar dari aplikasi yang bertentangan dan buka kembali ShareX-NVU.</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>Persegi panjang klien</value>
@@ -630,7 +630,7 @@ Silakan pilih tombol cepat yang berbeda atau keluar dari aplikasi yang bertentan
     <value>Jeda tangkapan layar: {0}d</value>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
-    <value>Buka di pengaktifan ShareX</value>
+    <value>Buka di pengaktifan ShareX-NVU</value>
   </data>
   <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
     <value>Admin sistem Anda menonaktifkan fitur unggah.</value>

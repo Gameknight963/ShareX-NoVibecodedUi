@@ -40,7 +40,7 @@ namespace ShareX.HelpersLib
             components = new Container();
             Icon = ShareXResources.Icon;
             TrayIcon = new NotifyIcon(components);
-            TrayIcon.Text = "ShareX";
+            TrayIcon.Text = "ShareX-NVU";
         }
 
         protected override void SetVisibleCore(bool value)

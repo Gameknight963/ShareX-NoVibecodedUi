@@ -139,7 +139,7 @@
     <value>Jumlah ulangi:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Otomatis ambil</value>
+    <value>ShareX-NVU - Otomatis ambil</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>detik</value>
@@ -154,6 +154,6 @@
     <value>Area</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Otomatis ambil</value>
+    <value>ShareX-NVU - Otomatis ambil</value>
   </data>
 </root>

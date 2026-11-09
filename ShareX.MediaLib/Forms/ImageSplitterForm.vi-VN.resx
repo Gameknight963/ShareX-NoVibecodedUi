@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Bộ chia hình ảnh</value>
+    <value>ShareX-NVU - Bộ chia hình ảnh</value>
   </data>
   <data name="btnCopyChatEmoji.Text" xml:space="preserve">
     <value>Sao chép cú pháp biểu tượng cảm xúc trò chuyện</value>

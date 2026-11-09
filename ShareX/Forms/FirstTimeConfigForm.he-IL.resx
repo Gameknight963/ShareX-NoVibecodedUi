@@ -121,10 +121,10 @@
     <value>אישור</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>בזמן ש-ShareX פתוח, הצג את "In-app" ב-Steam</value>
+    <value>בזמן ש-ShareX-NVU פתוח, הצג את "In-app" ב-Steam</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>הפעל את ShareX עם עליית Windows</value>
+    <value>הפעל את ShareX-NVU עם עליית Windows</value>
   </data>
   <data name="cbSendToMenu.Text" xml:space="preserve">
     <value>הצג את ShareX בתפריט "שלח אל"</value>
@@ -136,6 +136,6 @@
     <value>ניתן למצוא את ההגדרות הללו ב"הגדרות יישום -&gt; לשונית אינטגרציה".</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>הגדרה ראשונית של ShareX</value>
+    <value>הגדרה ראשונית של ShareX-NVU</value>
   </data>
 </root>

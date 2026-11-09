@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
-    <value>ShareX jest zminimalizowany do zasobnika systemowego.</value>
+    <value>ShareX-NVU jest zminimalizowany do zasobnika systemowego.</value>
   </data>
   <data name="AutoCaptureForm_UpdateStatus_Timeleft___0_s___1____Total___2_" xml:space="preserve">
     <value>Pozostały czas: {0}s ({1}%) Łącznie: {2}</value>
@@ -169,15 +169,15 @@
     <value>Pozostań na wierzchu</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
-    <value>ShareX jest aktualny!</value>
+    <value>ShareX-NVU jest aktualny!</value>
   </data>
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Dziennik zmian</value>
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
-    <value>ShareX musi zostać ponownie uruchomiony, aby zmiany języka zostały zastosowane.
+    <value>ShareX-NVU musi zostać ponownie uruchomiony, aby zmiany języka zostały zastosowane.
 
-Czy chcesz ponownie uruchomić ShareX?</value>
+Czy chcesz ponownie uruchomić ShareX-NVU?</value>
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Dziennik debugowania może zawierać poufne informacje. Czy na pewno chcesz kontynuować?</value>
@@ -206,7 +206,7 @@ Kliknij prawym przyciskiem myszy, aby otworzyć menu
     <value>Wybierz skrót klawiszowy...</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>Uruchom ShareX przy starcie systemu Windows</value>
+    <value>Uruchom ShareX-NVU przy starcie systemu Windows</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Disable_hotkeys" xml:space="preserve">
     <value>Wyłącz skróty klawiszowe</value>
@@ -228,7 +228,7 @@ Kliknij prawym przyciskiem myszy, aby otworzyć menu
 Naciśnij 'Nie', aby anulować bieżące przesyłanie i wyłączyć automatyczne przesyłanie zrzutów ekranu.</value>
   </data>
   <data name="FFmpegOnlySupports64BitOperatingSystems" xml:space="preserve">
-    <value>FFmpeg, który jest dostarczany z ShareX, obsługuje tylko 64-bitowe systemy operacyjne.</value>
+    <value>FFmpeg, który jest dostarczany z ShareX-NVU, obsługuje tylko 64-bitowe systemy operacyjne.</value>
   </data>
   <data name="UploadTask_DoUploadJob_Uploading" xml:space="preserve">
     <value>Przesyłanie</value>
@@ -252,7 +252,7 @@ Naciśnij 'Nie', aby anulować bieżące przesyłanie i wyłączyć automatyczne
     <value>Udostępnij link ({0})</value>
   </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
-    <value>Aby ustawienia zaczęły obowiązywać, należy ponownie uruchomić ShareX ze Steam.</value>
+    <value>Aby ustawienia zaczęły obowiązywać, należy ponownie uruchomić ShareX-NVU ze Steam.</value>
   </data>
   <data name="UploadManager_UploadURL_URL_to_download_from_and_upload" xml:space="preserve">
     <value>Link do pobierania i wysyłania</value>
@@ -267,7 +267,7 @@ Naciśnij 'Nie', aby anulować bieżące przesyłanie i wyłączyć automatyczne
     <value>X: {0}, Y: {1}, Szerokość: {2}, Wysokość: {3}</value>
   </data>
   <data name="ApplicationSettingsForm_btnResetSettings_Click_WouldYouLikeToResetShareXSettings" xml:space="preserve">
-    <value>Czy chcesz zresetować ustawienia ShareX?</value>
+    <value>Czy chcesz zresetować ustawienia ShareX-NVU?</value>
   </data>
   <data name="BeforeUploadForm_BeforeUploadForm__0__is_about_to_be_uploaded_to__1___You_may_choose_a_different_destination_" xml:space="preserve">
     <value>{0} ma zostać przesłany do {1}. Możesz wybrać inne miejsce docelowe.</value>
@@ -313,7 +313,7 @@ Jesteś pewien, że chcesz kontynuować?</value>
     <value>Polityka prywatności</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>Wybierz ścieżkę folderu osobistego ShareX</value>
+    <value>Wybierz ścieżkę folderu osobistego ShareX-NVU</value>
   </data>
   <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
     <value>Rumuński</value>
@@ -375,7 +375,7 @@ Możesz je później wyłączyć w menu "Zadania po przechwyceniu".</value>
     <value>Błąd</value>
   </data>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
-    <value>Twoje oprogramowanie antywirusowe lub funkcja kontrolowanego dostępu do folderów w systemie Windows może blokować ShareX.</value>
+    <value>Twoje oprogramowanie antywirusowe lub funkcja kontrolowanego dostępu do folderów w systemie Windows może blokować ShareX-NVU.</value>
   </data>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Przywrócić wszystkie szybkie zadania do wartości domyślnych?</value>
@@ -438,9 +438,9 @@ Możesz je później wyłączyć w menu "Zadania po przechwyceniu".</value>
     <value>Zamknij</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
-    <value>ShareX musi zostać ponownie uruchomiony, aby zmiany w folderach osobistych zostały zastosowane.
+    <value>ShareX-NVU musi zostać ponownie uruchomiony, aby zmiany w folderach osobistych zostały zastosowane.
 
-Czy chcesz ponownie uruchomić ShareX?</value>
+Czy chcesz ponownie uruchomić ShareX-NVU?</value>
   </data>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Strona</value>
@@ -485,7 +485,7 @@ Czy chcesz ponownie uruchomić ShareX?</value>
     <value>Możesz dodać operacje w ustawieniach skrótu...</value>
   </data>
   <data name="ShareXConfirmation" xml:space="preserve">
-    <value>ShareX - Potwierdzenie</value>
+    <value>ShareX-NVU - Potwierdzenie</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Pobieranie</value>
@@ -527,7 +527,7 @@ Czy chcesz ponownie uruchomić ShareX?</value>
     <value>Źródło wideo i audio FFmpeg nie może być jednocześnie "Brak".</value>
   </data>
   <data name="ShareXCannotBeClosedWhileScreenRecordingIsActive" xml:space="preserve">
-    <value>ShareX nie może zostać zamknięty, gdy aktywne jest nagrywanie ekranu.
+    <value>ShareX-NVU nie może zostać zamknięty, gdy aktywne jest nagrywanie ekranu.
 
 Czy chcesz przerwać aktywne nagrywanie ekranu?</value>
   </data>
@@ -539,7 +539,7 @@ Czy chcesz przerwać aktywne nagrywanie ekranu?</value>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>Nie można uzyskać dostępu do pliku "{0}".
-Proszę uruchomić ShareX jako administrator, aby zmienić ścieżkę folderu osobistego.</value>
+Proszę uruchomić ShareX-NVU jako administrator, aby zmienić ścieżkę folderu osobistego.</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>Uruchamianie zostało wyłączone w menedżerze zadań</value>
@@ -577,7 +577,7 @@ tutaj</value>
 
 {1}
 
-Proszę wybrać inny skrót klawiszowy lub zamknąć konfliktową aplikację i ponownie otworzyć ShareX.</value>
+Proszę wybrać inny skrót klawiszowy lub zamknąć konfliktową aplikację i ponownie otworzyć ShareX-NVU.</value>
   </data>
   <data name="InspectWindow_ClientRectangle" xml:space="preserve">
     <value>Prostokąt klienta</value>
@@ -631,7 +631,7 @@ Proszę wybrać inny skrót klawiszowy lub zamknąć konfliktową aplikację i p
     <value>Opóźnienie zrzutu ekranu: {0}s</value>
   </data>
   <data name="ActionsToolbar_OpenAtShareXStartup" xml:space="preserve">
-    <value>Otwórz przy starcie ShareX</value>
+    <value>Otwórz przy starcie ShareX-NVU</value>
   </data>
   <data name="YourSystemAdminDisabledTheUploadFeature" xml:space="preserve">
     <value>Administrator systemu wyłączył funkcję przesyłania.</value>

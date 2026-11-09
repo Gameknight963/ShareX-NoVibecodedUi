@@ -832,11 +832,11 @@ namespace ShareX.UploadersLib
             {
                 if (imageShackUploader.GetAccessToken())
                 {
-                    MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else
                 {
-                    MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)
@@ -1467,7 +1467,7 @@ namespace ShareX.UploadersLib
             }
             else
             {
-                MessageBox.Show(Resources.UploadersConfigForm_FTPOpenClient_Unable_to_find_valid_FTP_account_, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.UploadersConfigForm_FTPOpenClient_Unable_to_find_valid_FTP_account_, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -1626,7 +1626,7 @@ namespace ShareX.UploadersLib
             MessageBox.Show(@"Unfortunately, Google has forced us to use a more restrictive API scope, which does not allow us to see files or folders anymore. Because of this, we cannot provide folder listing and selection anymore.
 
 However, there is a workaround. You can navigate to the Google Drive website in your browser, open the folder you want to upload to, and then copy the folder ID from the browser's address bar to here.",
-"ShareX - Google Drive", MessageBoxButtons.OK, MessageBoxIcon.Question);
+"ShareX-NVU - Google Drive", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
 
         private void btnGoogleDriveRefreshFolders_Click(object sender, EventArgs e)
@@ -2217,11 +2217,11 @@ However, there is a workaround. You can navigate to the Google Drive website in 
 
             if (checkReturned)
             {
-                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -2242,11 +2242,11 @@ However, there is a workaround. You can navigate to the Google Drive website in 
 
             if (checkReturned)
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -2279,11 +2279,11 @@ However, there is a workaround. You can navigate to the Google Drive website in 
                         btnRefreshSeafileAccInfo.PerformClick();
                         Config.SeafileRepoID = sf.GetOrMakeDefaultLibrary(authToken);
                         txtSeafileUploadLocationRefresh.PerformClick();
-                        MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show(Resources.UploadersConfigForm_Login_successful, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                     else
                     {
-                        MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
                 catch (Exception ex)
@@ -2317,7 +2317,7 @@ However, there is a workaround. You can navigate to the Google Drive website in 
 
             if (SeafileCheckAccInfoResponse == null)
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.UploadersConfigForm_Login_failed, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             txtSeafileAccInfoEmail.Text = SeafileCheckAccInfoResponse.email;
@@ -2397,11 +2397,11 @@ However, there is a workaround. You can navigate to the Google Drive website in 
 
             if (checkReturned)
             {
-                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -2425,11 +2425,11 @@ However, there is a workaround. You can navigate to the Google Drive website in 
 
             if (checkReturned)
             {
-                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(Resources.UploadersConfigForm_TestFTPAccount_Connected_, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.UploadersConfigForm_Error, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

@@ -139,7 +139,7 @@
     <value>URL 공유 서비스:</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - 커스텀 업로더 설정</value>
+    <value>ShareX-NVU - 커스텀 업로더 설정</value>
   </data>
   <data name="btnURLSharingServiceTest.Text" xml:space="preserve">
     <value>테스트</value>

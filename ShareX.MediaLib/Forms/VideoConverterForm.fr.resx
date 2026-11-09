@@ -121,7 +121,7 @@
     <value>Utiliser des arguments personnalisés :</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Convertisseur vidéo</value>
+    <value>ShareX-NVU - Convertisseur vidéo</value>
   </data>
   <data name="cbAutoOpenFolder.Text" xml:space="preserve">
     <value>Ouvrir le dossier après l'encodage</value>

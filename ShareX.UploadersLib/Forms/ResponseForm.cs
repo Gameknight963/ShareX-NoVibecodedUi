@@ -178,7 +178,7 @@ namespace ShareX.UploadersLib
                 }
                 catch
                 {
-                    MessageBox.Show(Resources.FormattingFailed_JSON, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(Resources.FormattingFailed_JSON, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
@@ -195,7 +195,7 @@ namespace ShareX.UploadersLib
                 }
                 catch
                 {
-                    MessageBox.Show(Resources.FormattingFailed_XML, "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(Resources.FormattingFailed_XML, "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }

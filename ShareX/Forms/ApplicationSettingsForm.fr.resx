@@ -172,7 +172,7 @@
     <value>Mémoriser la position de la fenêtre principale</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Dossier personnel ShareX :</value>
+    <value>Dossier personnel ShareX-NVU :</value>
   </data>
   <data name="tpIntegration.Text" xml:space="preserve">
     <value>Intégration</value>
@@ -199,7 +199,7 @@
     <value>Afficher l'icône dans la zone de notification</value>
   </data>
   <data name="cbSilentRun.Text" xml:space="preserve">
-    <value>Réduire ShareX dans la zone de notification</value>
+    <value>Réduire ShareX-NVU dans la zone de notification</value>
   </data>
   <data name="lblBufferSize.Text" xml:space="preserve">
     <value>Taille du buffer :</value>
@@ -217,7 +217,7 @@
     <value>Avancé</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Paramètres de l'application</value>
+    <value>ShareX-NVU - Paramètres de l'application</value>
   </data>
   <data name="tpProxy.Text" xml:space="preserve">
     <value>Proxy</value>
@@ -247,7 +247,7 @@
     <value>Port :</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>Lorsque ShareX est ouvert, afficher le statut « Dans une application » sur Steam</value>
+    <value>Lorsque ShareX-NVU est ouvert, afficher le statut « Dans une application » sur Steam</value>
   </data>
   <data name="tpGeneral.Text" xml:space="preserve">
     <value>Général</value>
@@ -322,7 +322,7 @@
     <value>Extension Firefox</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Utiliser une icône ShareX blanche</value>
+    <value>Utiliser une icône ShareX-NVU blanche</value>
   </data>
   <data name="btnPersonalFolderPathApply.Text" xml:space="preserve">
     <value>Appliquer</value>

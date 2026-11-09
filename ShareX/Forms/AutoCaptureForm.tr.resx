@@ -139,13 +139,13 @@
     <value>Tekrar süresi:</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Otomatik yakalama</value>
+    <value>ShareX-NVU - Otomatik yakalama</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>saniye</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Otomatik yakala</value>
+    <value>ShareX-NVU - Otomatik yakala</value>
   </data>
   <data name="gbRegion.Text" xml:space="preserve">
     <value>Bölge</value>

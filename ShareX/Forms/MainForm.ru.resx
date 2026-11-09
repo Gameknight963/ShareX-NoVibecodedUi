@@ -193,7 +193,7 @@
     <value>Окно</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>Показать окно ShareX</value>
+    <value>Показать окно ShareX-NVU</value>
   </data>
   <data name="tsmiFullscreen.Text" xml:space="preserve">
     <value>Весь экран</value>
@@ -682,7 +682,7 @@
     <value>Буфер обмена...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>Перезапустить ShareX как администратор</value>
+    <value>Перезапустить ShareX-NVU как администратор</value>
   </data>
   <data name="tsmiInspectWindow.Text" xml:space="preserve">
     <value>Исследовать окно...</value>

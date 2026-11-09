@@ -139,7 +139,7 @@
     <value>Itervallo di Ripetizione</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
-    <value>ShareX - Auto Cattura</value>
+    <value>ShareX-NVU - Auto Cattura</value>
   </data>
   <data name="lblDurationSeconds.Text" xml:space="preserve">
     <value>secondi</value>
@@ -154,6 +154,6 @@
     <value>Regione Personalizzata</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Auto Cattura</value>
+    <value>ShareX-NVU - Auto Cattura</value>
   </data>
 </root>

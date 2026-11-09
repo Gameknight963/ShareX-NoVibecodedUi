@@ -133,7 +133,7 @@
     <value>開始</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - ハッシュ値の照合</value>
+    <value>ShareX-NVU - ハッシュ値の照合</value>
   </data>
   <data name="btnFilePathBrowse2.Text" xml:space="preserve">
     <value>参照...</value>

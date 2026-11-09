@@ -50,6 +50,7 @@ namespace ShareX
     internal static class Program
     {
         public const string AppName = "ShareX";
+        public const string DisplayName = "ShareX-NVU";
         public const string MutexName = "82E6AC09-0FEF-4390-AD9F-0DD3F5561EFC";
         public static readonly string PipeName = $"{Environment.MachineName}-{Environment.UserName}-{AppName}";
 
@@ -85,7 +86,7 @@ namespace ShareX
         {
             get
             {
-                string title = $"{AppName} {VersionText}";
+                string title = $"{DisplayName} {VersionText}";
 
                 if (Settings != null && Settings.DevMode)
                 {
@@ -112,7 +113,7 @@ namespace ShareX
                     return Title;
                 }
 
-                return AppName;
+                return DisplayName;
             }
         }
 
@@ -301,7 +302,7 @@ namespace ShareX
 
                     if (restartRequested)
                     {
-                        DebugHelper.WriteLine("ShareX restarting.");
+                        DebugHelper.WriteLine("ShareX-NVU restarting.");
 
                         if (restartAsAdmin)
                         {
@@ -322,7 +323,7 @@ namespace ShareX
         {
             ApplicationConfiguration.Initialize();
 
-            DebugHelper.WriteLine("ShareX starting.");
+            DebugHelper.WriteLine("ShareX-NVU starting.");
             DebugHelper.WriteLine("Version: " + VersionText);
             DebugHelper.WriteLine("Build: " + Build);
             DebugHelper.WriteLine("Command line: " + Environment.CommandLine);
@@ -377,13 +378,13 @@ namespace ShareX
             {
                 closeSequenceStarted = true;
 
-                DebugHelper.WriteLine("ShareX closing.");
+                DebugHelper.WriteLine("ShareX-NVU closing.");
 
                 WatchFolderManager?.Dispose();
                 SettingManager.HistoryClose();
                 SettingManager.SaveAllSettings();
 
-                DebugHelper.WriteLine("ShareX closed.");
+                DebugHelper.WriteLine("ShareX-NVU closed.");
             }
         }
 
@@ -515,7 +516,7 @@ namespace ShareX
                         sb.AppendLine();
                         sb.Append(e);
 
-                        MessageBox.Show(sb.ToString(), "ShareX - " + Resources.Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show(sb.ToString(), "ShareX-NVU - " + Resources.Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
                         CustomPersonalPath = "";
                     }
                 }
@@ -618,7 +619,7 @@ namespace ShareX
                     {
                         DebugHelper.WriteException(e);
                         MessageBox.Show(string.Format(Resources.Program_WritePersonalPathConfig_Cant_access_to_file, PersonalPathConfigFilePath),
-                            "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                     catch (Exception e)
                     {

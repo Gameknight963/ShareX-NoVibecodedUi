@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Definições de Aplicação</value>
+    <value>ShareX-NVU - Definições de Aplicação</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>Procurar...</value>
@@ -238,7 +238,7 @@
     <value>Minimizar para a bandeja do sistema ao iniciar</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>Enquanto ShareX estiver aberto, mostrar "In-App" na Steam</value>
+    <value>Enquanto ShareX-NVU estiver aberto, mostrar "In-App" na Steam</value>
   </data>
   <data name="cbTaskbarProgressEnabled.Text" xml:space="preserve">
     <value>Mostra progresso na barra de tarefas</value>
@@ -250,7 +250,7 @@
     <value>Usar pasta personalizada para capturas</value>
   </data>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Usar ícon branco do ShareX</value>
+    <value>Usar ícon branco do ShareX-NVU</value>
   </data>
   <data name="chDescription.Text" xml:space="preserve">
     <value>Descrição</value>
@@ -289,7 +289,7 @@
     <value>Idioma:</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Pasta raiz do ShareX:</value>
+    <value>Pasta raiz do ShareX-NVU:</value>
   </data>
   <data name="lblProxyHost.Text" xml:space="preserve">
     <value>Domínio:</value>

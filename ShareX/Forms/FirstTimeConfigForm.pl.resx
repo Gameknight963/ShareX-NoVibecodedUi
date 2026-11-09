@@ -121,13 +121,13 @@
     <value>OK</value>
   </data>
   <data name="cbRunStartup.Text" xml:space="preserve">
-    <value>Uruchom ShareX przy starcie systemu Windows</value>
+    <value>Uruchom ShareX-NVU przy starcie systemu Windows</value>
   </data>
   <data name="cbShellContextMenuButton.Text" xml:space="preserve">
     <value>Pokaż przycisk "Prześlij za pomocą ShareX" w menu kontekstowym Eksploratora Windows</value>
   </data>
   <data name="cbSteamInApp.Text" xml:space="preserve">
-    <value>Gdy ShareX jest otwarty, pokaż status "W aplikacji" na Steamie</value>
+    <value>Gdy ShareX-NVU jest otwarty, pokaż status "W aplikacji" na Steamie</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
     <value>Możesz znaleźć te ustawienia w "Ustawieniach aplikacji -&gt; "Zakładka integracji".</value>
@@ -136,6 +136,6 @@
     <value>Pokaż ShareX w menu "Wyślij do"</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Pierwsza konfiguracja ShareX</value>
+    <value>Pierwsza konfiguracja ShareX-NVU</value>
   </data>
 </root>

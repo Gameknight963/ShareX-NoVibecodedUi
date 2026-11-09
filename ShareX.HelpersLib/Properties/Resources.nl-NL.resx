@@ -738,7 +738,7 @@ Wil je deze downloaden en installeren?</value>
     <value>Tekst herkennen (OCR)</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
-    <value>ShareX afsluiten</value>
+    <value>ShareX-NVU afsluiten</value>
   </data>
   <data name="ShapeType_DrawingTextOutline" xml:space="preserve">
     <value>Tekst (omtrek) (O)</value>
@@ -1167,7 +1167,7 @@ Wil je deze downloaden en installeren?</value>
     <value>Pin to scherm</value>
   </data>
   <data name="ShareXImageViewer" xml:space="preserve">
-    <value>ShareX - Afbeelding weergaveer</value>
+    <value>ShareX-NVU - Afbeelding weergaveer</value>
   </data>
   <data name="HotkeyType_PinToScreen" xml:space="preserve">
     <value>Pin to scherm</value>

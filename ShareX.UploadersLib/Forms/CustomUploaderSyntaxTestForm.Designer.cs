@@ -139,7 +139,7 @@ namespace ShareX.UploadersLib
             this.MaximizeBox = false;
             this.Name = "CustomUploaderSyntaxTestForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ShareX - Custom uploader syntax test";
+            this.Text = "ShareX-NVU - Custom uploader syntax test";
             this.pURLSyntax.ResumeLayout(false);
             this.pResponseText.ResumeLayout(false);
             this.ResumeLayout(false);

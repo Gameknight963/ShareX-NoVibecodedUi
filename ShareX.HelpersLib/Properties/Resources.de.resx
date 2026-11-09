@@ -325,7 +325,7 @@
     <value>Text erkennen (OCR)</value>
   </data>
   <data name="HotkeyType_ExitShareX" xml:space="preserve">
-    <value>ShareX beenden</value>
+    <value>ShareX-NVU beenden</value>
   </data>
   <data name="UpdateMessageBox_UpdateMessageBox_Portable" xml:space="preserve">
     <value>Eine neuere Version von {0} ist verfügbar.
@@ -1149,7 +1149,7 @@ Soll sie heruntergeladen und installiert werden?</value>
     <value>An Bildschirm anheften</value>
   </data>
   <data name="ShareXImageViewer" xml:space="preserve">
-    <value>ShareX - Bildbetrachter</value>
+    <value>ShareX-NVU - Bildbetrachter</value>
   </data>
   <data name="HotkeyType_PinToScreen" xml:space="preserve">
     <value>An Bildschirm anheften</value>

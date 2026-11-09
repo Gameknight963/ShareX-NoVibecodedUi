@@ -287,7 +287,7 @@ namespace ShareX.UploadersLib
             catch (Exception e)
             {
                 DebugHelper.WriteException(e);
-                MessageBox.Show(Resources.ExportFailed + "\n\n" + e, "ShareX - " + "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(Resources.ExportFailed + "\n\n" + e, "ShareX-NVU - " + "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -339,7 +339,7 @@ namespace ShareX.UploadersLib
                     }
                 }
 
-                MessageBox.Show($"{updated} custom uploader files updated.", "ShareX", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show($"{updated} custom uploader files updated.", "ShareX-NVU", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -634,7 +634,7 @@ namespace ShareX.UploadersLib
                             break;
                         case CustomUploaderDestinationType.TextUploader:
                             CustomTextUploader textUploader = new CustomTextUploader(item);
-                            using (TextUploadForm form = new TextUploadForm("ShareX text upload test"))
+                            using (TextUploadForm form = new TextUploadForm("ShareX-NVU text upload test"))
                             {
                                 if (form.ShowDialog() == DialogResult.OK)
                                 {
@@ -736,7 +736,7 @@ namespace ShareX.UploadersLib
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show(e.Message, "ShareX - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(e.Message, "ShareX-NVU - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
@@ -753,7 +753,7 @@ namespace ShareX.UploadersLib
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show(e.Message, "ShareX - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(e.Message, "ShareX-NVU - Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
@@ -864,14 +864,14 @@ namespace ShareX.UploadersLib
             {
                 if (string.IsNullOrEmpty(uploader.RequestURL))
                 {
-                    MessageBox.Show(Resources.UploadersConfigForm_eiCustomUploaders_ExportRequested_RequestURLMustBeConfigured, "ShareX - " + Resources.UploadersConfigForm_Error,
+                    MessageBox.Show(Resources.UploadersConfigForm_eiCustomUploaders_ExportRequested_RequestURLMustBeConfigured, "ShareX-NVU - " + Resources.UploadersConfigForm_Error,
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return null;
                 }
 
                 if (uploader.DestinationType == CustomUploaderDestinationType.None)
                 {
-                    MessageBox.Show(Resources.UploadersConfigForm_eiCustomUploaders_ExportRequested_DestinationTypeMustBeConfigured, "ShareX - " + Resources.UploadersConfigForm_Error,
+                    MessageBox.Show(Resources.UploadersConfigForm_eiCustomUploaders_ExportRequested_DestinationTypeMustBeConfigured, "ShareX-NVU - " + Resources.UploadersConfigForm_Error,
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return null;
                 }
@@ -911,7 +911,7 @@ namespace ShareX.UploadersLib
 
         private void tsmiClearUploaders_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show(Resources.UploadersConfigForm_Remove_all_custom_uploaders_Confirmation, "ShareX",
+            if (MessageBox.Show(Resources.UploadersConfigForm_Remove_all_custom_uploaders_Confirmation, "ShareX-NVU",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 CustomUploaderClearUploaders();

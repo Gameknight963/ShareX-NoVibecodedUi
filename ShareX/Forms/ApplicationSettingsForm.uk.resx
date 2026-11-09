@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cbUseWhiteShareXIcon.Text" xml:space="preserve">
-    <value>Використовувати білу піктограму ShareX</value>
+    <value>Використовувати білу піктограму ShareX-NVU</value>
   </data>
   <data name="btnCheckDevBuild.Text" xml:space="preserve">
     <value>Встановити збірку для розробників...</value>
@@ -181,7 +181,7 @@
     <value>Додаток для Firefox</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>При відкритому ShareX, показувати „У програмі“ у Steam</value>
+    <value>При відкритому ShareX-NVU, показувати „У програмі“ у Steam</value>
   </data>
   <data name="cbChromeExtensionSupport.Text" xml:space="preserve">
     <value>Увімкнути підтримку розширення для Chrome</value>
@@ -214,7 +214,7 @@
     <value>Огляд...</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>Особиста тека ShareX:</value>
+    <value>Особиста тека ShareX-NVU:</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>Огляд...</value>
@@ -352,7 +352,7 @@
     <value>Розширені</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Налаштування програми</value>
+    <value>ShareX-NVU — Налаштування програми</value>
   </data>
   <data name="lblUpdateChannel.Text" xml:space="preserve">
     <value>Канал оновлень:</value>

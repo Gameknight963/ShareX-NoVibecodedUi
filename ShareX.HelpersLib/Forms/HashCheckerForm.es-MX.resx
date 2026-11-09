@@ -133,7 +133,7 @@
     <value>Verificar</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Verificación de hash</value>
+    <value>ShareX-NVU - Verificación de hash</value>
   </data>
   <data name="lblFilePath.Text" xml:space="preserve">
     <value>Ruta del archivo:</value>

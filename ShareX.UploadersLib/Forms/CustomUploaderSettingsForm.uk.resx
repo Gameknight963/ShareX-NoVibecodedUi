@@ -226,7 +226,7 @@
     <value>Перевірка</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Налаштування вивантажувачів</value>
+    <value>ShareX-NVU — Налаштування вивантажувачів</value>
   </data>
   <data name="btnTestURLSyntax.Text" xml:space="preserve">
     <value>Тест...</value>

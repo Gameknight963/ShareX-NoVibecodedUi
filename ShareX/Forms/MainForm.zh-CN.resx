@@ -442,7 +442,7 @@
     <value>屏幕录制（GIF）</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>打开ShareX窗口</value>
+    <value>打开ShareX-NVU窗口</value>
   </data>
   <data name="tsmiTrayTaskSettings.Text" xml:space="preserve">
     <value>任务设置...</value>
@@ -511,7 +511,7 @@
     <value>窗口</value>
   </data>
   <data name="tsmiRectangleTransparent.Text" xml:space="preserve">
-    <value>矩形区域（ShareX 窗口透明）</value>
+    <value>矩形区域（ShareX-NVU 窗口透明）</value>
   </data>
   <data name="tsmiScrollingCapture.Text" xml:space="preserve">
     <value>滚动捕捉...</value>
@@ -526,7 +526,7 @@
     <value>视频缩略图...</value>
   </data>
   <data name="tsmiTrayRectangleTransparent.Text" xml:space="preserve">
-    <value>矩形区域（ShareX 窗口透明）</value>
+    <value>矩形区域（ShareX-NVU 窗口透明）</value>
   </data>
   <data name="tsmiTrayScrollingCapture.Text" xml:space="preserve">
     <value>滚动捕捉...</value>
@@ -676,7 +676,7 @@
     <value>图像分割器...</value>
   </data>
   <data name="tsmiRestartAsAdmin.Text" xml:space="preserve">
-    <value>用管理员权限重启 ShareX</value>
+    <value>用管理员权限重启 ShareX-NVU</value>
   </data>
   <data name="tsmiTrayVideoConverter.Text" xml:space="preserve">
     <value>视频转换器...</value>

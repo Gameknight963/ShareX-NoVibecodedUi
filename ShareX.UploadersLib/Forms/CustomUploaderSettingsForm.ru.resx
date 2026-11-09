@@ -145,7 +145,7 @@
     <value>Экспортировать все...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Настройки пользовательских сервисов</value>
+    <value>ShareX-NVU - Настройки пользовательских сервисов</value>
   </data>
   <data name="lblURLSharingService.Text" xml:space="preserve">
     <value>Сервис отправки ссылок:</value>

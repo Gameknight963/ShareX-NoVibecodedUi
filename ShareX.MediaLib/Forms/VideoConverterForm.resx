@@ -736,7 +736,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Video converter</value>
+    <value>ShareX-NVU - Video converter</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>VideoConverterForm</value>

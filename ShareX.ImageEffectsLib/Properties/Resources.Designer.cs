@@ -73,7 +73,7 @@ namespace ShareX.ImageEffectsLib.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assets folder must be inside ShareX image effects folder..
+        ///   Looks up a localized string similar to Assets folder must be inside ShareX-NVU image effects folder..
         /// </summary>
         internal static string AssetsFolderMustBeInsideShareXImageEffectsFolder {
             get {
