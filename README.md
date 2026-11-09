@@ -1,12 +1,23 @@
-# I need your help!
+  <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/Gameknight963/ShareX-NoVibecodedUi/build.yml?branch=develop&label=Build&cacheSeconds=3600" alt="GitHub Workflow Status"/></a>
+  <a href="./LICENSE.txt"><img src="https://img.shields.io/github/license/Gameknight963/ShareX-NoVibecodedUi?label=License&color=brightgreen&cacheSeconds=3600" alt="License"/></a>
+  <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases/latest"><img src="https://img.shields.io/github/v/release/Gameknight963/ShareX-NoVibecodedUi?label=Release&color=brightgreen&cacheSeconds=3600" alt="Release"/></a>
+  <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases"><img src="https://img.shields.io/github/downloads/Gameknight963/ShareX-NoVibecodedUi/total?label=Downloads&cacheSeconds=3600" alt="Downloads"/></a>
+  <a href="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple"><img src="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple" alt="GitHub Repo Views"></a>
+
+# ShareX-NoVibecodedUi
+
+(ShareX-NVU)
+
+Restoring classic non-vibecoded ShareX. The goal is to attempt to stay true to upstream, but with the old UI.
+
+## I need your help!
 
 ShareX-NoVibecodedUi is my response to the slop ShareX 22. It's going to be quite difficult to maintain on my own, so please, please, submit PRs, issues, post online, anything helps!
 
+If you find this project helpful, consider creating an [issue](https://github.com/Gameknight963/ShareX-NoVibecodedUi/issues) with what you found nice about it! It would make my day.
+
 AI is used, although not extensively, in the development of ShareX-NoVibecodedUi. See the [AI policy](AI_POLICY.md).
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -19,7 +30,6 @@ AI is used, although not extensively, in the development of ShareX-NoVibecodedUi
   <a href="./LICENSE.txt"><img src="https://img.shields.io/github/license/Gameknight963/ShareX-NoVibecodedUi?label=License&color=brightgreen&cacheSeconds=3600" alt="License"/></a>
   <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases/latest"><img src="https://img.shields.io/github/v/release/Gameknight963/ShareX-NoVibecodedUi?label=Release&color=brightgreen&cacheSeconds=3600" alt="Release"/></a>
   <a href="https://github.com/Gameknight963/ShareX-NoVibecodedUi/releases"><img src="https://img.shields.io/github/downloads/Gameknight963/ShareX-NoVibecodedUi/total?label=Downloads&cacheSeconds=3600" alt="Downloads"/></a>
-  <a href="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple"><img src="https://gitviews.com/repo/gameknight963/ShareX-NoVibecodedUi.svg?style=flat&label-color=purple" alt="GitHub Repo Views"></a>
 </div>
 <br>
 <p align="center"><a href="https://getsharex.com"><img src="https://getsharex.com/img/ShareX_Screenshot.png" alt="ShareX Screenshot"/></a></p>
