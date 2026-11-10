@@ -10,13 +10,9 @@
 
 Restoring classic non-vibecoded ShareX. The goal is to attempt to stay true to upstream, but with the old UI.
 
-## I need your help!
+If you find this project helpful, consider creating an [issue](https://github.com/Gameknight963/ShareX-NoVibecodedUi/issues) with what you found nice about it! Your kind words are what keeps this project going.
 
-ShareX-NoVibecodedUi is my response to the slop ShareX 22. It's going to be quite difficult to maintain on my own, so please, please, submit PRs, issues, post online, anything helps!
-
-If you find this project helpful, consider creating an [issue](https://github.com/Gameknight963/ShareX-NoVibecodedUi/issues) with what you found nice about it! It would make my day.
-
-AI is used, although not extensively, in the development of ShareX-NoVibecodedUi. See the [AI policy](AI_POLICY.md).
+AI is used, although not extensively, in the development of ShareX-NoVibecodedUi. See the [AI policy](AI_POLICY.md), and [some commentary](https://github.com/Gameknight963/ShareX-NoVibecodedUi/issues/3) on why I made this decision.
 
 <br>
 <br>
